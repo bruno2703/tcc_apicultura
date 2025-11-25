@@ -1,41 +1,32 @@
-# Dependencias principais do projeto RAG para TCC
-# Instalar com: pip install -r requirements.txt
+# --- Framework e IA ---
+langchain
+langchain-community
+langchain-chroma
+langchain-groq
+langchain-huggingface
+langchain-text-splitters
 
-# LangChain (framework RAG)
-langchain==1.0.8
-langchain-core==1.0.7
-langchain-community==0.4.1
-langchain-chroma==1.0.0
-langchain-groq==1.0.1
-langchain-huggingface==1.0.1
-langchain-text-splitters==1.0.0
+# --- Banco de Vetores ---
+chromadb
+# IMPORTANTE: Necessário para o ChromaDB funcionar no Render/Linux
+pysqlite3-binary 
 
-# Banco de dados vetorial
-chromadb==1.3.5
+# --- Processamento (Versões CPU para Nuvem) ---
+# Removemos as versões +cu118 para ficar leve
+torch
+torchvision
+torchaudio
+sentence-transformers
+transformers
+huggingface-hub
+tokenizers
+numpy
 
-# Modelos de embedding
-sentence-transformers==5.1.2
-transformers==4.57.1
-huggingface-hub==0.36.0
-tokenizers==0.22.1
+# --- API e Web ---
+fastapi
+uvicorn
+python-dotenv
+pydantic
 
-# PyTorch (com suporte CUDA)
-# IMPORTANTE: Se NAO tiver GPU NVIDIA, use: pip install torch torchvision torchaudio
-torch==2.7.1+cu118
-torchvision==0.22.1+cu118
-torchaudio==2.7.1+cu118
-
-# API Groq
-groq==0.36.0
-
-# API Web (FastAPI)
-fastapi==0.122.0
-uvicorn==0.38.0
-
-# Gerenciamento de variaveis de ambiente
-python-dotenv==1.2.1
-
-# Utilitarios
-numpy==2.3.5
-pydantic==2.12.4
-tqdm==4.67.1
+# --- Utilitários ---
+tqdm
