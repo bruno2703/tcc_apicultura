@@ -31,7 +31,7 @@ class ApiculturaRAG:
         print("⏳ Carregando Embeddings (BERT PT-BR)...")
         self.embedding_model = HuggingFaceEmbeddings(
             model_name="ruanchaves/bert-base-portuguese-cased-assin2-similarity",
-            model_kwargs={'device': 'cuda'} # Use 'cpu' se não tiver GPU no servidor
+            model_kwargs={'device': 'cpu'} # Use 'cpu' se não tiver GPU no servidor
         )
 
         # 4. Conectar ao Banco de Vetores
