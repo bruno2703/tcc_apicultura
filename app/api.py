@@ -1,3 +1,9 @@
+# --- Ajustes PARA O RENDER (Injetar SQLite atualizado) ---
+__import__('pysqlite3')
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+# ------------------------------------------------------
+
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 from app.rag_engine import ApiculturaRAG
