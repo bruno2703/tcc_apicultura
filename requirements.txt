@@ -28,6 +28,13 @@ torchaudio==2.7.1+cu118
 # API Groq
 groq==0.36.0
 
+# API Web (FastAPI)
+fastapi==0.122.0
+uvicorn==0.38.0
+
+# Gerenciamento de variaveis de ambiente
+python-dotenv==1.2.1
+
 # Utilitarios
 numpy==2.3.5
 pydantic==2.12.4
