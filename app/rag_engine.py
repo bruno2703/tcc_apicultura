@@ -28,9 +28,9 @@ class ApiculturaRAG:
             raise ValueError("❌ ERRO CRÍTICO: GROQ_API_KEY não encontrada no .env!")
 
         # 3. Carregar Embeddings (O mesmo usado na ingestão)
-        print("⏳ Carregando Embeddings (BERT PT-BR)...")
+        print("⏳ Carregando Embeddings (MiniLM Multilíngue)...")
         self.embedding_model = HuggingFaceEmbeddings(
-            model_name="ruanchaves/bert-base-portuguese-cased-assin2-similarity",
+            model_name="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
             model_kwargs={'device': 'cpu'} # Use 'cpu' se não tiver GPU no servidor
         )
 

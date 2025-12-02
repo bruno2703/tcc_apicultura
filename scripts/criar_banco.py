@@ -7,7 +7,7 @@ from langchain_core.documents import Document
 # --- CONFIGURAÇÕES GERAIS ---
 PASTA_ENTRADA = "manuais_md"      # Onde estão seus textos limpos
 PASTA_SAIDA_DB = "chroma_db"      # Onde o banco será salvo
-NOME_MODELO = "ruanchaves/bert-base-portuguese-cased-assin2-similarity"
+NOME_MODELO = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
 
 def carregar_manuais(pasta):
     """Lê todos os arquivos .md da pasta e retorna uma lista de documentos."""
@@ -50,7 +50,7 @@ def main():
     print(f"\n--- 3. Inicializando Modelo de IA ({NOME_MODELO}) ---")
     embedding_model = HuggingFaceEmbeddings(
         model_name=NOME_MODELO,
-        model_kwargs={'device': 'cuda'} # Use 'cuda' se tiver GPU NVIDIA
+        model_kwargs={'device': 'cpu'} # Use 'cpu' para compatibilidade Render
     )
 
     # 4. CRIAR E SALVAR O BANCO DE DADOS (CHROMA)

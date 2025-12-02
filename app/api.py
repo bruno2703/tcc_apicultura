@@ -1,7 +1,11 @@
 # --- Ajustes PARA O RENDER (Injetar SQLite atualizado) ---
-__import__('pysqlite3')
-import sys
-sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+# Só funciona no Linux (Render), no Windows usa o SQLite nativo
+try:
+    __import__('pysqlite3')
+    import sys
+    sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+except ModuleNotFoundError:
+    pass  # Windows: usa sqlite3 padrão
 # ------------------------------------------------------
 
 from fastapi import FastAPI, HTTPException
