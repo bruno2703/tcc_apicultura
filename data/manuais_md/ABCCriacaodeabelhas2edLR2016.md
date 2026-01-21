@@ -32,19 +32,13 @@ A apicultura é uma atividade que requer conhecimento e dedicação. Seguir as d
 
 ----
 
-### Referências
-- Embrapa. (Ano). Título do documento. Disponível em: [link]
-
 ### Contato
 Para mais informações, entre em contato com a Embrapa ou consulte um apicultor experiente.
-
-
 
 # Criação de Abelhas (Apicultura)
 
 **Empresa Brasileira de Pesquisa Agropecuária**
 **Embrapa Meio-Norte**
-**Ministério da Agricultura, Pecuária e Abastecimento**
 
 **2ª edição revista e atualizada**
 
@@ -106,8 +100,6 @@ A apicultura é uma atividade que requer conhecimento e dedicação. Seguir as p
 
 **Nota:** Este manual é uma referência e deve ser complementado com informações locais e específicas de cada região.
 
-
-
 # Manual Técnico de Apicultura
 
 ## Informações de Contato
@@ -119,28 +111,23 @@ Parque Estação Biológica (PqEB)
 Av. W3 Norte (final)
 70770-901 Brasília, DF
 Fone: (61) 3448-4236
-Fax: (61) 3448-2494
 www.embrapa.br/livraria
 livraria@embrapa.br
 
 **Embrapa Meio-Norte**
-Av. Duque de Caxias, 5.650
 Bairro Buenos Aires
 64006-220 Teresina, PI
 Fone: (86) 3198-0500
-Fax: (86) 3089-9130
 www.embrapa.br
 www.embrapa.br/fale-conosco/sac/
 
 ## Produção Editorial
 
 **Embrapa Informação Tecnológica**
-- **Coordenação Editorial**:
 - Selma Lúcia Lira Beltrão
 - Lucilene Maria de Andrade
 - Nilda Maria da Cunha Sette
 
-- **Revisão Técnica**:
 - Juliana Meireles Fortaleza
 
 - **Supervisão Editorial**:
@@ -149,7 +136,6 @@ www.embrapa.br/fale-conosco/sac/
 - **Projeto Gráfico da Coleção**:
 - Carlos Eduardo Felice Barbeiro
 
-- **Revisão de Texto**:
 - Francisco C. Martins
 
 - **Editoração Eletrônica**:
@@ -184,7 +170,6 @@ Todos os direitos reservados. A reprodução não autorizada desta publicação,
 Embrapa Informação Tecnológica
 **Criação de abelhas: apicultura** / Embrapa Meio Norte. 2. ed. rev. e atual. – Brasília, DF: Embrapa, 2016.
 130 p.: il. - (ABC da Agricultura Familiar, 41).
-ISBN 978-85-7035-650-5
 
 **Classificação**:
 1. Inseto.
@@ -194,9 +179,6 @@ ISBN 978-85-7035-650-5
 I. Embrapa Meio Norte.
 II. Coleção.
 **CDD 638.1**
-©Embrapa 2016
-
-
 
 # Autores
 
@@ -221,12 +203,6 @@ Zootecnista, mestre em Nutrição Animal, professora do Colégio da Villa, Jagua
 - **Bruno de Almeida Souza**
 Engenheiro-agrônomo, doutor em Entomologia, pesquisador da Embrapa Meio-Norte, Teresina, PI
 
-
-
-NO_CONTENT_HERE
-
-
-
 # ABC da Agricultura Familiar
 
 ## Apresentação
@@ -243,33 +219,16 @@ Assim, a Embrapa cumpre o propósito adicional de ajudar a fixar o homem no camp
 Gerente-Geral
 Embrapa Informação Tecnológica
 
-
-
-NO_CONTENT_HERE
-
-
-
 # Manual Técnico de Apicultura
 
 ## Sumário
 
-1. **Criar abelhas, um bom negócio!** .......................... 9
-2. **Um pouco mais sobre as abelhas** .......................... 10
-3. **O veneno das abelhas** ........................................ 12
 4. **Organização social e desenvolvimento das abelhas africanizadas** .......... 13
-5. **Produtos das abelhas** ....................................... 14
-6. **Organização da colônia** .................................... 19
-7. **Desenvolvimento das abelhas** ............................ 24
-8. **Favos** .......................................................... 25
-9. **A comunicação entre as abelhas** ......................... 27
 10. **Controle da temperatura e da umidade na colônia** .... 28
-11. **Apiário** ......................................................... 29
 
 ----
 
 Este manual técnico aborda diversos aspectos da apicultura, desde a criação de abelhas até a organização da colônia e os produtos que elas oferecem. A seguir, cada seção será detalhada para fornecer informações essenciais para apicultores iniciantes e experientes.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -303,8 +262,6 @@ Este manual técnico aborda diversos aspectos da apicultura, desde a criação d
 ## Apicultura como Atividade Comunitária e Associativa
 - **Página 128**
 
-
-
 # Criar Abelhas: Um Bom Negócio!
 
 A criação de abelhas é uma atividade lucrativa e pode ser praticada pelo pequeno produtor rural ou agricultor familiar, com bons resultados. Para isso, além de adotar as técnicas corretas, o criador de abelhas precisa encarar a atividade como um negócio.
@@ -322,8 +279,6 @@ A apicultura, ou criação racional de abelhas, apresenta muitas vantagens, como
 Nesta publicação, o apicultor (criador de abelhas) saberá mais sobre:
 
 - Como as abelhas vivem e se reproduzem.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -361,8 +316,6 @@ Nesta publicação, o apicultor (criador de abelhas) saberá mais sobre:
 ## Um pouco mais sobre as abelhas
 Existem muitas espécies de abelhas, mas aqui trataremos da espécie social com ferrão e que produz mel: a abelha africanizada, muito comum em todo o País. Para obter sucesso nessa atividade, o apicultor precisa conhecer vários aspectos dessas abelhas. Assim, poderá tirar melhor proveito de sua criação.
 
-
-
 # Manual Técnico de Apicultura
 
 ## Estrutura do Corpo da Abelha
@@ -371,7 +324,6 @@ O corpo das abelhas é dividido em três partes principais:
 
 1. **Cabeça**
 - **Olho Composto**: Permite a visão em várias direções.
-- **Antena**: Utilizada para o olfato e a percepção do ambiente.
 - **Língua**: Estrutura adaptada para a coleta de néctar.
 
 2. **Tórax**
@@ -385,14 +337,10 @@ O corpo das abelhas é dividido em três partes principais:
 
 ### Ilustração da Divisão do Corpo da Abelha Africanizada
 
-![Divisão do corpo da abelha africanizada](link_para_imagem)
-
 *Fonte: adaptada de Snodgrass (1956)*
 
 ### Referência
 SNODGRASS, R. E. *The anatomy of the honey bee*. Nova Iorque: Ithaca, 1956. 334 p.
-
-
 
 # O Veneno das Abelhas
 
@@ -405,8 +353,6 @@ O ferrão deve ser retirado raspando-se delicadamente a pele com uma lâmina ou 
 ## Tolerância ao Veneno
 
 A tolerância das pessoas à dose do veneno varia bastante. Há casos de indivíduos que receberam mais de 100 ferroadas e não apresentaram sintomas graves. Entretanto, pessoas muito alérgicas podem ter reações severas.
-
-
 
 ### Organização Social e Desenvolvimento das Abelhas Africanizadas
 
@@ -434,8 +380,6 @@ Para um manejo eficaz das abelhas africanizadas, é importante considerar a orga
 
 O manejo das abelhas africanizadas requer atenção especial devido à sua natureza defensiva. É essencial que os apicultores estejam bem informados sobre as características sociais e comportamentais dessas abelhas para garantir a segurança e a produtividade do apiário.
 
-
-
 # Manual Técnico de Apicultura
 
 ## Estrutura da Colônia
@@ -459,8 +403,6 @@ Os principais produtos das abelhas – e que podem ser explorados pelo apicultor
 - **Geleia real.**
 - **Apitoxina.**
 
-
-
 # Manual Técnico de Apicultura
 
 ## Cera
@@ -470,8 +412,6 @@ A cera produzida pelas abelhas é utilizada para construir favos e fechar os alv
 ## Mel
 
 O mel é um alimento natural de grande valor nutritivo. Contém açúcares, água, sais minerais, pequenas quantidades de vitaminas e outros nutrientes. É produzido pelas abelhas operárias a partir do néctar, um líquido açucarado coletado nas flores. Após a coleta, o néctar passa por algumas modificações para se transformar em mel.
-
-
 
 ### Produção de Mel
 
@@ -492,8 +432,6 @@ A própolis é uma substância resinosa produzida pelas abelhas, resultante da m
 - Cortes nas cascas das árvores.
 
 A própolis é utilizada pelas abelhas para proteger a colmeia, atuando como um antibacteriano natural e ajudando a selar fendas e buracos.
-
-
 
 ### Própolis
 
@@ -517,8 +455,6 @@ Devido ao seu alto valor nutritivo, o pólen apícola também é utilizado na al
 - **Misturado com mel**
 - **Em cápsulas**
 - **Em forma de tabletes**
-
-
 
 # Manual Técnico de Apicultura
 
@@ -546,8 +482,6 @@ A apitoxina, ou veneno de abelha, pode ser extraída por meio de técnicas aprop
 
 **Nota:** A geleia real e a apitoxina são produtos valiosos da apicultura, com diversas aplicações na saúde e bem-estar. É importante que os apicultores estejam cientes das técnicas de extração e comercialização para garantir a qualidade e a segurança dos produtos.
 
-
-
 # Organização da Colônia
 
 Numa colônia, existem três tipos de abelhas:
@@ -570,8 +504,6 @@ Numa colônia, existem três tipos de abelhas:
 
 ### Observação
 Na falta da rainha, algumas operárias podem pôr ovos, mas como não se acasalam, esses ovos não são fecundados e deles só nascem zangões.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -597,14 +529,9 @@ As abelhas produzem cera para a fabricação dos favos, que são estruturas esse
 - **Alvéolos dos Zangões**: Maior que os das operárias.
 - **Realeira**: Célula especial onde a rainha se desenvolve, com formato semelhante a um grão de amendoim.
 
-![Rainha, Operárias e Zangões](link_para_imagem)
-*Fotos: Ricardo Costa Rodrigues de Camargo*
-
 ----
 
 Este manual é uma introdução à estrutura e funcionamento de uma colmeia, essencial para o manejo adequado na apicultura.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -631,8 +558,6 @@ Este manual é uma introdução à estrutura e funcionamento de uma colmeia, ess
 
 Este manual é uma referência para apicultores que desejam entender melhor a dinâmica da colmeia e o papel crucial da rainha no ciclo de vida das abelhas.
 
-
-
 ### Ciclo de Vida da Rainha
 
 #### Acasalamento
@@ -653,8 +578,6 @@ Este manual é uma referência para apicultores que desejam entender melhor a di
 ### Função dos Zangões
 - **Função Principal**: Os zangões são os machos da colônia e sua única função é acasalar com a rainha durante o voo nupcial.
 
-
-
 # Manual Técnico de Apicultura
 
 ## Criação de Zangões
@@ -674,13 +597,9 @@ Quando se substitui a rainha de uma colônia, é fundamental averiguar a existê
 
 ### Imagem
 
-![Alvéolos de zangão e de operária](link_para_imagem)
-
 ----
 
 *Camargo de Rodrigues Costa, Ricardo*
-
-
 
 # Desenvolvimento das Abelhas
 
@@ -705,8 +624,6 @@ Durante sua vida, as abelhas passam por quatro fases: ovo, larva, pupa e adulto.
 - **19 dias** para as operárias.
 
 Este ciclo de desenvolvimento é crucial para a manutenção da colônia e a eficiência das atividades das abelhas.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -744,8 +661,6 @@ O ninho das abelhas, conhecido como colmeia, é formado por **favos**. Os favos 
 
 Essas imagens ajudam a ilustrar as diferentes fases do desenvolvimento das abelhas e são fundamentais para o entendimento do manejo apícola.
 
-
-
 ### Estrutura da Colônia de Abelhas
 
 As colônias de abelhas são organizadas em diferentes tipos de alvéolos, que desempenham funções específicas:
@@ -779,8 +694,6 @@ As larvas de operárias são geralmente localizadas nas partes centrais da colô
 
 A estrutura e o manejo da colônia de abelhas são fundamentais para a saúde e produtividade do apiário. O entendimento das funções dos alvéolos e da alimentação das larvas é essencial para o apicultor que busca otimizar a criação de abelhas e a produção de mel.
 
-
-
 # Comunicação entre as Abelhas
 
 A comunicação entre as abelhas é um aspecto fundamental para a sobrevivência e eficiência da colônia. As abelhas utilizam diversos métodos para se comunicarem, incluindo:
@@ -801,12 +714,9 @@ A dança é um dos principais métodos de comunicação entre as abelhas operár
 
 Além disso, as danças também podem:
 
-- **Impedir que a rainha destrua realeiras.**
 - **Estimular a enxameação.**
 
 Esses métodos de comunicação são essenciais para a organização e o funcionamento da colônia, garantindo que todas as abelhas estejam alinhadas em suas atividades e objetivos.
-
-
 
 # Controle da Temperatura e da Umidade na Colônia
 
@@ -816,8 +726,6 @@ A área de cria da colônia deve ser mantida entre 34 °C e 35 °C. Temperaturas
 - **Causar defeitos físicos nas asas ou em outras partes do corpo das abelhas recém-nascidas.**
 
 As próprias abelhas percebem quando a temperatura e a umidade da colônia não estão normais. Se precisarem resfriar a colônia, elas começam a movimentar as asas rapidamente, fazendo com que uma corrente de ar circule por todo o local. Caso seja necessário, algumas operárias espalham pequenas gotas de água dentro da colônia, o que auxilia na regulação da temperatura.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -850,8 +758,6 @@ As colmeias ou caixas de abelhas têm formato padrão com peças separadas e pod
 ### Considerações Finais
 A construção e o manejo adequado das colmeias são fundamentais para o sucesso na apicultura. É importante seguir as normas e recomendações para garantir a saúde e produtividade das colônias.
 
-
-
 ### Flora Apícola
 
 O apiário deve ser instalado em um local onde haja plantas que produzam flores, que podem ser usadas pelas abelhas como fonte de alimento (néctar e pólen). O conjunto de plantas que fornecem néctar e pólen para as abelhas é chamado de **flora apícola** ou **pasto apícola**.
@@ -863,8 +769,6 @@ O pasto apícola pode ser formado por plantas nativas ou por culturas agrícolas
 O apiário deve ser instalado em um local apropriado. Além da proximidade do pasto...
 
 (continua)
-
-
 
 ### Qualidades Importantes para o Local do Apiário
 
@@ -882,8 +786,6 @@ O apiário deve ser instalado em um local apropriado. Além da proximidade do pa
 
 5. **Fontes de Contaminação**
 - O apiário deve ser localizado a, no mínimo, 3 quilômetros de fontes de contaminação para proteger a qualidade dos produtos apícolas.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -912,8 +814,6 @@ As abelhas necessitam de água para sobreviver, portanto, o apiário deve ser lo
 
 Este guia fornece orientações essenciais para a escolha do local e a manutenção do apiário, garantindo a saúde das abelhas e a segurança das pessoas ao redor.
 
-
-
 # Manual Técnico de Apicultura
 
 ## Consumo de Água
@@ -929,8 +829,6 @@ As colmeias devem ser instaladas sobre cavaletes individuais, de 50 centímetros
 ### Formigas e Cupins
 Para evitar o ataque de formigas e cupins, sugere-se colocar pequenos potes com óleo queimado ao redor do apiário.
 
-
-
 ### Posição das Colmeias
 
 - **Distância**: As colmeias devem ser colocadas a 2 metros de distância uma da outra.
@@ -943,8 +841,6 @@ Para evitar o ataque de formigas e cupins, sugere-se colocar pequenos potes com 
 - **Proteção contra Ventos**: Em locais com ventos fortes ou correntes de ar frio, proteja as colônias:
 - Coloque as colmeias de forma a evitar a entrada dessas correntes de ar, especialmente durante a noite.
 
-
-
 # Tipos de Apiário
 
 ## Apiário Fixo
@@ -955,11 +851,7 @@ Nesse tipo de apiário, as colmeias ficam no mesmo local durante todo o ano, e a
 - **Área de Forrageamento**: As abelhas podem explorar um raio de até 3 quilômetros.
 - **Segurança**: O apiário deve ser cercado para proteger tanto as abelhas quanto as pessoas e animais ao redor.
 
-![Colmeias instaladas em apiário fixo, devidamente cercado e identificado.](link-da-imagem)
-
 *Foto: Ricardo Costa Rodrigues de Camargo*
-
-
 
 # Manual Técnico de Apicultura
 
@@ -983,8 +875,6 @@ Para resolver o problema da entrada de inimigos naturais, é recomendado colocar
 
 Este guia fornece orientações essenciais para o manejo de um apiário migratório, garantindo a saúde e a produtividade das colmeias.
 
-
-
 # Manual Técnico de Apicultura
 
 ## Estruturas de Manejo
@@ -1001,10 +891,8 @@ Este guia fornece orientações essenciais para o manejo de um apiário migrató
 
 ### Imagens
 - **Colmeias em Cavaletes Fixos**
-![Foto: Ricardo Costa Rodrigues de Camargo](#)
 
 - **Colmeias em Cavaletes Móveis Dobráveis**
-![Foto: José Maria Vieira Neto](#)
 
 ### Observações
 - A escolha entre cavaletes fixos ou móveis deve considerar o ambiente de instalação e a facilidade de manejo.
@@ -1012,8 +900,6 @@ Este guia fornece orientações essenciais para o manejo de um apiário migrató
 
 ### Conclusão
 A instalação adequada das colmeias é fundamental para o sucesso da apicultura. Escolher o tipo certo de cavalete pode influenciar diretamente na produtividade e na saúde das colônias.
-
-
 
 # Equipamentos e Produtos Necessários para Criação de Abelhas
 
@@ -1033,8 +919,6 @@ Para o preparo e manejo das colmeias, o apicultor precisa de alguns equipamentos
 ----
 
 Esses são alguns dos principais equipamentos e produtos que um apicultor deve ter para garantir um manejo eficiente e produtivo das colmeias.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -1062,8 +946,6 @@ O esticador de arame é um suporte que pode ser feito de metal ou madeira, proje
 
 - A escolha dos materiais e ferramentas adequadas é fundamental para o sucesso na apicultura, garantindo a saúde das colmeias e a qualidade do mel produzido.
 
-
-
 # Manual Técnico de Apicultura
 
 ## Ferramentas de Apicultura
@@ -1072,19 +954,13 @@ O esticador de arame é um suporte que pode ser feito de metal ou madeira, proje
 - **Descrição**: Ferramenta utilizada para fixar a cera no arame das colmeias.
 - **Função**: Facilita a instalação das lâminas de cera, garantindo que fiquem firmemente presas.
 
-![Carretilha de Apicultor](link_da_imagem)
-
 ### Incrustador Elétrico de Cera
 - **Descrição**: Aparelho elétrico que substitui a carretilha.
 - **Função**: Serve para fixar a cera no arame de forma mais eficiente e rápida, utilizando calor para derreter a cera e aderir ao arame.
 
-![Incrustador Elétrico de Cera](link_da_imagem)
-
 ----
 
 Essas ferramentas são essenciais para o manejo adequado das colmeias e para garantir a qualidade da produção de mel.
-
-
 
 ### Instrumentos de Apicultura
 
@@ -1100,8 +976,6 @@ Essas ferramentas são essenciais para o manejo adequado das colmeias e para gar
 ----
 
 **Nota**: A utilização correta desses instrumentos é fundamental para a manutenção da saúde das colmeias e a segurança do apicultor.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -1122,8 +996,6 @@ Essas ferramentas são essenciais para o manejo adequado das colmeias e para gar
 ----
 
 Essas ferramentas são essenciais para o manejo adequado das colmeias e para garantir a saúde e o bem-estar das abelhas.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -1160,8 +1032,6 @@ As luvas podem ser feitas de diversos materiais, incluindo:
 
 As luvas devem ser escolhidas de acordo com a preferência do apicultor e a necessidade de proteção.
 
-
-
 # Equipamento de Proteção Individual para Atividade Apícola
 
 Os materiais de proteção são essenciais para garantir a segurança durante o trabalho com as abelhas. Abaixo estão os principais itens recomendados:
@@ -1172,8 +1042,6 @@ Os materiais de proteção são essenciais para garantir a segurança durante o 
 - **Altura**: Cano alto
 
 Esses equipamentos ajudam a proteger o apicultor contra picadas e outros riscos associados à atividade apícola. É importante que todos os apicultores utilizem o equipamento adequado para garantir sua segurança e a eficácia do manejo das colmeias.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -1188,8 +1056,6 @@ São vários os modelos de colmeia, mas o apicultor deve usar apenas um deles no
 - **Quadros** (caixilhos)
 
 As medidas das peças devem ser as mesmas em todas as colmeias, e a colmeia mais indicada é o modelo Langstroth. A confecção das colmeias requer que sejam respeitadas, rigorosamente, todas as medidas e detalhes, para que não ocorram problemas durante o manejo e a extração do mel. Assim, é melhor que o apicultor não construa suas próprias colmeias, porque o resultado nem sempre é favorável à produção.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -1211,8 +1077,6 @@ Para garantir maior durabilidade das colmeias, o produtor pode impermeabilizá-l
 - A escolha da madeira e a espessura das tábuas são fundamentais para a eficiência térmica da colmeia.
 - O uso de verniz ecológico contribui para a longevidade da estrutura, protegendo-a contra intempéries e pragas.
 
-
-
 ### Impermeabilização de Colmeias
 
 Atualmente, recomenda-se impermeabilizar as colmeias com verniz ecológico, ao invés de pintá-las. O verniz ecológico pode ser adquirido ou produzido pelo próprio apicultor, usando a seguinte formulação:
@@ -1226,8 +1090,6 @@ Atualmente, recomenda-se impermeabilizar as colmeias com verniz ecológico, ao i
 1. Num vasilhame de plástico (com tampa de rosca), misturam-se todos os ingredientes.
 2. Em seguida, tampa-se o vasilhame, que deve ser chacoalhado duas vezes ao dia, durante 30 dias.
 3. Ao final desse período, a mistura está pronta para ser usada.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -1255,8 +1117,6 @@ Existem ainda outros instrumentos usados para facilitar o manejo produtivo na ap
 
 *Nota: Para um manejo eficiente, é importante que o apicultor escolha a estrutura que melhor se adapta às suas necessidades e à sua região.*
 
-
-
 ### Tela Excluidora de Rainha
 
 **Descrição:**
@@ -1270,7 +1130,6 @@ A tela excluidora de rainha é uma armação feita de madeira, equipada com uma 
 A tela excluidora de rainha é essencial durante o período de entressafra, quando há escassez de alimento para as abelhas, e também durante o transporte de colmeias, pois ajuda a manter a organização e a saúde da colônia.
 
 **Imagem:**
-![Tela excluidora de rainha com malha de metal](#)
 
 **Autores:**
 - Neto Vieira
@@ -1282,8 +1141,6 @@ A tela excluidora de rainha é essencial durante o período de entressafra, quan
 ### Observações
 - A escolha entre malha de metal ou plástico pode depender das condições climáticas e do manejo específico de cada apicultor.
 - É importante verificar periodicamente a tela excluidora para garantir que não haja obstruções que possam prejudicar a passagem das abelhas operárias.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -1308,8 +1165,6 @@ A tela excluidora de rainha é essencial durante o período de entressafra, quan
 
 Essas estruturas são essenciais para o manejo adequado das colmeias, contribuindo para a saúde e produtividade das colônias.
 
-
-
 # Manual Técnico de Apicultura
 
 ## Tela de Transporte
@@ -1323,13 +1178,9 @@ Os alimentadores são dispositivos essenciais para fornecer alimento às abelhas
 ### Montagem dos Quadros
 Durante a preparação das colmeias para produção, é fundamental montar os quadros corretamente. Isso envolve a colocação do arame e da placa de cera alveolada nos quadros, garantindo que as abelhas tenham um espaço adequado para construir seus favos.
 
-![Foto: José Maria Vieira Neto](#)
-
 ----
 
 Este manual é uma referência para apicultores, fornecendo orientações sobre o manejo e a manutenção das colmeias.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -1355,8 +1206,6 @@ Uma vez com o material em mãos, devem-se seguir os seguintes passos:
 ----
 
 **Nota:** A aramação correta dos quadros é fundamental para garantir a estrutura e a durabilidade das colmeias, além de facilitar o manejo das abelhas.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -1387,8 +1236,6 @@ Uma vez com o material em mãos, devem-se seguir os seguintes passos:
 ----
 
 Este guia é essencial para garantir a correta fixação dos quadros nas melgueiras, contribuindo para a eficiência do manejo apícola.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -1422,8 +1269,6 @@ A montagem do arame nos quadros é um passo importante para garantir a estrutura
 
 Este manual é uma referência para apicultores que buscam otimizar suas práticas de manejo e garantir a saúde e produtividade de suas colmeias.
 
-
-
 # Manual Técnico de Apicultura
 
 ## Enrolamento do Arame
@@ -1451,8 +1296,6 @@ Na apicultura racional, a utilização da placa de cera alveolada é indispensá
 
 Este manual é uma referência para apicultores que buscam otimizar suas práticas e aumentar a eficiência na produção de mel.
 
-
-
 ### Fixação da Placa de Cera no Quadro
 
 Para garantir um encaixe adequado da placa de cera no quadro, é importante seguir as seguintes orientações:
@@ -1473,8 +1316,6 @@ Para garantir um encaixe adequado da placa de cera no quadro, é importante segu
 ### Nota
 - A prática de fixação da placa de cera deve ser realizada com cuidado para evitar desperdícios e garantir a eficiência do manejo apícola.
 
-
-
 ### Instruções para Passagem da Placa entre os Fios de Arame
 
 1. **Passagem da Placa**:
@@ -1484,13 +1325,9 @@ Para garantir um encaixe adequado da placa de cera no quadro, é importante segu
 - Encaixar a placa na canaleta da parte superior do quadro (parte mais larga).
 - Trabalhar sempre com o quadro com a parte mais larga voltada para baixo.
 
-![Foto: José Maria Vieira Neto](#)
-
 ### Observações
 - Certifique-se de que a placa esteja bem posicionada para evitar qualquer deslizamento.
 - A alternância na passagem entre os fios de arame é crucial para garantir a estabilidade da placa.
-
-
 
 ### Encaixe da Placa de Cera no Quadro
 
@@ -1502,8 +1339,6 @@ Para garantir um encaixe adequado da placa de cera no quadro, é importante segu
 - Certifique-se de que a cera escorra por toda a extensão da canaleta.
 
 **Nota:** A cera não deve estar muito quente, para evitar que derreta a placa de cera.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -1528,8 +1363,6 @@ Para garantir um encaixe adequado da placa de cera no quadro, é importante segu
 
 Este procedimento é essencial para garantir a correta fixação da cera nos quadros, promovendo um ambiente adequado para as abelhas trabalharem.
 
-
-
 # Manual Técnico de Apicultura
 
 ## Povoação das Colmeias
@@ -1548,8 +1381,6 @@ A passagem da carretilha é um processo importante para fixar a cera no arame da
 
 **Nota:** É fundamental que o apicultor esteja sempre atento às condições das colmeias e ao manejo adequado para garantir a saúde e produtividade das abelhas.
 
-
-
 ### Captura de Enxames na Natureza
 
 #### Captura Passiva
@@ -1564,8 +1395,6 @@ Para facilitar a aceitação das abelhas à nova caixa, recomenda-se:
 - **Pincelar o interior da caixa** com uma mistura de própolis e água.
 - **Usar extrato de capim-limão ou capim-cidreira (Cymbopogon citratus)**.
 - **Esfregar folhas de capim-limão** no interior das caixas, pois isso deixa a madeira com um cheiro mais atrativo para as abelhas.
-
-
 
 ### Captura de Enxames
 
@@ -1588,8 +1417,6 @@ Para facilitar a aceitação das abelhas à nova caixa, recomenda-se:
 
 - O manejo adequado na captura e transporte de enxames é crucial para o sucesso da apicultura, garantindo a segurança e a saúde das colônias.
 
-
-
 # Manual Técnico de Apicultura
 
 ## Captura de Enxames em Voo de Deslocamento
@@ -1606,13 +1433,9 @@ A captura de enxames em voo de deslocamento é realizada quando um enxame de abe
 
 ### Imagem
 
-![Caixa-isca instalada em árvore](link_da_imagem)
-
 ### Nota
 
 A captura de enxames é uma prática importante na apicultura, pois permite a expansão do apiário e a manutenção da saúde das colônias.
-
-
 
 ### Captura de Enxame
 
@@ -1631,8 +1454,6 @@ Para capturar um enxame de abelhas, siga os passos abaixo:
 
 ### Observação
 - Este método é eficaz para enxames que estão instalados em galhos de árvores ou em locais acessíveis. É importante realizar a captura com cuidado para não ferir as abelhas e garantir a segurança do apicultor.
-
-
 
 # Captura de Enxame Fixo
 
@@ -1654,8 +1475,6 @@ Antes da coleta, o produtor deve providenciar o seguinte material:
 
 - A captura de enxames fixos deve ser realizada com cuidado para evitar ferimentos tanto nas abelhas quanto no apicultor.
 - É importante ter paciência e seguir todos os passos de forma metódica para garantir o sucesso da operação.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -1686,8 +1505,6 @@ O manejo adequado do enxame fixo é essencial para a produção de mel e a saúd
 ### Foto
 *Foto: José Maria Vieira Neto*
 
-
-
 ### Manejo do Enxame
 
 Após a localização do enxame, siga os passos abaixo para um manejo adequado:
@@ -1717,8 +1534,6 @@ Após a localização do enxame, siga os passos abaixo para um manejo adequado:
 
 **Autores**: Neto Vieira, Maria José.
 
-
-
 # Manual Técnico de Apicultura
 
 ## Remoção dos Favos
@@ -1743,8 +1558,6 @@ Após a localização do enxame, siga os passos abaixo para um manejo adequado:
 ### Conclusão
 A remoção dos favos e a coleta das operárias são etapas cruciais no manejo de enxames. A atenção aos detalhes e o cuidado com as abelhas são fundamentais para o sucesso da apicultura.
 
-
-
 ### Manejo de Colmeias
 
 #### Remoção de Restos de Favos
@@ -1763,8 +1576,6 @@ A remoção dos favos e a coleta das operárias são etapas cruciais no manejo d
 ### Observações
 - A divisão de colônias deve ser feita com cautela para não comprometer a produção de mel.
 - Monitorar a saúde e a produtividade das colônias antes de tomar decisões de manejo.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -1790,8 +1601,6 @@ Os métodos de divisão podem variar, mas todos devem seguir os princípios menc
 ### Conclusão
 
 A divisão de colônias é uma técnica que, quando realizada corretamente, pode aumentar a produtividade e a saúde das colônias de abelhas. É essencial seguir os princípios básicos e adaptar as práticas às necessidades específicas de cada apiário.
-
-
 
 ### Divisão de Colônias
 
@@ -1820,15 +1629,11 @@ A divisão de colônias é uma prática importante na apicultura, especialmente 
 ### Observações Finais
 - A prática de divisão de colônias deve ser realizada com cuidado e atenção, garantindo que todas as etapas sejam seguidas para maximizar a saúde e a produtividade das novas colônias.
 
-
-
 # Manual Técnico de Apicultura
 
 ## Como Cuidar das Colmeias
 
 A criação de abelhas africanizadas exige muita dedicação e cuidados. Não compensa ter um apiário com várias colmeias se elas não produzirem bem e não derem lucro. Certos procedimentos são fundamentais para o sucesso na apicultura, e os principais serviços que se devem executar são descritos a seguir.
-
-### Revisão das Colmeias
 
 O apicultor precisa estar sempre informado sobre suas colmeias. As seguintes perguntas devem ser feitas regularmente:
 
@@ -1839,11 +1644,7 @@ O apicultor precisa estar sempre informado sobre suas colmeias. As seguintes per
 
 Essas revisões são essenciais para garantir a saúde e a produtividade das colmeias.
 
-
-
 # Manual Técnico de Apicultura
-
-## Revisão das Colmeias
 
 ### Questões a serem observadas
 - Estão ocorrendo doenças ou pragas?
@@ -1863,14 +1664,9 @@ As revisões perturbam muito o trabalho das abelhas, portanto, devem ser feitas 
 ### Observações
 A frequência e o cuidado nas revisões são essenciais para a saúde das colmeias e a eficiência na produção de mel.
 
-
-
 # Manual Técnico de Apicultura
 
-## Revisão das Colmeias
-
 ### Após as Principais Floradas
-- Realizar uma revisão completa no ninho para preparar a colmeia para o período de entressafra.
 
 ### Durante a Entressafra
 As revisões devem ser feitas mensalmente com os seguintes objetivos:
@@ -1882,7 +1678,6 @@ As revisões devem ser feitas mensalmente com os seguintes objetivos:
 ### Orientações para Revisões
 Para que as revisões não atrapalhem o trabalho das abelhas, siga as orientações abaixo:
 
-- **Horários de Revisão**:
 - Das 8 às 11 horas da manhã.
 - Das 3 às 5 e meia da tarde.
 
@@ -1893,8 +1688,6 @@ Nesses horários, a maioria das operárias está no campo, coletando néctar e p
 
 - **Equipamento**:
 - Usar roupa de apicultor que deve estar bem limpa, ser de cor clara e sem rasgões.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -1909,8 +1702,6 @@ Nesses horários, a maioria das operárias está no campo, coletando néctar e p
 ## Uso do Fumigador
 
 - Sempre que se revisam as colmeias ou se colhe mel, deve-se usar o fumigador.
-
-
 
 ### Uso do Fumigador na Apicultura
 
@@ -1938,10 +1729,6 @@ Esses materiais podem prejudicar as abelhas e contaminar o mel.
 
 Essas práticas ajudam a garantir um manejo seguro e eficaz das colmeias, minimizando o estresse das abelhas e preservando a qualidade do mel.
 
-
-
-### Procedimentos durante a Revisão da Colmeia
-
 1. **Remoção da Tampa**
 - Remover a tampa da colmeia com cuidado, evitando movimentos bruscos que possam agitar as abelhas.
 
@@ -1958,8 +1745,6 @@ Ao retirar os quadros, um a um, pelas laterais da colmeia, deve-se observar:
 - **Presença de Ovos**
 - Checar se existem ovos nas áreas de cria.
 - **Nota:** A presença de muitas falhas nessas áreas pode ser um sinal de que a rainha está velha e fraca.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -1978,8 +1763,6 @@ Ao retirar os quadros, um a um, pelas laterais da colmeia, deve-se observar:
 
 ### Observações Finais
 É importante monitorar regularmente as colmeias para identificar esses sinais e tomar as devidas providências para garantir a saúde e produtividade da colônia.
-
-
 
 ### Nota Importante
 É fundamental observar a presença de sapos, lagartixas ou outros animais nas proximidades das colmeias.
@@ -2002,8 +1785,6 @@ Ao retirar os quadros, um a um, pelas laterais da colmeia, deve-se observar:
 
 ### Observações Finais
 - A manutenção regular e a observação atenta das colmeias são essenciais para a saúde e produtividade das colônias.
-
-
 
 ### Manejo de Colônias de Abelhas
 
@@ -2031,8 +1812,6 @@ Para colmeias que se encontram em condições extremas, seja muito fracas (com p
 
 Essas práticas ajudam a manter a saúde e a produtividade das colônias, garantindo um manejo eficiente na apicultura.
 
-
-
 # Colônias Fracas
 
 As colônias fracas precisam ser fortalecidas, pois, além de não produzirem nada, estão mais sujeitas a sofrer ataques de pragas e doenças das abelhas. Geralmente, as colônias ficam fracas (com poucas abelhas) quando:
@@ -2049,8 +1828,6 @@ Existem muitas maneiras de fortalecer as colônias:
 - **Fornecendo alimentação** (será explicado mais adiante).
 - **Fornecendo favos com crias fechadas**, retirados de outras colônias mais fortes. É importante lembrar que essas crias devem estar na fase de pupa.
 
-
-
 ### Manejo de Colônias Fracas
 
 #### Alimentação e Cuidado com as Criadeiras
@@ -2066,8 +1843,6 @@ Existem muitas maneiras de fortalecer as colônias:
 ----
 
 Essas práticas são essenciais para o manejo adequado de colônias fracas, garantindo a sobrevivência e a produtividade das abelhas.
-
-
 
 ### Instruções para União de Colônias
 
@@ -2098,8 +1873,6 @@ Para unir duas colônias de abelhas, siga as etapas abaixo:
 - A utilização do papel e do mel ajuda a suavizar a interação entre as abelhas das duas colônias, reduzindo o risco de agressões.
 - É importante monitorar a nova colônia após a união para garantir que a adaptação ocorra de forma tranquila.
 
-
-
 ### União de Enxames pelo Método das Folhas de Papel
 
 #### Introdução
@@ -2117,8 +1890,6 @@ O método das folhas de papel é uma técnica utilizada na apicultura para unir 
 
 ### Considerações Finais
 A união de enxames é uma prática importante na apicultura, pois pode ajudar a fortalecer colônias e melhorar a produção de mel. A introdução de uma nova rainha é um passo crucial para garantir a saúde e a produtividade da colônia.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -2145,8 +1916,6 @@ A pilhagem, ou saque, refere-se ao roubo de mel das colmeias por operárias de c
 
 Este manual é um guia para práticas de manejo e cuidados com as colônias de abelhas, visando a saúde e produtividade do apiário.
 
-
-
 ### Instruções para Prevenir Pilhagem em Colmeias
 
 A pilhagem é um problema comum em apiários, especialmente quando há colônias fracas. Para evitar que isso ocorra, siga as instruções abaixo:
@@ -2171,8 +1940,6 @@ A pilhagem é um problema comum em apiários, especialmente quando há colônias
 
 Seguindo essas orientações, você pode ajudar a proteger suas colmeias e garantir a saúde e a produtividade de suas colônias.
 
-
-
 ### Manejo de Colmeias
 
 #### Redução de Colmeias
@@ -2186,8 +1953,6 @@ Durante as revisões, o apicultor deve:
 - Marcar e trocar os quadros que estejam com arame partido, peças quebradas ou cera velha, principalmente aqueles já naturalmente rejeitados pelas abelhas.
 - Se os favos velhos ou danificados estiverem com cria, transferi-los para as laterais da colmeia e deixá-los permanecer até o nascimento das abelhas, para então serem substituídos.
 - Substituir esses quadros por outros com cera alveolada de boa qualidade.
-
-
 
 ### Produção de Cera
 
@@ -2206,8 +1971,6 @@ A qualidade da rainha é um fator determinante para a população de uma colôni
 - **Poucas células vazias**: A presença de células vazias na região de cria deve ser mínima, indicando uma boa eficiência na postura.
 
 A avaliação regular das rainhas é uma prática recomendada para garantir a saúde e a produtividade do apiário.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -2240,8 +2003,6 @@ Com o envelhecimento da rainha, a área de cria tende a diminuir. É comum encon
 
 A saúde da rainha é crucial para a produtividade da colônia. A observação atenta dos quadros de postura pode ajudar a identificar problemas precocemente e garantir a continuidade da produção de mel.
 
-
-
 ### Manual Técnico de Apicultura
 
 #### Substituição de Rainhas
@@ -2267,8 +2028,6 @@ A saúde das abelhas é um aspecto crucial na apicultura. Colônias doentes ou f
 
 Este manual visa fornecer diretrizes para otimizar a produção e a saúde das colônias de abelhas, garantindo um manejo eficiente e sustentável.
 
-
-
 # Manual Técnico de Apicultura
 
 ## Aspectos a Considerar na Substituição de Rainhas
@@ -2293,8 +2052,6 @@ Quando da substituição das rainhas, recomenda-se:
 - **Verificação da Fecundação**:
 - Certificar-se de que a rainha está fecundada. Se ela for virgem, é importante observar se existem zangões no apiário.
 
-
-
 ### Introdução de Nova Rainha na Colmeia
 
 #### Procedimentos a Seguir:
@@ -2313,8 +2070,6 @@ Quando da substituição das rainhas, recomenda-se:
 
 #### Atenção!
 - Uma semana após a introdução da nova rainha, é importante realizar uma revisão na colmeia para verificar se ela foi aceita. A presença de realeiras ou a ausência de ovos são sinais de que a nova rainha não foi aceita.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -2361,15 +2116,11 @@ Nas épocas do ano em que falta alimento para as abelhas, o apicultor deve forne
 
 A alimentação adequada é crucial para a saúde e produtividade das colônias de abelhas. O apicultor deve estar sempre atento às necessidades alimentares das abelhas, especialmente em períodos críticos.
 
-
-
 # Manual Técnico de Apicultura
 
 ## Manejo de Colônias Enfraquecidas
 
 Quando as colônias estão enfraquecidas, as abelhas ficam doentes e as colmeias são atacadas por inimigos naturais, como traças e formigas. O resultado é a queda na produção de mel e prejuízos para o apicultor.
-
-### Revisão e Alimentação das Colônias
 
 Para evitar que os enxames sofram com a falta de alimento no campo, deve-se revisar as colônias periodicamente e alimentá-las quando necessário. Dependendo da região, em épocas secas, chuvosas ou frias, pode haver falta de néctar e pólen.
 
@@ -2388,8 +2139,6 @@ Para evitar que os enxames sofram com a falta de alimento no campo, deve-se revi
 ----
 
 Este manual deve ser utilizado como guia para o manejo adequado das colônias, visando a saúde das abelhas e a maximização da produção de mel.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -2413,8 +2162,6 @@ A alimentação das abelhas pode ser adaptada de acordo com os alimentos dispon�
 
 **Nota:** Esse xarope deve ser preparado no mesmo dia em que for utilizado. Deve ser fornecido duas vezes por semana, e o que não for consumido pelas abelhas em até 24 horas deve ser descartado.
 
-
-
 # Manual Técnico de Apicultura
 
 ## Alimentação das Abelhas
@@ -2436,8 +2183,6 @@ O xarope invertido é um alimento recomendado e bastante utilizado para alimenta
 ### Observações
 - É importante que o xarope não fermente, pois isso pode prejudicar a saúde das abelhas. Portanto, qualquer resíduo de xarope deve ser recolhido e eliminado para evitar que as abelhas se alimentem de xarope fermentado.
 
-
-
 ### Alimento para Abelhas
 
 **Nota:** A vantagem desse alimento é que o ácido não deixa o xarope fermentar facilmente, permitindo que ele permaneça nas colmeias por mais de 24 horas.
@@ -2457,8 +2202,6 @@ Geralmente, os apicultores usam farelo de soja e farelo de milho, conforme descr
 
 #### Como Usar
 - Fornecer 200 g desse alimento duas vezes por semana.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -2495,8 +2238,6 @@ Essa formulação pode ser fornecida diretamente ou misturada com farinha de mil
 
 Essa alternativa é uma forma eficaz de suplementar a alimentação das abelhas, especialmente em períodos de escassez de recursos.
 
-
-
 # Manual Técnico de Apicultura
 
 ## Preparação de Alimentos para Abelhas
@@ -2524,8 +2265,6 @@ Para preparar o pó, siga os passos abaixo:
 
 **Importante:** Certifique-se de que tudo fique bem moído, semelhante à farinha de trigo ou polvilho/goma de mandioca.
 
-
-
 ### Preparação de Alimentos para Abelhas
 
 Todos esses pós devem ser misturados com xarope, xarope invertido ou mel, formando uma pasta mole. A consistência dessa pasta é importante, pois se ela ficar muito dura, as abelhas não conseguem recolher o alimento; se ficar muito mole e pegajosa, as abelhas morrerão grudadas nela.
@@ -2537,8 +2276,6 @@ Todos esses pós devem ser misturados com xarope, xarope invertido ou mel, forma
 ### Como Fornecer Alimento
 
 A alimentação das abelhas pode ser fornecida tanto em alimentadores individuais quanto em alimentadores coletivos. Cada modelo tem suas vantagens e desvantagens, cabendo ao apicultor escolher o tipo mais adequado à condição do apiário.
-
-
 
 ### Alimentador Coletivo
 
@@ -2559,8 +2296,6 @@ Apesar de sua praticidade, o alimentador coletivo apresenta algumas desvantagens
 ### Considerações Finais
 Ao optar pelo uso de um alimentador coletivo, é importante avaliar as condições do apiário e as características das colônias, para minimizar os riscos associados e maximizar os benefícios.
 
-
-
 ### Alimentadores Coletivos e Individuais
 
 #### Alimentadores Coletivos
@@ -2578,8 +2313,6 @@ Ao optar pelo uso de um alimentador coletivo, é importante avaliar as condiçõ
 - **Instalação**: Instalado na entrada da colmeia.
 - **Uso**: Utilizado apenas para alimentos líquidos.
 
-
-
 ### Alimentador de Boardman
 
 O alimentador de Boardman é um dispositivo prático utilizado na apicultura, que consiste em um vidro invertido sobre um suporte de madeira, parcialmente introduzido no alvado da colmeia.
@@ -2591,13 +2324,10 @@ O alimentador de Boardman é um dispositivo prático utilizado na apicultura, qu
 - **Incentivo ao saque**: A exposição do alimento pode atrair abelhas de outras colmeias, incentivando o saque.
 
 #### Imagem:
-![Colmeia com alimentador de Boardman](link_para_imagem)
 
 ----
 
 **Nota**: É importante monitorar o uso do alimentador para evitar problemas de competição entre colmeias.
-
-
 
 ### Alimentador de Cobertura ou de Bandeja
 
@@ -2614,8 +2344,6 @@ Colmeia com alimentador de cobertura.
 - **Material**: Madeira ou chapa de alumínio.
 - **Tipos de alimento**: Líquido, sólido ou pastoso.
 - **Revestimento**: Importante para evitar vazamentos ao fornecer alimentos líquidos.
-
-
 
 ### Alimentadores para Abelhas
 
@@ -2640,8 +2368,6 @@ Para reduzir os custos, o alimentador tradicional pode ser substituído por uma 
 ### Conclusão
 A escolha do alimentador adequado é crucial para a saúde das abelhas e a eficiência do manejo apícola. Considere as condições climáticas e o custo ao selecionar o tipo de alimentador a ser utilizado.
 
-
-
 ### Alimentador Doolittle ou de Cocho Interno
 
 O alimentador Doolittle, também conhecido como alimentador de cocho interno, é projetado para ser utilizado dentro da colmeia, substituindo um dos quadros de ninho ou melgueira. Este tipo de alimentador é especialmente útil para fornecer alimento líquido às abelhas.
@@ -2651,12 +2377,9 @@ O alimentador Doolittle, também conhecido como alimentador de cocho interno, é
 - **Design Interno**: A parte interna do alimentador deve ser rugosa. Isso é crucial para evitar que as abelhas se afoguem no alimento líquido, permitindo que elas subam e saiam com segurança do alimentador.
 
 #### Imagem:
-![Colmeia com alimentador Doolittle](#)
 
 #### Referência:
 Camargo de Rodrigues Costa, Ricardo.
-
-
 
 # Coleta do Mel
 
@@ -2669,8 +2392,6 @@ Para coletar o mel, o apicultor deve usar os EPIs próprios para atividade apíc
 ## Clima
 
 A colheita do mel deve ser feita em dias ensolarados, a partir das 9 horas da manhã e até as 4 horas da tarde. Depois de coletadas, as melgueiras não devem ficar ao sol por muito tempo, pois podem comprometer a qualidade do mel.
-
-
 
 ### Uso da Fumaça
 
@@ -2686,8 +2407,6 @@ Durante a coleta do mel, deve-se observar cada quadro e retirar apenas os que...
 
 (continuação do texto não fornecida)
 
-
-
 ### Escolha dos Quadros de Mel Adequados para Coleta
 
 Para garantir a qualidade do mel a ser colhido, é fundamental observar alguns critérios na escolha dos quadros. Os quadros devem estar com, no mínimo, 90% de alvéolos tapados (operculados com uma fina camada protetora de cera). Isso indica que o mel está "maduro", ou seja, apresenta baixo teor de umidade.
@@ -2697,8 +2416,6 @@ Para garantir a qualidade do mel a ser colhido, é fundamental observar alguns c
 - Grande quantidade de pólen.
 
 Esses cuidados são essenciais para assegurar que o mel colhido tenha a melhor qualidade possível e que a colmeia continue saudável e produtiva.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -2716,8 +2433,6 @@ Esses cuidados são essenciais para assegurar que o mel colhido tenha a melhor q
 ### Recomendações
 - Utilize carrinhos ou outros dispositivos de transporte para minimizar o esforço físico.
 - Sempre mantenha as melgueiras em superfícies limpas e elevadas para evitar contaminação.
-
-
 
 ### Manual Técnico de Apicultura
 
@@ -2747,8 +2462,6 @@ A colheita do mel é uma etapa crucial na apicultura e deve ser realizada com cu
 
 - A qualidade do mel pode ser comprometida por poeira, terra e pedaços de plantas. Portanto, é essencial seguir as recomendações de manejo e transporte para garantir um produto final de alta qualidade.
 
-
-
 # Manual Técnico de Apicultura
 
 ## Colheita de Mel
@@ -2769,13 +2482,10 @@ Feche a melgueira para evitar que os quadros de mel fiquem cheios de abelhas.
 - Utilize equipamentos de proteção adequados para evitar picadas.
 
 ### Fotos
-- Fotos: Ricardo Costa Rodrigues de Camargo
 
 ----
 
 Este guia fornece um resumo das etapas essenciais para a colheita de mel, garantindo eficiência e segurança no manejo das colmeias.
-
-
 
 # Cuidados com o Veículo Durante o Transporte
 
@@ -2798,8 +2508,6 @@ O veículo a ser usado no transporte das melgueiras – do apiário até a casa 
 
 Seguir essas orientações é fundamental para garantir a qualidade do mel e a saúde das abelhas durante o transporte.
 
-
-
 ### Transporte de Melgueiras
 
 **Importância da Proteção contra o Sol:**
@@ -2817,8 +2525,6 @@ Seguir essas orientações é fundamental para garantir a qualidade do mel e a s
 
 **Nota:** Sempre verifique as condições do transporte e a integridade das melgueiras para evitar perdas e garantir a qualidade do mel.
 
-
-
 ### Transporte de Melgueiras
 
 - **Cobertura**: As melgueiras que já estão no veículo devem permanecer cobertas durante o transporte.
@@ -2831,8 +2537,6 @@ Seguir essas orientações é fundamental para garantir a qualidade do mel e a s
 
 Para garantir a qualidade final de qualquer produto alimentício, é fundamental que o mel seja manipulado em conformidade com todos os preceitos de higiene. As instalações devem ser adequadas, preferencialmente em uma "casa do mel" ou em um entreposto, quando necessário.
 
-
-
 # Unidade de Extração de Produtos Apícolas
 
 A Unidade de Extração de Produtos Apícolas (Uepa), ou casa do mel, deve ser construída obedecendo às normas vigentes na Portaria nº 326, de 30 de julho de 1997, do Ministério da Saúde, sobre as Condições Higienico-Sanitárias e de Boas Práticas de Fabricação (BPFs) para Estabelecimentos Elaboradores e Industrializadores de Alimentos.
@@ -2843,7 +2547,6 @@ A Uepa deve ser projetada para facilitar a extração e o processamento do mel, 
 
 Por isso, é importante que a Uepa disponha de:
 
-- **Espaço adequado** para a recepção do mel.
 - **Equipamentos de extração** que garantam a qualidade do produto.
 - **Áreas de armazenamento** que mantenham as condições ideais de temperatura e umidade.
 - **Instalações para limpeza** e desinfecção de utensílios e equipamentos.
@@ -2852,16 +2555,11 @@ Por isso, é importante que a Uepa disponha de:
 
 Esses elementos são fundamentais para garantir a qualidade e a segurança dos produtos apícolas.
 
-
-
 # Manual Técnico de Apicultura
 
 ## Estruturas de Manejo
 
 ### Áreas de Trabalho
-
-1. **Área de Recepção**
-- Local destinada à recepção do mel e outros produtos apícolas.
 
 2. **Área de Extração e Manipulação**
 - Espaço onde ocorre a extração do mel e o processamento inicial.
@@ -2891,8 +2589,6 @@ Esses elementos são fundamentais para garantir a qualidade e a segurança dos p
 
 Este manual é um guia para garantir a eficiência e a higiene nas operações de apicultura, promovendo a qualidade do mel produzido.
 
-
-
 # Manual Técnico de Apicultura
 
 ## Planta Baixa de uma Casa do Mel
@@ -2903,7 +2599,6 @@ Este manual é um guia para garantir a eficiência e a higiene nas operações d
 Entrada                         Saída
 
 Legenda
-1 Recepção      A Estrado              F Armário
 2 Área de       B Pia                  G Chuveiro
 manipulação     C Mesa                 H Sanitário
 3 Expedição     desoperculadora        I  Porta
@@ -2913,23 +2608,19 @@ Vestiário       E Decantador
 J    J
 
 D  E  E  E  G  F  4  BI
-2           H
 
 J    C      I
 
 I    A    B    F     J
 
-3
 A
 
 J
-J         1
 A     I    I
 ```
 
 ### Descrição dos Ambientes
 
-1. **Recepção**: Área destinada ao recebimento de visitantes e clientes.
 2. **Área de Manipulação**: Espaço onde ocorre o processamento do mel, incluindo a desoperculadora e a centrífuga.
 3. **Expedição**: Local para a embalagem e envio dos produtos.
 4. **Banheiro/Vestiário**: Área de higiene e troca de roupas para os trabalhadores.
@@ -2949,13 +2640,9 @@ A     I    I
 
 ### Ilustração
 
-*Ilustração: Jacira Gardênia de S. Rêgo.*
-
 ----
 
 Este layout é fundamental para a organização e eficiência no manejo da apicultura, garantindo um fluxo de trabalho adequado e a qualidade do produto final.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -2978,8 +2665,6 @@ Toda a construção deve apresentar características que facilitem a higienizaç
 - Devem ser de material resistente, não absorvente e de fácil higienização.
 - Também devem ser dotadas de telas para proteção.
 
-
-
 # Manual Técnico de Apicultura
 
 ## Estruturas de Manejo
@@ -3000,8 +2685,6 @@ Toda a construção deve apresentar características que facilitem a higienizaç
 - Boa ventilação.
 - Vasos sanitários.
 - Pias em cerâmica.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -3031,8 +2714,6 @@ Toda a construção deve apresentar características que facilitem a higienizaç
 
 Este manual é uma referência para garantir que as instalações utilizadas na apicultura estejam em conformidade com as normas de higiene e segurança, promovendo um ambiente adequado para a prática da apicultura.
 
-
-
 ### Iluminação e Ventilação
 
 - **Iluminação**: Deve-se usar lâmpadas de luz fria, protegidas contra quedas e explosões.
@@ -3046,8 +2727,6 @@ Os equipamentos e utensílios que terão contato direto com o mel devem ser de a
 
 - **Material**: Aço inoxidável com cabo de plástico.
 - **Descrição**: Dotado de vários filetes pontiagudos, é utilizado para retirar os opérculos. Para isso, deve-se introduzi-lo paralelamente à superfície do favo.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -3075,8 +2754,6 @@ Os equipamentos e utensílios que terão contato direto com o mel devem ser de a
 - A desoperculação deve ser feita com cuidado para evitar danos aos alvéolos, garantindo a integridade do favo e a qualidade do mel.
 - É importante manter as ferramentas limpas e em boas condições para garantir a eficiência do processo.
 
-
-
 # Manual Técnico de Apicultura
 
 ## Equipamentos de Extração de Mel
@@ -3092,14 +2769,12 @@ A centrífuga é o equipamento que recebe os quadros já desoperculados para ret
 - **Elétrica**: Equipadas com motor, facilitam o processo de extração e podem ser ajustadas para diferentes velocidades.
 
 ### Imagens
-- **Mesa Desoperculadora**: ![Mesa desoperculadora](link_para_imagem)
-- **Centrífuga Elétrica**: ![Centrífuga elétrica](link_para_imagem)
+- **Mesa Desoperculadora**: 
+- **Centrífuga Elétrica**: 
 
 ### Observações
 - A escolha entre centrífuga manual ou elétrica deve considerar o volume de produção e a capacidade de investimento do apicultor.
 - É importante realizar a manutenção regular dos equipamentos para garantir a eficiência e a durabilidade.
-
-
 
 ### Equipamentos para Filtragem e Transporte do Mel
 
@@ -3109,13 +2784,9 @@ As peneiras são utilizadas para filtrar as impurezas presentes no mel, como ped
 #### Baldes
 Os baldes são recipientes essenciais para receber o mel centrifugado e transportá-lo até o decantador.
 
-![Balde com peneira recebendo mel da centrífuga.](#)
-
 ----
 
 **Nota:** A utilização adequada desses equipamentos é fundamental para garantir a qualidade do mel produzido.
-
-
 
 ### Decantador
 
@@ -3144,8 +2815,6 @@ O decantador é fundamental para garantir a qualidade do mel, permitindo que imp
 
 O uso adequado do decantador contribui significativamente para a qualidade do mel produzido e para a eficiência do processo de apicultura.
 
-
-
 # Conservação e Limpeza dos Equipamentos e Utensílios
 
 ## Manutenção dos Equipamentos
@@ -3168,8 +2837,6 @@ As pessoas que irão trabalhar na Uepa devem estar cientes das normas vigentes n
 - Uso de touca na cabeça e máscara no rosto é obrigatório.
 - Calçados devem ser de borracha.
 
-
-
 # Apicultura como Atividade Comunitária e Associativa
 
 ## Introdução
@@ -3186,8 +2853,6 @@ A apicultura pode ser uma fonte significativa de renda para pequenas comunidades
 ## Conclusão
 A apicultura, quando bem estruturada e gerida, pode trazer benefícios econômicos e sociais significativos para as comunidades, promovendo a cooperação e o desenvolvimento local.
 
-
-
 # Manual Técnico de Apicultura
 
 ## Organização em Grupo para Financiamento
@@ -3200,8 +2865,6 @@ Uma das possibilidades que facilitam a obtenção de financiamento é a organiza
 - **Vender sua produção com uma marca comercial e em embalagens que estimulem os consumidores a comprar o produto por um preço justo.**
 
 Além disso, com a associação, os produtores podem organizar mutirões, quando necessário, e operar uma unidade de extração de produtos apícolas em comunidade.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -3222,8 +2885,6 @@ Quando você se associa com outros membros de sua comunidade, as vantagens são 
 ### Atenção
 
 Para mais informações e esclarecimentos, procure um técnico da extensão rural, da Embrapa, da prefeitura do seu município ou de alguma organização de assistência aos agricultores.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -3303,8 +2964,6 @@ Para mais informações e esclarecimentos, procure um técnico da extensão rura
 
 Este manual é um guia prático para apicultores e agricultores que desejam implementar técnicas sustentáveis e eficientes em suas atividades.
 
-
-
 # Manual Técnico de Apicultura
 
 ## Tópicos Abordados
@@ -3366,8 +3025,6 @@ Este manual é um guia prático para apicultores e agricultores que desejam impl
 
 Este manual é um guia abrangente para apicultores e interessados em práticas sustentáveis de manejo e cultivo, com foco na integração de diferentes atividades agropecuárias.
 
-
-
 # Manual Técnico de Apicultura
 
 ## Introdução
@@ -3404,12 +3061,6 @@ A apicultura é uma prática agrícola que envolve a criação de abelhas para a
 
 ## Conclusão
 A apicultura é uma atividade que requer conhecimento e dedicação. Seguindo as orientações deste manual, os apicultores poderão garantir a saúde de suas colônias e a qualidade dos produtos apícolas.
-
-
-
-NO_CONTENT_HERE
-
-
 
 # Manual Técnico de Apicultura
 
@@ -3462,18 +3113,12 @@ A apicultura é uma atividade que requer conhecimento e dedicação. Seguir as p
 ## Contato
 Para mais informações, entre em contato com a Livraria Embrapa:
 - **Site:** www.embrapa.br/livraria
-- **Telefone:** (61) 3448-4236
-- **E-mail:** livraria@embrapa.br
 
 Siga-nos nas redes sociais:
 - Facebook
 - Twitter
 
-
-
 Parece que você forneceu um texto que menciona "Impressão e acabamento" e "Embrapa Informação Tecnológica", mas não há informações específicas sobre apicultura. Se você precisar de informações ou um guia sobre apicultura, incluindo tabelas e estruturas de manejo, por favor, forneça mais detalhes ou perguntas específicas que você gostaria de abordar. Estou aqui para ajudar!
-
-
 
 # Manual Técnico de Apicultura
 
@@ -3510,8 +3155,3 @@ A apicultura é uma atividade que envolve a criação de abelhas para a produç�
 
 ## Conclusão
 A apicultura é uma prática que pode ser altamente benéfica tanto para o apicultor quanto para o meio ambiente. Com as orientações adequadas, é possível garantir a saúde das colônias e a produção de produtos de qualidade.
-
-## Referências
-- Embrapa. ABC da Agricultura Familiar.
-- Ministério da Agricultura, Pecuária e Abastecimento.
-

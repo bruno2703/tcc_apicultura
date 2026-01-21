@@ -32,12 +32,6 @@ Para garantir a preservação das abelhas e das plantas que elas visitam, é imp
 
 O conhecimento sobre as plantas visitadas por abelhas na caatinga é vital para a conservação desse bioma e para a promoção da polinização. Este guia serve como uma ferramenta para apicultores, biólogos e todos que se interessam pela preservação da biodiversidade.
 
-## Referências
-
-- [Inserir referências bibliográficas e fontes de pesquisa utilizadas na elaboração do guia]
-
-
-
 # Guia de Plantas Visitadas por Abelhas na Caatinga
 
 **Autores:**
@@ -50,8 +44,6 @@ Camila Maia-Silva, Cláudia Inês da Silva, Michael Hrncir, Rubens Teixeira de Q
 **Referência:**
 Guia de plantas: visitadas por abelhas na Caatinga / Camila Maia-Silva...[et al.]. -- 1. ed. -- Fortaleza, CE: Editora Fundação Brasil Cidadão, 2012.
 
-**ISBN:** 978-85-98564-05-0
-
 ## Palavras-chave:
 1. Abelhas
 2. Biodiversidade - Brasil
@@ -63,7 +55,6 @@ Guia de plantas: visitadas por abelhas na Caatinga / Camila Maia-Silva...[et al.
 8. Plantas - Guias
 
 **Classificação:**
-CDD-581.9813
 
 ## Índices para catálogo sistemático:
 1. Caatinga: Brasil, Região Nordeste: Bioma brasileiro: Plantas visitadas por abelhas: Guias 581.9813
@@ -72,15 +63,12 @@ CDD-581.9813
 
 Este guia é uma referência essencial para apicultores e pesquisadores interessados na interação entre abelhas e a flora da Caatinga, um bioma único do Brasil. A obra compila informações sobre as plantas que são visitadas por abelhas, contribuindo para o entendimento da biodiversidade e dos ecossistemas dessa região.
 
-
-
 # Manual Técnico de Apicultura
 
 ## Conteúdo
 
 ### Apresentação
 - **Editor responsável**: João Bosco Priamo Carbogim
-- **Coordenação Geral do Projeto De Olho na Água**: Maria Leinad Vasconcelos Carbogim
 
 ### Autores
 - Camila Maia-Silva
@@ -92,11 +80,6 @@ Este guia é uma referência essencial para apicultores e pesquisadores interess
 ### Apoio
 - **Institucional**: Petrobras, USP, UFERSA
 - **Técnico**: Promosell Comunicação
-
-### Agradecimentos
-Os autores agradecem ao CNPq pelo apoio financeiro (Processos: 304722/2010-3 e 482218/2010-0); ao Prof. Dr. Fernando C. V. Zanella pela identificação das abelhas, e ao Reitor da UFERSA, Dr. Josivan Barbosa Menezes Feitoza, pelo apoio incondicional ao projeto; à Universidade de São Paulo pelo apoio científico, e à Petrobras que patrocinou a publicação desse Guia.
-
-----
 
 ## Tabelas de Manejo
 
@@ -116,7 +99,6 @@ Os autores agradecem ao CNPq pelo apoio financeiro (Processos: 304722/2010-3 e 4
 | Pau-branco                | Commiphora leptophloeos       | 27    |
 | Sete-patacas-roxa         | Allamanda blanchetii           | 73    |
 | Varronia globosa          | Cynophalla flexuosa           | 31    |
-| Moleque-duro              | Varronia leucocephala         | 75    |
 | Mofumbo                   | Combretum leprosum             | 35    |
 | Urtiga                    | Cnidoscolus quercifolius      | 81    |
 
@@ -130,13 +112,6 @@ Os autores agradecem ao CNPq pelo apoio financeiro (Processos: 304722/2010-3 e 4
 | Bamburral                 | Hyptis suaveolens             | 97    |
 
 ----
-
-## Referências
-- **Referências**: 68
-
-Este manual técnico é uma ferramenta essencial para apicultores, fornecendo informações sobre plantas que são importantes para a alimentação das abelhas e a produção de mel. A escolha das plantas é fundamental para a saúde das colônias e a qualidade do produto final.
-
-
 
 # Guia de Plantas Visitadas por Abelhas na Caatinga
 
@@ -185,15 +160,6 @@ Uma aplicação importante deste conhecimento é o incentivo à construção de 
 | Corda-de-viola           | Corda-de-viola                | 175   |
 | Jetirana-de-mocó         | Jetirana-de-mocó              | 181   |
 
-### Referências
-| Referência                | Página |
-|---------------------------|-------|
-| Referências               | 190   |
-
-Este guia é uma ferramenta valiosa para a conservação e promoção da biodiversidade na caatinga, destacando a importância das abelhas e das plantas nativas.
-
-
-
 # Manual Técnico de Apicultura
 
 ## Biodiversidade de Flores e Abelhas
@@ -214,13 +180,10 @@ Este guia é uma ferramenta valiosa para a conservação e promoção da biodive
 ### 2. Observações sobre Abelhas Solitárias
 
 - **Macho de abelha solitária** dormindo na flor **Turnera subulata**.
-- **Ceblurgus longipalpis** e **Varronia leucocephala**.
 
 ### 3. Considerações Finais
 
 A interação entre as abelhas e as plantas é crucial para a polinização e a manutenção da biodiversidade. O conhecimento sobre as espécies de abelhas e suas plantas hospedeiras é fundamental para práticas de manejo sustentável na apicultura.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -244,23 +207,13 @@ Com o trabalho das comunidades no plantio de árvores para as abelhas, estaremos
 
 Os grãos de pólen (contêm os gametas masculinos) de uma flor são transportados para o estigma (parte feminina) de outra flor.
 
-![Esquema de Polinização](link_para_imagem)
-
 ### Biodiversidade de Flores e Abelhas
 
 Na caatinga brasileira, são conhecidas 187 espécies de abelhas, a maioria delas considerada como espécies raras. Entretanto, as mais abundantes são as abelhas sociais nativas sem ferrão, como a jandaíra, a jati, a amarela, a moça-branca, a irapuá, a cupira, a mandaçaia, a remela, a canudo, a limão, a munduri e a introduzida Apis mellifera, também conhecida como abelha de mel, abelha europeia ou abelha africanizada. Outras espécies de abelhas de hábitos solitários também são abundantes e de grande importância ecológica.
 
-### Referências
-
-1. Ollerton, J., Winfree, R. &#x26; Tarrant, S. (2011). How many flowering plants are pollinated by animals? Oikos, 120: 321-326.
-2. Zanella, F.C.V. &#x26; Martins, C.F. (2003). Abelhas da caatinga: biogeografia, ecologia e conservação. In: Leal, I.R., Tabarelli, M. &#x26; Silva, J.M.C. (eds). Ecologia e Conservação da caatinga, p. 75-134. Editora Universitária da UFPE, Recife, Brasil.
-3. Bruening, H. (1990). A abelha Jandaíra. Coleção Mossoroense. Serie C. Vol 557, 181p.
-
 ### Autoria
 
 Vera Lucia Imperatriz Fonseca é bióloga, Professora Titular de Ecologia da Universidade de São Paulo (USP) e Professora Visitante Sênior da CAPES na Universidade Federal Rural do Semi-Árido (UFERSA), no Rio Grande do Norte (RN).
-
-
 
 # Manual Técnico de Apicultura
 
@@ -296,8 +249,6 @@ Vera Lucia Imperatriz Fonseca é bióloga, Professora Titular de Ecologia da Uni
 
 A apicultura é uma prática que requer conhecimento sobre as plantas que fornecem néctar e pólen, bem como sobre as interações entre as abelhas e o ambiente. O manejo adequado das colmeias e a preservação das plantas nativas são essenciais para o sucesso da atividade.
 
-
-
 # Manual Técnico de Apicultura
 
 ## ÁRVORES
@@ -321,11 +272,6 @@ As inflorescências do cajueiro são formadas por flores vermelhas, pequenas e p
 
 #### Importância para as Abelhas
 As abelhas do gênero **Centris** necessitam de óleo para construir seus ninhos e alimentar suas crias. Portanto, para garantir a presença dessas abelhas em grandes áreas de cultivo de caju, recomenda-se o plantio de espécies fontes de óleos florais, como a acerola (**Malpighia emarginata**).
-
-#### Referências Bibliográficas
-8, 9, 13, 15
-
-
 
 # Manual Técnico de Apicultura
 
@@ -354,12 +300,6 @@ No nordeste do Brasil, a aroeira é uma árvore muito conhecida devido às suas 
 
 Na estação seca, período com poucos recursos florais na caatinga, plantas como a aroeira são fundamentais para a alimentação das abelhas. Devido às suas características melíferas, é indicado o plantio de mudas em áreas de conservação e criação de abelhas. Além disso, essa espécie pode ser utilizada em projetos de arborização e paisagismo.
 
-#### Referências Bibliográficas
-
-5, 9, 13, 15, 16, 17
-
-
-
 # Manual Técnico de Apicultura
 
 ## ÁRVORES
@@ -378,11 +318,6 @@ Durante a estação seca, suas flores surgem quando a copa ainda está completam
 
 As flores do umbuzeiro são importantes para fortalecer a conservação e a criação de abelhas sem ferrão. Além disso, sua copa ampla fornece sombra agradável, favorecendo a utilização dessa espécie no paisagismo urbano.
 
-#### Referências Bibliográficas
-2, 9, 13, 15, 17, 20
-
-
-
 # Manual Técnico de Apicultura
 
 ## ÁRVORES
@@ -399,13 +334,6 @@ A carnaubeira é uma palmeira muito comum no nordeste do Brasil, ocorrendo princ
 
 #### Importância para a Apicultura
 As inflorescências da carnaubeira formam cachos pendentes compostos por flores amarelas e pequenas, que disponibilizam néctar e pólen. Esses recursos atraem muitas espécies de insetos, especialmente as abelhas nativas. A beleza exuberante dessa palmeira também favorece sua utilização em projetos de paisagismo. O plantio de carnaubeira fortalece a criação de abelhas nativas, pois essa espécie é uma excelente fonte de recursos florais.
-
-#### Referências Bibliográficas
-- 5
-- 9
-- 13
-
-
 
 # Manual Técnico de Apicultura
 
@@ -445,16 +373,6 @@ O pau-d’arco-roxo é uma fonte de resina para as abelhas e, durante a estaçã
 #### Uso
 Além de sua importância ecológica, devido à beleza de suas inflorescências, o pau-d’arco-roxo pode ser utilizado no paisagismo urbano e em projetos de reflorestamento.
 
-#### Referências Bibliográficas
-- 5
-- 7
-- 9
-- 13
-- 15
-- 17
-
-
-
 # Manual Técnico de Apicultura
 
 ## ÁRVORES
@@ -483,15 +401,6 @@ Essa espécie é ornamental, possui crescimento rápido e é indicada para a con
 
 ----
 
-### Referências Bibliográficas:
-- 7
-- 9
-- 13
-- 17
-- 23
-
-
-
 # Manual Técnico de Apicultura
 
 ## ÁRVORES
@@ -511,11 +420,6 @@ As flores do pau-branco são frequentemente visitadas e polinizadas por espécie
 
 #### Uso e Conservação
 A madeira do pau-branco é muito explorada para construção civil. Devido ao corte indiscriminado, essa espécie necessita urgentemente de planos de manejo e conservação para a recomposição de áreas exploradas. O pau-branco pode ser utilizado em áreas de criação e conservação de abelhas e, devido ao seu belo aspecto paisagístico e ornamental, pode ser utilizado em projetos de arborização urbana.
-
-### Referências Bibliográficas
-2, 3, 9, 13, 15, 17
-
-
 
 # Manual Técnico de Apicultura
 
@@ -551,15 +455,6 @@ A madeira do pau-branco é muito explorada para construção civil. Devido ao co
 - Aumenta a disponibilidade de fontes de alimento e locais de nidificação para as abelhas nativas.
 - Antes do início das chuvas, estacas de imburana podem ser facilmente plantadas, e o seu brotamento é rápido.
 
-### Referências Bibliográficas
-- 9, 13, 14, 17, 19
-
-----
-
-Este documento fornece informações essenciais sobre a imburana e sua relevância para a apicultura, especialmente no que diz respeito à preservação e promoção das abelhas nativas.
-
-
-
 # Feijão-Bravo
 
 **Nome Científico:** Cynophalla flexuosa (L.) J.Presl
@@ -575,11 +470,6 @@ Durante a estação seca, um período com poucos recursos florais na caatinga, a
 
 ## Visitantes
 Além das abelhas, outros insetos e morcegos também visitam suas flores, contribuindo para a polinização e a biodiversidade local.
-
-## Referências Bibliográficas
-5, 6, 9, 13, 17
-
-
 
 # Manual Técnico de Apicultura
 
@@ -600,11 +490,6 @@ Os frutos de trapiá são carnosos, adocicados e servem como fonte de alimento p
 
 #### Polinizadores
 As abelhas sem ferrão do gênero Plebeia (jati ou mosquito) e do gênero Trigona (arapuá) visitam suas flores para coletar néctar e pólen.
-
-#### Referências Bibliográficas
-6, 7, 9, 13, 14, 17
-
-
 
 ### MOFUMBO
 
@@ -634,9 +519,6 @@ Na base da flor, forma-se um pequeno tubo onde é produzido e armazenado o néct
 ----
 
 **Referências Bibliográficas:**
-- 2, 9, 13, 14, 17, 21
-
-
 
 # Manual Técnico de Apicultura
 
@@ -657,11 +539,6 @@ A faveleira é uma árvore de porte pequeno, notável por seus tricomas urticant
 
 ### Importância na Apicultura
 A faveleira apresenta um desenvolvimento e crescimento rápidos, características que favorecem seu uso em áreas de criação e conservação de abelhas nativas. É uma planta recomendada para programas de reflorestamento e projetos de paisagismo urbano, contribuindo para a biodiversidade e a alimentação das abelhas.
-
-### Referências Bibliográficas
-2, 5, 9, 13, 14, 17, 25
-
-
 
 # Manual Técnico de Apicultura
 
@@ -690,11 +567,6 @@ Recomenda-se o plantio dessa espécie para complementar a quantidade de recursos
 #### Observações
 Os nectários presentes nas flores femininas formam um disco que é facilmente acessado por muitos insetos, como abelhas, vespas e borboletas.
 
-#### Referências Bibliográficas
-5, 9, 13, 17, 24, 25
-
-
-
 # Manual Técnico de Apicultura
 
 ## ÁRVORES
@@ -713,11 +585,6 @@ O marmeleiro é uma árvore de porte pequeno ou arbusto que pode atingir até 4,
 Muitos insetos, como vespas, mariposas, moscas e principalmente as abelhas nativas, visitam suas flores para coletar pólen e néctar. O néctar das flores do marmeleiro é responsável pela produção de mel com sabor muito apreciado e com alto valor comercial para os criadores de abelhas do nordeste, sendo considerada uma das principais fontes de néctar da caatinga.
 
 Essas características favorecem a utilização dessa espécie em locais de criação e conservação de abelhas sem ferrão. Devido à sua grande capacidade de rebrota e ao seu rápido crescimento, o marmeleiro é uma espécie potencial para restauração de áreas degradadas.
-
-#### Referências Bibliográficas
-2, 3, 13, 17, 21, 25
-
-
 
 # Jucazeiro
 
@@ -743,11 +610,6 @@ O néctar é o principal recurso floral coletado por vespas, borboletas e abelha
 
 ## Recomendações
 Para complementar a quantidade de fontes de néctar disponíveis às abelhas nativas, recomenda-se o plantio de jucazeiros em áreas de criação e conservação de abelhas nativas. Além disso, essa planta pode ser utilizada em reflorestamentos e em projetos de paisagismo urbano.
-
-## Referências Bibliográficas
-2, 9, 13, 15, 17, 22
-
-
 
 # Manual Técnico de Apicultura
 
@@ -779,10 +641,6 @@ Outros visitantes florais que coletam néctar das flores de catingueira incluem 
 
 ----
 
-**Referências Bibliográficas:** 9, 10, 11, 13, 19, 22
-
-
-
 # Manual Técnico de Apicultura
 
 ## ÁRVORES
@@ -805,11 +663,6 @@ Embora suas flores não produzam néctar, suas anteras poricidas liberam grandes
 
 #### Uso
 Essa espécie possui crescimento rápido e pode ser utilizada em áreas próximas aos locais de criação de abelhas nativas, além de ser indicada para projetos de restauração de áreas degradadas.
-
-### Referências Bibliográficas
-9, 13, 15, 22
-
-
 
 # Manual Técnico de Apicultura
 
@@ -842,11 +695,6 @@ Os recursos florais, como pólen e néctar, atraem muitas espécies de insetos, 
 #### Crescimento e Uso
 O angico possui crescimento rápido e pode ser utilizado para fortalecer a criação de abelhas, sendo indicado para áreas de reflorestamento e também em áreas urbanas.
 
-#### Referências Bibliográficas
-2, 5, 9, 12, 13, 15, 16, 17, 22
-
-
-
 # Manual Técnico de Apicultura
 
 ## Catanduva
@@ -869,16 +717,6 @@ Durante essa transição, há uma carência de recursos florais na caatinga, e a
 
 ### Recomendações
 Devido às suas características melíferas, recomenda-se o plantio de catanduva em áreas de criação e conservação de abelhas nativas. Além disso, essa espécie possui crescimento rápido e pode ser utilizada em projetos de recuperação de áreas degradadas.
-
-### Referências Bibliográficas
-- 12
-- 13
-- 14
-- 17
-- 18
-- 21
-
-
 
 # Manual Técnico de Apicultura
 
@@ -912,10 +750,6 @@ De acordo com alguns meliponicultores, o calumbi é uma espécie de grande impor
 
 ----
 
-**Referências Bibliográficas:** 1, 9, 13, 22
-
-
-
 # SABIÁ
 
 **Família:** Fabaceae - Mimosoideae
@@ -943,11 +777,6 @@ Em toda a região nordeste, a madeira do sabiá é muito explorada, principalmen
 ### Cultivo:
 O sabiá é uma espécie de crescimento rápido e com alta capacidade de rebrota, podendo ser facilmente plantado em áreas de criação e conservação de abelhas nativas.
 
-## Referências bibliográficas:
-2, 9, 13, 15, 17, 21, 22
-
-
-
 # Manual Técnico de Apicultura
 
 ## Árvores para Apicultura
@@ -971,18 +800,6 @@ As flores do cerrador fornecem pólen e néctar para diversas espécies de abelh
 
 Recomenda-se o plantio de mudas de cerrador em áreas de criação e conservação de abelhas nativas.
 
-#### Referências Bibliográficas
-
-- 5
-- 13
-- 22
-
-----
-
-Este conteúdo é essencial para apicultores que buscam diversificar as fontes de alimento para suas colônias, promovendo a saúde e a produtividade das abelhas.
-
-
-
 # JUREMA-PRETA
 
 **Família:** Fabaceae - Mimosoideae
@@ -1002,11 +819,6 @@ Essa espécie floresce durante um longo período do ano, predominantemente na es
 
 ## Importância Ecológica
 A jurema-preta é uma espécie muito importante para a manutenção da biodiversidade e funcionamento do ecossistema. Devido ao seu crescimento rápido e à sua capacidade de rebrota, essa espécie é fundamental para a restauração de áreas degradadas.
-
-## Referências Bibliográficas
-9, 13, 14, 17, 21, 22
-
-
 
 # Manual Técnico de Apicultura
 
@@ -1033,18 +845,6 @@ O espinheiro, conhecido popularmente como unha-de-gato, é uma espécie pioneira
 
 É uma árvore de porte médio e copa ampla, cujas inflorescências são formadas por flores brancas, pequenas e perfumadas. Sua floração ocorre em massa, atraindo diversas espécies de insetos, como moscas, borboletas e abelhas nativas, que visitam suas flores para coletar néctar e pólen.
 
-#### Referências Bibliográficas:
-- 13
-- 15
-- 17
-- 22
-
-----
-
-Este conteúdo é essencial para apicultores que buscam entender a importância das plantas na criação de abelhas e na polinização, além de contribuir para a recuperação ambiental.
-
-
-
 # Manual Técnico de Apicultura
 
 ## Árvores
@@ -1061,11 +861,6 @@ Amburana cearensis, conhecido popularmente como cumaru, é uma árvore de porte 
 
 #### Importância para as Abelhas
 Suas flores são pequenas, aromáticas e possuem apenas uma pétala (estandarte) com coloração branca e tons róseos. O néctar de suas flores é uma fonte de carboidrato e energia, sendo muito importante para as abelhas. O cumaru é uma espécie ornamental, com floração vistosa, e suas flores fornecem recursos fundamentais para a manutenção das populações de abelhas nativas. Além disso, o cumaru é uma espécie pioneira muito importante em reflorestamentos de áreas degradadas.
-
-#### Referências Bibliográficas
-2, 4, 9, 13, 15, 17, 22
-
-
 
 # Manual Técnico de Apicultura
 
@@ -1098,11 +893,6 @@ Suas flores são pequenas, aromáticas e possuem apenas uma pétala (estandarte)
 - Suas flores fornecem recursos fundamentais para abelhas durante a estação seca.
 - Essas características favorecem o plantio dessa espécie em áreas de criação e conservação de abelhas nativas.
 
-### Referências Bibliográficas
-- 4, 13, 15, 17, 22
-
-
-
 # Manual Técnico de Apicultura
 
 ## ÁRVORES
@@ -1123,42 +913,7 @@ O néctar é o principal recurso coletado pelos visitantes florais, incluindo ve
 #### Recomendações
 Para aumentar a disponibilidade de fontes de néctar para as abelhas, recomenda-se o plantio de mudas de juazeiro em áreas próximas a meliponários. Além de fornecer alimento, o juazeiro também é utilizado em projetos de arborização visando o sombreamento, devido à sua folhagem perene.
 
-#### Referências Bibliográficas
-9, 13, 15, 16, 17, 20
-
-
-
 # Manual Técnico de Apicultura
-
-## Referências
-
-1. Alves, R.M.O., Carvalho, C.A.L. &#x26; Souza, B.A. 2006. Espectro polínico de amostras de mel de *Melipona mandacaia* Smith, 1863 (Hymenoptera: Apidae). *Acta Scientiarum Biological Sciences*, 28: 65-70.
-2. Andrade-Lima, D. de. 1989. Plantas das caatingas. Rio de Janeiro: Academia Brasileira de Ciência, 243 p.
-3. Carvalho, P.E.R. 2006. Espécies arbóreas brasileiras. Brasília, DF: Embrapa Informação Tecnológica, Colombo: Embrapa Florestas, v. 2, 627 p.
-4. Cardoso, D.B.O.S. 2008. Taxonomia da tribo Sophoreae s.l. (Leguminosae, Papilionoideae) na Bahia, Brasil. Dissertação apresentada ao Programa de Pós-Graduação em Botânica da Universidade Estadual de Feira de Santana-BA, 209 p.
-5. CNIP - Centro Nordestino de Informações sobre Plantas. [on line] Disponível na internet via www.url: http:///www.cnip.org.br. (Acesso: 04/outubro/2011).
-6. Fleming, T.H., Geiselman, C. &#x26; Kress, W.J. 2009. The evolution of bat pollination: a phylogenetic perspective. *Annals of Botany*, 104: 1017–1043.
-7. Frankie, G.W., Haber, W.A., Opler, P.A. &#x26; Bawa, K.S. 1983. Characteristics and organization of the large bee pollination system in the Costa Rican dry forest. pp. 411-447. In: Jones, C.E. &#x26; Little, R.J., eds. *Handbook of Experimental Pollination Biology*. Van Nostrand Reinhold Company Inc., New York-NY, USA, 558 p.
-8. Freitas, B.M., Martins, C.F., Schlindwein, C.P., Wittman, D., Alves-dos-Santos, I., Cane, J.H., Ribeiro, M.F. &#x26; Gaglianone, M.C. 2006. Bee management for pollination purposes – bumble bees and solitary bees. pp. 55-62. In: Imperatriz-Fonseca, V. L., Saraiva, A. M. &#x26; De Jong, D., eds. *Bee as pollinators in Brazil - assessing the status and suggesting best practices*. Ribeirão Preto: Holos Editora, 112p.
-9. Giullieti, A.M., Queiroz, L.P. &#x26; Santos, F.A.R. 2006. *Apium Plantae*. Recife: Associação Plantas do Nordeste, 130 p.
-10. Leite, A.V. &#x26; Machado, I.C. 2009. Biologia reprodutiva da “catingueira” (*Caesalpinia pyramidalis* Tul., Leguminosae-Caesalpinioideae), uma espécie endêmica da Caatinga. *Revista Brasileira de Botânica*, 32: 79-88.
-11. Lewis, G. &#x26; Gibbs, P. 1999. Reproductive biology of *Caesalpinia calycina* and *C. pluviosa* (Leguminosae) of the Caatinga of northeastern Brazil. *Plant Systematics and Evolution*, 217: 43–53.
-12. Lewis, G.P. 1987. Legumes of Bahia. Kew: Royal Botanic Gardens, 369 p.
-13. Lista de Espécies da Flora do Brasil 2011 in http://floradobrasil.jbrj.gov.br/2011.
-14. Lorenzi, H. 2009. Árvores brasileiras: manual de identificação e cultivo de plantas arbóreas nativas do Brasil. 3. ed. Nova Odessa: Instituto Plantarum, v. 2, 384 p.
-15. Lorenzi, H. 2008. Árvores brasileiras: manual de identificação e cultivo de plantas arbóreas nativas do Brasil. 5. ed. Nova Odessa: Instituto Plantarum, v. 1, 384 p.
-16. Lorenzi, H. &#x26; Matos, F.J.A. 2002. Plantas medicinais no Brasil. Nova Odessa, SP: Instituto Plantarum, 576 p.
-17. Maia, G.N. 2004. Caatinga: árvores e arbustos e suas utilidades. São Paulo: Leitura &#x26; Arte, 413 p.
-18. Maia-Silva, C., Hrncir, M., Silva, C.I. &#x26; Imperatriz-Fonseca, V.L. 2010. Estratégias de forrageamento de *Melipona subnitida* na Caatinga: a coleta de pólen em fontes lucrativas. In: X Congresso Íberolatino Americano de Apicultura, Natal-RN.
-19. Martins, C.F., Cortopassi-Laurino, M., Koedam, D. &#x26; Imperatriz-Fonseca, V.L. 2004. Tree species used for nidification by stingless bees in the Brazilian Caatinga (Seridó, PB, João Câmara, RN). *Biota Neotropica*, 4: 1-8.
-20. Nadia, T.L., Machado, I.C. &#x26; Lopes, A.V. 2007. Polinização de *Spondias tuberosa* Arruda (Anacardiaceae) e análise da partilha de polinizadores com *Ziziphus joazeiro* Mart. (Rhamnaceae), espécies frutíferas e endêmicas da caatinga. *Revista Brasileira de Botânica*, 30: 89-100.
-21. Pereira, F.M., Freitas, B.M., Alves, J.E., Camargo, R.C.R., Lopes, M.T.R., Neto, J.M.V. &#x26; Rocha, R.S. 2004. Flora apícola no Nordeste. (Embrapa Meio-Norte. Documentos, 104) Teresina: Embrapa Meio-Norte, 40 p.
-22. Queiroz, L.P. de. 2009. Leguminosas da caatinga. Feira de Santana: Universidade Estadual de Feira de Santana, 467 p.
-23. Roubik, D.W., Ackerman, J.D., Copenhaver, C. &#x26; Smith, B.H. 1982. Stratum, tree, and flower selection by tropical bees: Implications for the reproductive biology outcrossing *Cochlospermum vitifolium* in Panama. *Ecology*, 63: 712-720.
-24. Santos, M.J., Machado, I.C. &#x26; Lopes, A.V. 2005. Biologia reprodutiva de duas espécies de *Jatropha* L. (Euphorbiaceae) em Caatinga, Nordeste do Brasil. *Revista Brasileira de Botânica*, 28: 361-373.
-25. Sátiro, L.N. &#x26; Roque, N. 2008. A família Euphorbiaceae nas caatingas arenosas do médio rio São Francisco, BA, Brasil. *Acta Botanica Brasilica*, 22: 99-118.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -1188,8 +943,6 @@ Para aumentar a disponibilidade de fontes de néctar para as abelhas, recomenda-
 - A presença de arbustos e subarbustos no entorno das colmeias pode aumentar a disponibilidade de recursos alimentares para as abelhas, favorecendo a produção de mel e a saúde das colônias.
 - É importante identificar e preservar essas plantas em áreas de manejo apícola.
 
-
-
 # Manual Técnico de Apicultura
 
 ## Arbustos
@@ -1209,12 +962,6 @@ As flores da sete-patacas-roxa possuem um tubo delgado na base, o que limita o a
 
 #### Uso
 Além de sua importância ecológica, a sete-patacas-roxa pode ser utilizada como planta ornamental em projetos de jardinagem.
-
-#### Referências Bibliográficas
-- 2
-- 7
-
-
 
 # Manual Técnico de Apicultura
 
@@ -1238,24 +985,12 @@ Além das abelhas, outros insetos, como borboletas e besouros, também são visi
 #### Importância para a Apicultura
 Para fortalecer a criação de abelhas nativas, é fundamental manter a presença de espécies como o moleque-duro em áreas próximas a meliponários. A diversidade floral contribui para a saúde e produtividade das colônias de abelhas.
 
-#### Referências Bibliográficas
-- 4
-- 7
-- 10
-
-----
-
-Este manual é uma ferramenta essencial para apicultores que desejam promover a polinização e a saúde das colônias de abelhas nativas através do cultivo de plantas melíferas.
-
-
-
 # Manual Técnico de Apicultura
 
 ## Espécies Vegetais Importantes para a Apicultura
 
 ### Buquê-de-Noiva
 
-- **Nome Científico:** Varronia leucocephala (Moric.) J.S.Mill
 - **Família:** Boraginaceae
 - **Biomas de Ocorrência:** Caatinga
 - **Período de Floração:** Estação chuvosa
@@ -1268,18 +1003,6 @@ A abelha **Ceblurgus longipalpis** (família Halictidae), uma espécie de abelha
 
 #### Uso Paisagístico
 A beleza das inflorescências do buquê-de-noiva torna essa espécie uma excelente opção para jardins de flora, promovendo não apenas a estética, mas também a atração de polinizadores.
-
-#### Referências Bibliográficas
-- 4
-- 7
-- 10
-- 11
-
-----
-
-Este manual técnico visa fornecer informações relevantes sobre as plantas que são importantes para a apicultura, destacando suas características, importância ecológica e potencial uso em paisagismo.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -1310,14 +1033,6 @@ Embora as flores sejam adaptadas para a polinização por morcegos, muitas espé
 
 O mussambê pode ser utilizado em jardins de flora melífera com a finalidade de fornecer néctar para as abelhas.
 
-### Referências Bibliográficas
-- 4
-- 7
-- 9
-- 12
-
-
-
 # Manual Técnico de Apicultura
 
 ## Arbustos
@@ -1334,19 +1049,6 @@ A Cnidoscolus urens, conhecida popularmente como urtiga, é uma espécie arbusti
 
 #### Importância para a Apicultura
 Por ser uma espécie adaptada a ambientes abertos, é importante manter esses arbustos em áreas de conservação e criação de abelhas. A urtiga pode ser utilizada como uma fonte de alimento para as abelhas, contribuindo para a biodiversidade e a saúde dos ecossistemas apícolas.
-
-#### Referências Bibliográficas
-1. Referência 4
-2. Referência 6
-3. Referência 7
-4. Referência 8
-5. Referência 15
-
-----
-
-Este manual técnico é uma ferramenta essencial para apicultores que buscam diversificar as fontes de néctar e melhorar a saúde de suas colmeias.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -1384,15 +1086,6 @@ Este manual técnico é uma ferramenta essencial para apicultores que buscam div
 ### Aplicações
 - A palma-do-campo é muito importante para a manutenção e conservação das abelhas e pode ser utilizada em jardins de flora melífera.
 
-### Referências Bibliográficas
-- 7, 14
-
-----
-
-Este manual técnico é uma ferramenta essencial para apicultores que desejam entender a importância das plantas na alimentação das abelhas e na manutenção do ecossistema. A palma-do-campo é um exemplo de planta que contribui significativamente para a biodiversidade e a saúde das colônias de abelhas.
-
-
-
 # Manual Técnico de Apicultura
 
 ## Arbustos
@@ -1409,13 +1102,6 @@ Senna uniflora é uma espécie subarbustiva, anual e muito comum em áreas abert
 
 #### Importância para a Apicultura
 Assim como outras espécies do gênero, o pólen é o único recurso floral coletado por espécies de abelhas adaptadas à realização de vibração, como a abelha jandaíra (Melipona subnitida). Muitas espécies consideradas plantas invasoras podem ser utilizadas em jardins com flora melífera, pois são fontes alternativas de recursos alimentares para as abelhas e são adaptadas a ambientes abertos.
-
-#### Referências Bibliográficas
-- 7
-- 9
-- 14
-
-
 
 # Manual Técnico de Apicultura
 
@@ -1435,14 +1121,6 @@ Senna obtusifolia é uma espécie subarbustiva, anual e frequente em áreas aber
 #### Importância para a Apicultura
 Essa planta é uma fonte de pólen para as abelhas nativas, principalmente no período das chuvas e na transição da estação chuvosa para a seca. Algumas espécies de abelhas nativas, como as mamangavas-de-chão (Bombus) e as abelhas da família Halictidae, coletam o pólen dessa planta. Para fortalecer a criação de abelhas nativas, é importante manter esses arbustos em áreas de conservação e criação de abelhas.
 
-#### Referências Bibliográficas
-- 7
-- 9
-- 14
-- 16
-
-
-
 # Manual Técnico de Apicultura
 
 ## Arbustos
@@ -1459,11 +1137,6 @@ Senna occidentalis é um subarbusto ou pequeno arbusto, anual e muito comum em �
 
 #### Importância para a Apicultura
 Devido à sua importância como fonte de pólen para as abelhas nativas, é recomendado manter essa planta em áreas de conservação e criação de abelhas. Assim como as demais espécies desse gênero, suas flores são visitadas principalmente por abelhas que coletam o pólen por meio de vibrações.
-
-#### Referências Bibliográficas
-6, 7, 9, 14, 16
-
-
 
 ### CANAFÍSTULA
 
@@ -1486,10 +1159,6 @@ A beleza de suas inflorescências é uma característica importante dessa espéc
 
 ----
 
-**Referências Bibliográficas:** 7, 14
-
-
-
 ### Calumbi-miúdo
 
 **Nome Científico:** Mimosa invisa Mart. ex Colla
@@ -1502,11 +1171,6 @@ Mimosa invisa, popularmente conhecida como calumbi-miúdo, é uma espécie peren
 
 #### Importância para a Apicultura
 As flores de calumbi-miúdo produzem néctar e pólen, atraindo diversas espécies de abelhas nativas. Essa planta aumenta a oferta de recursos para as abelhas e outros insetos, sendo recomendada para uso em jardins de flora melífera.
-
-#### Referências Bibliográficas
-4, 7, 9, 14
-
-
 
 ### JURUBEBA
 
@@ -1528,10 +1192,6 @@ Para fortalecer a criação de abelhas nativas, é importante utilizar esses arb
 
 ----
 
-**Referências Bibliográficas:** 1, 4, 7, 9
-
-
-
 # Manual Técnico de Apicultura
 
 ## Arbustos
@@ -1548,10 +1208,6 @@ Hyptis suaveolens, popularmente conhecida como bamburral, é uma espécie subarb
 
 **Importância para a Apicultura:**
 O bamburral pode ser utilizado para aumentar a disponibilidade de recursos alimentares utilizados pelas abelhas, contribuindo para a saúde e produtividade das colmeias.
-
-**Referências Bibliográficas:** 4, 5, 7, 8, 9, 13
-
-
 
 # Manual Técnico de Apicultura
 
@@ -1574,13 +1230,6 @@ Herissantia tiubae, conhecida popularmente como mela-bode ou malva-de-bode, é u
 #### Importância
 Embora muitas espécies da família Malvaceae sejam consideradas plantas daninhas, a Herissantia tiubae é uma fonte importante de recursos alimentares para as abelhas nativas. Devido à sua importância melífera, essa planta favorece a criação e a conservação de abelhas, podendo ser utilizada em jardins de flora melífera.
 
-#### Referências Bibliográficas
-1. [Referência 1]
-2. [Referência 7]
-3. [Referência 9]
-
-
-
 # Manual Técnico de Apicultura
 
 ## Arbustos
@@ -1597,20 +1246,6 @@ Sida cordifolia, conhecida popularmente como malva-branca, é uma espécie peren
 
 #### Importância para a Apicultura
 Os recursos florais, como pólen e néctar, são muito importantes para as abelhas, especialmente para as espécies de abelhas solitárias. Devido à sua importância melífera, essa planta pode ser utilizada em jardins de flora melífera.
-
-#### Referências Bibliográficas
-1.
-3.
-6.
-7.
-9.
-17.
-
-----
-
-Este formato mantém a estrutura e as informações relevantes sobre a malva-branca, facilitando a consulta para apicultores e interessados na flora melífera.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -1634,18 +1269,6 @@ Sida galheirensis, conhecida popularmente como ervaço, é uma espécie subarbus
 
 Assim como a malva-branca, o ervaço também fornece recursos alimentares fundamentais para as abelhas e pode ser utilizada em jardins de flora melífera.
 
-#### Referências Bibliográficas
-1.
-7.
-9.
-17.
-
-----
-
-Este formato mantém a estrutura e as informações relevantes sobre a planta ervaço, que é importante para a apicultura.
-
-
-
 # Manual Técnico de Apicultura
 
 ## Espécies de Plantas Melíferas
@@ -1663,15 +1286,6 @@ Triumfetta rhomboidea, popularmente conhecida como carrapicho-de-bode, é uma es
 #### Importância
 Essa espécie é muito importante para a manutenção e conservação das espécies de abelhas nativas. Além disso, pode ser utilizada em jardins de flora melífera, contribuindo para a biodiversidade e a polinização.
 
-#### Referências Bibliográficas
-- Referências: 7, 9
-
-----
-
-Este conteúdo é parte do manual técnico de apicultura, que visa fornecer informações sobre plantas que são importantes para a alimentação das abelhas e a produção de mel.
-
-
-
 # Manual Técnico de Apicultura
 
 ## Arbustos
@@ -1688,11 +1302,6 @@ Waltheria americana, conhecida popularmente como malva-branca, é uma espécie s
 
 #### Importância para a Apicultura
 A malva-branca fornece recursos florais importantes para muitas espécies de abelhas sociais e solitárias. A abelha jandaíra (Melipona subnitida) é um visitante frequente de suas flores. As flores de malva-branca aumentam a oferta de recursos para as abelhas e podem ser utilizadas para fortalecer a criação de abelhas nativas.
-
-#### Referências Bibliográficas
-4, 6, 7, 9
-
-
 
 # Manual Técnico de Apicultura
 
@@ -1718,11 +1327,6 @@ Waltheria bracteosa, conhecida popularmente como malva, é uma espécie subarbus
 #### Importância para a Apicultura
 A malva é uma espécie melífera muito importante para a criação e manutenção de abelhas nativas e pode ser utilizada em áreas pequenas, como, por exemplo, jardins residenciais.
 
-#### Referências Bibliográficas
-- [1] Referência 7
-
-
-
 # Manual Técnico de Apicultura
 
 ## Arbustos Melíferos
@@ -1740,32 +1344,7 @@ Lantana camara, popularmente conhecida como cambará, é um arbusto perene de po
 #### Importância na Apicultura
 O cambará é uma espécie ornamental muito cultivada em vários países. A beleza de suas inflorescências é uma característica marcante dessa espécie, e seu cultivo é ideal para a construção de jardins com flora melífera, proporcionando alimento para as abelhas.
 
-#### Referências Bibliográficas
-- 4
-- 7
-- 9
-- 18
-
-
-
 # Manual Técnico de Apicultura
-
-## Referências
-
-1. Aguiar, C.M.L. 2003. Utilização de recursos florais por abelhas com vistas ao melhoramento genético. Biotemas, 20: 27-34. (Hymenoptera, Apoidea) em uma área de Caatinga (Itatim, Bahia, Brasil). Revista Brasileira de Zoologia, 20: 457-467.
-2. Araújo, L.D.A., Quirino, Z.G.M. &#x26; Machado, I.C. 2011. Fenologia reprodutiva, biologia floral e polinização de *Allamanda blanchetii*, uma Apocynaceae endêmica da Caatinga. Revista Brasileira de Botânica, 34: 211-222.
-3. Bovini, M.G., Carvalho-Okano, R.M. &#x26; Vieira, M.F. 2001. Malvaceae A. Juss. no Parque Estadual do Rio Doce, Minas Gerais, Brasil. Rodriguésia, 52: 17-47.
-4. CNIP - Centro Nordestino de Informações sobre Plantas. [online] Disponível na internet via www.url: http:///www.cnip.org. (Acesso: 04/outubro/2011).
-5. Giullieti, A.M., Queiroz, L.P. &#x26; Santos, F.A.R. 2006. *Apium Plantae*. Recife: Associação Plantas do Nordeste, 130 p.
-6. Kiill, L.H.P., Haji, F.N.P. &#x26; Lima, P.C.F. 2000. Visitantes florais de plantas invasoras de áreas com fruteiras irrigadas. Scientia Agricola, 57: 575-580.
-7. Lista de Espécies da Flora do Brasil 2011 in http://floradobrasil.jbrj.gov.br/2011.
-8. Lopes, I.L.M. &#x26; Jardim, M.A.G. 2008. Fenologia, biologia floral e germinação de plantas aromáticas: *Hyptis suaveolens* (L.) Poit. (Lamiaceae) e *Mansoa standleyi* (Steyerm.) A. H. Gentry (Bignoniaceae) Museu Paraense Emilio Goeldi. Revista Brasileira de Ciências Farmacêuticas, 89: 361-365.
-9. Lorenzi, H. 2008. Plantas daninhas do Brasil: terrestres, aquáticas, parasitas e tóxicas. 4. ed. Nova Odessa: Instituto Plantarum, 640 p.
-10. Machado, I.C., Lopes, A.V. &#x26; Sazima, M. 2010. Contrasting bee pollination in two co-occurring distylic species of *Cordia* (Cordiaceae, Boraginales) in the Brazilian semi-arid Caatinga: generalist in *C. globosa* vs. specialist in *C. leucocephala*. Anais da Academia Brasileira de Ciências, 82: 881-891.
-11. Milet-Pinheiro, P. &#x26; Schlindwein, C. 2010. Mutual reproductive dependence of distylic *Cordia leucocephala* (Cordiaceae) and oligolectic *Ceblurgus longipalpis* (Halictidae, Rophitinae) in the Caatinga. Annals of Botany, 106: 17-27.
-12. Pereira, D.A., Brito, A.C. &#x26; Amaral, C.L.F. 2007. Biologia floral e mecanismos reprodutivos do Mussambê (*Cleome spinosa* Jacq).
-
-
 
 # Manual Técnico de Apicultura
 
@@ -1787,8 +1366,6 @@ O cambará é uma espécie ornamental muito cultivada em vários países. A bele
 
 ### Considerações Finais
 As herbáceas são essenciais para a manutenção da biodiversidade e para a saúde das colônias de abelhas. É importante promover o cultivo e a preservação dessas plantas em áreas de apicultura.
-
-
 
 # Quebra-Panela
 
@@ -1815,13 +1392,6 @@ Suas flores pequenas e de coloração branca produzem néctar, que é o principa
 ## Importância para a Apicultura
 As espécies consideradas muitas vezes como plantas invasoras podem ser utilizadas como plantas melíferas, pois são fontes alternativas de recursos para as abelhas.
 
-## Referências Bibliográficas
-- 5
-- 8
-- 9
-
-
-
 ### Herbáceas
 
 #### Ervaço
@@ -1837,10 +1407,6 @@ Froelichia humboldtiana, conhecida popularmente como ervaço ou nateira, é uma 
 
 **Importância Melífera:**
 Devido à sua importância melífera, recomenda-se a utilização dessa planta em áreas de criação e conservação de abelhas.
-
-**Referências Bibliográficas:** 5, 8
-
-
 
 # Manual Técnico de Apicultura
 
@@ -1858,16 +1424,6 @@ Stilpnopappus pratensis é uma planta anual frequentemente encontrada em pastage
 
 #### Importância para a Apicultura
 A coloração vistosa de suas inflorescências é uma característica ornamental dessa planta, favorecendo a sua utilização em jardins de flora melífera com a finalidade de fornecer recursos alimentares para as abelhas nativas.
-
-#### Referências Bibliográficas
-- 8
-- 22
-
-----
-
-Este conteúdo é parte do manual técnico de apicultura, que visa fornecer informações sobre plantas que são importantes para a alimentação das abelhas e a promoção da biodiversidade.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -1891,14 +1447,6 @@ Euploca polyphyllum, popularmente conhecida como sete-sangrias, é uma espécie 
 #### Importância
 Devido às características ornamentais e melíferas de suas flores, recomenda-se a utilização dessa planta em jardins de flora melífera.
 
-#### Referências Bibliográficas
-- 5
-- 8
-- 11
-- 12
-
-
-
 # Manual Técnico de Apicultura
 
 ## Herbáceas
@@ -1918,17 +1466,6 @@ A santa-luzia pode ser utilizada em jardins de flora melífera, com a finalidade
 #### Cultivo
 Além de sua importância para a apicultura, a Commelina erecta pode ser cultivada para fins ornamentais, contribuindo para a biodiversidade e a beleza dos jardins.
 
-#### Referências Bibliográficas
-- 5
-- 8
-- 9
-
-----
-
-Este manual técnico visa fornecer informações relevantes sobre plantas que podem ser utilizadas para atrair e alimentar abelhas, contribuindo para a prática sustentável da apicultura.
-
-
-
 ### HERBÁCEAS
 
 #### SALSA
@@ -1943,10 +1480,6 @@ Ipomoea asarifolia, conhecida popularmente como salsa, é uma espécie herbácea
 
 **Uso:**
 A salsa é uma planta ornamental e pode ser utilizada em jardins de flora melífera com a finalidade de aumentar a oferta de recursos para as abelhas nativas.
-
-**Referências Bibliográficas:** 6, 8, 9
-
-
 
 # Manual Técnico de Apicultura
 
@@ -1964,13 +1497,6 @@ Jacquemontia gracillima, conhecida popularmente como jetirana, é uma espécie h
 
 #### Importância Ecológica
 O néctar é o principal recurso coletado pelos visitantes florais. As abelhas sociais e solitárias são as principais visitantes das flores do gênero Jacquemontia. Essa planta desempenha um papel importante na manutenção e conservação das espécies de abelhas nativas.
-
-#### Referências Bibliográficas
-- 8
-- 13
-- 19
-
-
 
 # Manual Técnico de Apicultura
 
@@ -1995,13 +1521,6 @@ Chamaecrista calycioides, conhecida popularmente como palma-do-campo, é uma esp
 #### Importância
 Devido à sua importância como fonte de pólen para as abelhas nativas, é recomendado manter essa planta em áreas de conservação e criação de abelhas.
 
-#### Referências Bibliográficas
-- 8
-- 14
-- 15
-
-
-
 # HERBÁCEAS
 
 # A PALMA-DO-CAMPO
@@ -2015,10 +1534,6 @@ Biomas de ocorrência: Caatinga, Cerrado
 Período de floração: estação chuvosa
 
 Chamaecrista pilosa var luxurians, conhecida popularmente como palma-do-campo, é uma espécie anual que possui crescimento rápido e ocorre principalmente em áreas abertas. Suas flores são pequenas, amarelas e possuem anteras poricidas. Assim como as demais espécies desse gênero, o pólen é o único recurso produzido para a atração das abelhas nativas, o qual é coletado apenas pelas espécies adaptadas à realização de vibração. Essa espécie é muito importante para a manutenção e a conservação das espécies de abelhas nativas, podendo ser utilizada em jardins de flora melífera.
-
-Referências bibliográficas: 8, 15
-
-
 
 # Manual Técnico de Apicultura
 
@@ -2038,13 +1553,6 @@ Chamaecrista supplex, popularmente conhecida como palma-do-campo, é uma espéci
 #### Importância para a Apicultura
 A palma-do-campo é uma importante fonte de pólen para as abelhas nativas. É recomendado manter essa planta em áreas de conservação e criação de abelhas. Os principais visitantes florais são espécies de abelhas adaptadas à realização de vibração, como a abelha jandaíra (Melipona subnitida).
 
-#### Referências Bibliográficas
-- 8
-- 14
-- 15
-
-
-
 ### Herbáceas
 
 #### Malícia
@@ -2057,10 +1565,6 @@ A palma-do-campo é uma importante fonte de pólen para as abelhas nativas. É r
 
 **Descrição:**
 Mimosa modesta, conhecida popularmente como malícia, é uma espécie perene que ocorre principalmente em solos arenosos e em áreas abertas. Possui folhas sensitivas formadas por um tecido contrátil que fecha os folíolos quando ocorre algum contato. Suas inflorescências são formadas por flores muito pequenas, com filetes de cor rosa e anteras amarelas. As abelhas nativas visitam suas flores para coletar tanto pólen como néctar. Suas flores possuem características melíferas importantes para a criação e a conservação de abelhas nativas. Recomenda-se utilizar essa planta em jardins de flora melífera.
-
-**Referências Bibliográficas:** 8, 14
-
-
 
 # Manual Técnico de Apicultura
 
@@ -2085,13 +1589,6 @@ Mimosa quadrivalvis, conhecida popularmente como malícia, é uma espécie herb�
 #### Importância para a Apicultura:
 Para fortalecer a criação de abelhas sem ferrão, é importante utilizar essa planta na construção de jardins com flora melífera.
 
-#### Referências Bibliográficas:
-- 5
-- 8
-- 14
-
-
-
 # Manual Técnico de Apicultura
 
 ## Herbáceas
@@ -2109,14 +1606,6 @@ Stylosanthes viscosa, popularmente conhecida como melosa, recebe esse nome devid
 #### Importância para a Apicultura
 O néctar é o principal recurso floral coletado pelas abelhas nativas, como as abelhas do gênero Xylocopa (mamangavas-de-toco). Devido às características ornamentais e melíferas de suas flores, recomenda-se utilizar essa planta em jardins de flora melífera.
 
-#### Referências Bibliográficas
-- 8
-- 9
-- 14
-- 16
-
-
-
 ### Herbáceas
 
 #### Amargosa
@@ -2130,10 +1619,6 @@ Marsypianthes chamaedrys, conhecida popularmente como amargosa ou casadinha, é 
 
 **Importância para a Apicultura:**
 Essa planta pode ser utilizada em jardins de flora melífera com a finalidade de fornecer recursos alimentares para as abelhas nativas. As espécies de abelhas nativas visitam suas flores para coletar principalmente néctar.
-
-**Referências Bibliográficas:** 7, 8, 9
-
-
 
 # Manual Técnico de Apicultura
 
@@ -2152,15 +1637,6 @@ Pavonia cancellata, conhecida popularmente como corda-de-viola ou malva rasteira
 #### Importância para a Apicultura
 A corda-de-viola possui um grande potencial ornamental e é recomendada para utilização em jardins de flora melífera, com a finalidade de fornecer néctar e pólen para as abelhas nativas. Os principais visitantes florais são as abelhas solitárias, que frequentemente dormem dentro de suas flores. Os machos de abelhas solitárias costumam entrar nas flores antes de seu fechamento e permanecem até o dia seguinte.
 
-#### Referências bibliográficas
-- 2
-- 7
-- 8
-- 9
-- 18
-
-
-
 # Manual Técnico de Apicultura
 
 ## Herbáceas
@@ -2178,16 +1654,6 @@ A corda-de-viola possui um grande potencial ornamental e é recomendada para uti
 #### Importância para a Apicultura
 Muitas espécies de insetos, incluindo abelhas nativas, visitam suas flores para coletar principalmente néctar. Essa espécie pode ser utilizada em jardins de flora melífera com a finalidade de fornecer recursos alimentares para as abelhas nativas.
 
-#### Referências Bibliográficas
-1. Referência 8
-2. Referência 9
-
-----
-
-Este formato mantém a estrutura e as informações relevantes sobre a planta, facilitando a consulta para apicultores interessados em promover a flora melífera.
-
-
-
 # Manual Técnico de Apicultura
 
 ## Herbáceas
@@ -2203,10 +1669,6 @@ Oxalis divaricata, conhecida popularmente como trevo ou azedinho, é uma espéci
 
 **Recomendações:**
 Devido às características ornamentais e melíferas de suas flores, recomenda-se a utilização dessa espécie em jardins de flora melífera.
-
-**Referências Bibliográficas:** 1, 8
-
-
 
 # Manual Técnico de Apicultura
 
@@ -2224,10 +1686,6 @@ Oxalis glaucescens, conhecida popularmente como trevo ou azedinho, é uma espéc
 
 **Importância para a Apicultura:**
 O cultivo de Oxalis glaucescens é ideal para a construção de jardins com flora melífera, fornecendo recursos importantes para a manutenção e conservação das espécies de abelhas nativas.
-
-**Referências Bibliográficas:** 1, 8
-
-
 
 # Vassourinha-de-botão
 
@@ -2251,14 +1709,6 @@ Scoparia dulcis, popularmente conhecida como vassourinha-de-botão, é uma espé
 ## Importância para a Apicultura
 A vassourinha-de-botão é uma excelente opção para aumentar a oferta de recursos para as abelhas e outros insetos polinizadores. Pode ser facilmente cultivada em áreas pequenas, como jardins residenciais, contribuindo para a biodiversidade e a saúde dos ecossistemas locais.
 
-## Referências Bibliográficas
-- 5
-- 8
-- 9
-- 20
-
-
-
 # Manual Técnico de Apicultura
 
 ## Herbáceas
@@ -2275,18 +1725,6 @@ Polygala violacea é uma espécie anual que ocorre principalmente em áreas aber
 
 #### Importância Ecológica
 Essa espécie é importante para a manutenção e conservação das espécies de abelhas nativas. As abelhas nativas, especialmente as abelhas solitárias, são os visitantes florais mais frequentes dessa planta.
-
-#### Referências Bibliográficas
-- 4
-- 8
-- 9
-- 21
-
-----
-
-Este conteúdo é essencial para apicultores que buscam entender a flora que atrai polinizadores e a importância das plantas nativas na conservação das abelhas.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -2305,14 +1743,6 @@ A beldroega, conhecida popularmente como Portulaca oleracea, é uma espécie anu
 #### Importância Ecológica
 As flores atraem muitos insetos, especialmente diversas espécies de abelhas nativas. Essa planta desempenha um papel importante na manutenção e conservação das espécies de abelhas nativas. A beldroega pode ser facilmente plantada em áreas pequenas, como jardins residenciais.
 
-#### Referências Bibliográficas
-- 3
-- 5
-- 8
-- 9
-
-
-
 # Manual Técnico de Apicultura
 
 ## Herbáceas
@@ -2330,16 +1760,6 @@ Talinum triangulare, popularmente conhecida como beldroega-graúda, é uma espé
 #### Importância para a Apicultura
 Muitas espécies de abelhas, especialmente as abelhas solitárias, são os principais visitantes florais dessa planta. A beldroega-graúda pode ser utilizada como planta ornamental em jardins de flora melífera, contribuindo para fornecer recursos alimentares para as abelhas nativas.
 
-#### Referências Bibliográficas
-1. Referência 8
-2. Referência 9
-
-----
-
-Este formato mantém a estrutura e as informações relevantes sobre a beldroega-graúda, destacando sua importância para a apicultura.
-
-
-
 # Manual Técnico de Apicultura
 
 ## Herbáceas
@@ -2356,11 +1776,6 @@ Borreria verticillata, conhecida popularmente como cabeça-de-velho ou vassourin
 
 #### Importância para a Apicultura
 A cabeça-de-velho é uma fonte de néctar muito importante para as abelhas nativas. Espécies de abelhas sem ferrão, como a abelha jandaíra (Melipona subnitida), são visitantes frequentes de suas flores. Para fortalecer a criação de abelhas sem ferrão, é importante utilizar essa planta na construção de jardins com flora melífera.
-
-#### Referências Bibliográficas
-5, 8, 9, 21
-
-
 
 ### HERBÁCEAS
 
@@ -2380,10 +1795,6 @@ A cabeça-de-velho é uma fonte de néctar muito importante para as abelhas nati
 **Descrição:**
 Diodella teres, conhecida popularmente como mata-pasto, é uma espécie anual que geralmente forma tapetes no solo e ocorre principalmente em áreas abertas com solos arenosos. As flores dessa espécie são pequenas, com pétalas de coloração lilás, e fornecem principalmente néctar para as abelhas nativas. Essa espécie pode ser utilizada em jardins de flora melífera com a finalidade de fornecer néctar para as abelhas nativas.
 
-**Referências Bibliográficas:** 5, 8, 9
-
-
-
 # Manual Técnico de Apicultura
 
 ## Herbáceas
@@ -2400,18 +1811,6 @@ Richardia grandiﬂora, conhecida popularmente como asa-de-pato, é uma espécie
 
 #### Polinizadores
 Uma grande variedade de insetos visitam suas flores, incluindo vespas, moscas, borboletas e abelhas. Essa planta desempenha um papel fundamental na manutenção e na conservação das espécies de abelhas nativas.
-
-#### Referências Bibliográficas
-1. Referência 5
-2. Referência 7
-3. Referência 8
-4. Referência 9
-
-----
-
-Este formato mantém a estrutura e as informações relevantes sobre a planta Asa-de-pato, que é importante para a apicultura e a conservação das abelhas nativas.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -2438,38 +1837,7 @@ Os principais visitantes florais são espécies de abelhas sem ferrão, como:
 **Uso:**
 A chanana é ornamental e pode ser utilizada em jardins de flora melífera, com a finalidade de fornecer néctar e pólen para as abelhas nativas.
 
-**Referências Bibliográficas:** 8, 9, 10, 17
-
-
-
 # Manual Técnico de Apicultura
-
-## Referências
-
-1. Abreu, M.C., Carvalho, R. &#x26; Sales, M.F. 2008. Oxalis L. (Oxalidaceae) no Estado de Pernambuco, Brasil. *Acta Botânica Brasileira*, 22: 399-418.
-2. Aguiar, C.M.L. 2003. Utilização de recursos florais por abelhas (Hymenoptera, Apoidea) em uma área de Caatinga (Itatim, Bahia, Brasil). *Revista Brasileira de Zoologia*, 20: 457-467.
-3. Coelho, A.A.O.P. &#x26; Giulietti, A.M. 2010. O gênero Portulaca L. (Portulacaceae) no Brasil. *Acta Botânica Brasileira*, 24: 655-670.
-4. Coelho, V.P.M., Agra, M.F. &#x26; Baracho, G.S. 2008. Flora da Paraíba, Brasil: Polygala L. (Polygalaceae). *Acta Botânica Brasileira*, 22: 225-239.
-5. Giullieti, A.M., Queiroz, L.P. &#x26; Santos, F.A.R. 2006. Apium Plantae. Recife: Associação Plantas do Nordeste, 130 p.
-6. Kiill, L.H.P. &#x26; Ranga, N.T. 2003. Ecologia da polinização de *Ipomoea asarifolia* (Ders.) Roem. &#x26; Schult. (Convolvulaceae) na região Semi-árida de Pernambuco. *Acta Botanica Brasilica*, 18: 355–362.
-7. Kiill, L.H.P., Haji, F.N.P. &#x26; Lima, P.C.F. 2000. Visitantes florais de plantas invasoras de áreas com fruteiras irrigadas. *Scientia Agricola*, 57: 575-580.
-8. Lista de Espécies da Flora do Brasil 2011 in http://floradobrasil.jbrj.gov.br/2011.
-9. Lorenzi, H. 2008. Plantas daninhas do Brasil: terrestres, aquáticas, parasitas e tóxicas. 4. ed. Nova Odessa: Instituto Plantarum, 640p.
-10. Medeiros, P.C.R. &#x26; Schlindwein, C. 2003. Territórios de machos, acasalamento, distribuição e relação com plantas em *Protomeliturga turnerae* (Ducke, 1907) (Hymenoptera, Andrenidae). *Revista Brasileira de Entomologia*, 47: 589-596.
-11. Melo, J.I.M. &#x26; Sales M.F. 2004. *Heliotropium* L. (Boraginaceae – Heliotropioideae) de Pernambuco, Nordeste do Brasil. *Rodriguésia*, 55: 65-87.
-12. Melo, J.I.M. de &#x26; Semir, J. 2010. Taxonomia do gênero *Euploca* Nutt. (Heliotropiaceae) no Brasil. *Acta Botanica Brasilica*, 24: 111-132.
-13. Piedade-Kiill, L.H. &#x26; Ranga N.T. 2000. Biologia floral e sistema de reprodução de *Jacquemontia multiflora* (Choisy) Hallier f. (Convolvulaceae). *Revista Brasileira de Botânica*, 23: 37-43.
-14. Queiroz, L.P. de. 2009. Leguminosas da caatinga. Feira de Santana: Universidade Estadual de Feira de Santana, 467p.
-15. Queiroz, R.T. &#x26; Loiola, M.I.B. 2009. *Chamaecrista* Moench no entorno do Parque das Dunas de Natal Rio Grande do Norte, Brasil. *Hoehnea*, 36: 725-736.
-16. Ramalho, M. &#x26; Rosa, J. F. 2010. Ecologia da interação entre as pequenas flores de quilha de *Stylosanthes viscosa* Sw. (Faboideae) e as grandes abelhas *Xylocopa (Neoxylocopa) cearensis* Ducke, 1910 (Apoidea, Hymenoptera), em duna tropical. *Biota Neotropica*, http://www.biotaneotropica.org.br/v10n3/pt/abstract?article+bn01810032010.
-17. Schlindwein, C. &#x26; Medeiros, P.C.R. 2006. Pollination in *Turnera subulata* (Turneraceae): unilateral reproductive dependence of the narrowly oligolectic bee *Protomeliturga turnerae* (Hymenoptera, Andrenidae). *Flora*, 201: 178-188.
-18. Schlindwein, C. &#x26; Martins, C.F. 2000. Competition between the oligolectic bee *Ptilothrix plumata* (Anthophoridae) and the flower closing beetle *Pristimerus calcaratus* (Curculionidae) for floral resources of *Pavonia cancellata* (Malvaceae). *Plant Systematics and Evolution*, 224: 183-194.
-19. Silva, F.O., Kevan, S.D., Roque, N., Viana, B.F. &#x26; Kevan, P.G. 2010. Records on floral biology and visitors of *Jacquemontia montana* (Moric.) Meisn. (Convolvulaceae) in Mucugê, Bahia. *Brazilian Journal of Biology*, 70: 671-676.
-20. Silva, T.M.S., Camara, C.A, Lins, A.C.S., Agra, M.F., Silva, E.M.S., Reis, I.T. &#x26; Freitas, B.M. 2009. Chemical composition, botanical evaluation and screening of radical scavenging activity of collected pollen by the stingless bees *Melipona rufiventris* (Uruçu-amarela). *Anais da Academia Brasileira de Ciências*, 81: 183-188.
-21. Viana, B.F., Silva, F.O. &#x26; Kleinert, A.M.P. 2006. A flora apícola de uma área restrita de dunas litorâneas, Abaeté, Salvador, Bahia. *Revista Brasileira de Botânica*, 29: 13-25.
-22. Zanella, F.C.V. 2010. Abelhas e plantas da caatinga: importância dos visitantes florais na reprodução das plantas herbáceas e da *Apis mellifera* nas guildas de visitantes florais. *Anais do IX Encontro sobre Abelhas*, Ribeirão Preto - SP, Brasil.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -2500,8 +1868,6 @@ As flores de trepadeiras, como a **Jacquemontia multiflora** (jetirana-branca), 
 
 As trepadeiras desempenham um papel crucial na apicultura, não apenas como fonte de néctar, mas também como parte do ecossistema que sustenta as colmeias. O manejo adequado dessas plantas pode resultar em colmeias mais saudáveis e produtivas.
 
-
-
 # Manual Técnico de Apicultura
 
 ## Jetirana (Ipomoea bahiensis Willd. ex Roem. Schult.)
@@ -2528,18 +1894,6 @@ As flores da jetirana fornecem pólen e néctar a diversos visitantes florais, d
 ### Uso Ornamental
 Devido ao seu florescimento vistoso, essa planta pode ser cultivada para fins ornamentais, principalmente na construção de jardins, cercas vivas e também para fornecer sombra.
 
-### Referências Bibliográficas
-- 2
-- 5
-- 7
-- 8
-
-----
-
-Este conteúdo é essencial para apicultores que buscam entender a importância das plantas nativas na alimentação das abelhas e na conservação do meio ambiente.
-
-
-
 # Manual Técnico de Apicultura
 
 ## Trepadeiras
@@ -2564,14 +1918,6 @@ Ipomoea nil, conhecida popularmente como corda-de-viola, é uma trepadeira que o
 #### Importância para a Apicultura:
 A corda-de-viola pode ser utilizada em jardins de flora melífera para aumentar a disponibilidade de recursos alimentares utilizados pelas abelhas.
 
-#### Referências Bibliográficas:
-- 2
-- 5
-- 6
-- 8
-
-
-
 # Manual Técnico de Apicultura
 
 ## Trepadeiras Melíferas
@@ -2588,16 +1934,6 @@ Jacquemontia montana é uma trepadeira que ocorre principalmente em áreas abert
 
 #### Importância Ecológica
 Muitos insetos, especialmente as abelhas solitárias, visitam suas flores para coletar néctar e pólen. Devido à sua importância melífera, recomenda-se a utilização dessa planta em áreas de preservação e na criação de espécies de abelhas nativas.
-
-#### Referências Bibliográficas
-- 5
-- 12
-
-----
-
-Este conteúdo é parte de um manual técnico voltado para a apicultura, destacando a importância de plantas melíferas e suas características.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -2616,17 +1952,6 @@ Jacquemontia multiflora, popularmente conhecida como jetirana-branca, é uma tre
 #### Importância
 Essa espécie desempenha um papel importante na manutenção das abelhas nativas e pode ser utilizada em jardins de flora melífera, contribuindo para a biodiversidade e a polinização.
 
-#### Referências Bibliográficas
-- 2
-- 5
-- 9
-
-----
-
-Este conteúdo é parte do manual técnico de apicultura, que visa fornecer informações sobre plantas que são importantes para a alimentação das abelhas e a produção de mel.
-
-
-
 # Manual Técnico de Apicultura
 
 ## Trepadeiras
@@ -2643,15 +1968,6 @@ Merremia aegyptia, popularmente conhecida como jetirana-de-mocó ou jetirana-cab
 
 #### Cultivo
 Essa espécie pode ser cultivada para fins ornamentais e também é utilizada em jardins de flora melífera, com a finalidade de fornecer recursos florais para as abelhas nativas.
-
-#### Referências Bibliográficas
-1. Referência 2
-2. Referência 4
-3. Referência 5
-4. Referência 6
-5. Referência 8
-
-
 
 # Manual Técnico de Apicultura
 
@@ -2672,13 +1988,6 @@ Os principais visitantes florais são abelhas de grande porte, como as mamangava
 
 #### Potencial
 O feijão-de-porco é uma planta rústica e com flores vistosas, possuindo um grande potencial ornamental. Pode ser utilizada em jardins de flora melífera com a finalidade de fornecer néctar para as abelhas nativas.
-
-#### Referências Bibliográficas
-- 3
-- 5
-- 10
-
-
 
 ### TREPADEIRAS
 
@@ -2709,10 +2018,6 @@ Essa trepadeira possui um grande potencial ornamental e pode ser utilizada em ja
 
 ----
 
-**Referências Bibliográficas:** 5, 10, 11
-
-
-
 # Trepadeiras
 
 ## Rama-Amarela
@@ -2734,15 +2039,6 @@ Chaetocalyx scandens, popularmente conhecida como rama-amarela ou cipó-babão, 
 ### Potencial
 A rama-amarela possui potencial ornamental e pode ser utilizada em jardins de flora melífera com a finalidade de fornecer néctar para as abelhas nativas, especialmente no período de transição entre a estação chuvosa e seca.
 
-### Referências Bibliográficas
-1.
-2.
-5.
-10.
-11.
-
-
-
 # Manual Técnico de Apicultura
 
 ## Trepadeiras
@@ -2760,29 +2056,7 @@ Cardiospermum corindum, conhecida popularmente como chocalho-de-vaqueiro, é uma
 #### Importância para a Apicultura
 As flores do chocalho-de-vaqueiro produzem pólen e néctar, os quais atraem muitos visitantes florais, incluindo espécies de abelhas sem-ferrão. Para fortalecer a criação de abelhas sem-ferrão, é importante utilizar essa planta na construção de jardins com flora melífera.
 
-#### Referências Bibliográficas
-1. [Referência 1]
-2. [Referência 2]
-3. [Referência 5]
-
-
-
 # Guia de Plantas Visitadas por Abelhas na Caatinga
-
-## Referências
-
-1. Aguiar, C.M.L. 2003. Utilização de recursos florais por abelhas (Hymenoptera, Apoidea) em uma área de Caatinga (Itatim, Bahia, Brasil). *Revista Brasileira de Zoologia*, 20: 457-467.
-2. Giullieti, A.M., Queiroz, L.P. &#x26; Santos, F.A.R. 2006. *Apium Plantae*. Recife: Associação Plantas do Nordeste, 130 p.
-3. Guedes, R.S., Quirino, Z.G.M. &#x26; Gonçalves, E.P. 2009. Fenologia reprodutiva e biologia da polinização de *Canavalia brasiliensis* Mart. ex Benth (Fabaceae). *Biotemas*, 22: 27-37.
-4. Kiill, L.H.P., Haji, F.N.P. &#x26; Lima, P.C.F. 2000. Visitantes florais de plantas invasoras de áreas com fruteiras irrigadas. *Scientia Agricola*, 57: 575-580.
-5. Lista de Espécies da Flora do Brasil 2011 in http://floradobrasil.jbrj.gov.br/2011.
-6. Lorenzi, H. 2008. *Plantas daninhas do Brasil: terrestres, aquáticas, parasitas e tóxicas*. 4. ed. Nova Odessa: Instituto Plantarum, 640p.
-7. Pacheco Filho, A.J.S., Westerkamp, C. &#x26; Freitas, B.M. 2011. *Ipomoea bahiensis* pollinators: Bees or butterflies? *Flora - Morphology, Distribution, Functional Ecology of Plants*, 206: 662-667.
-8. Pick, R.A. &#x26; Schlindwein, C. 2011. Pollen partitioning of three species of *Convolvulaceae* among oligolectic bees in the Caatinga of Brazil. *Plant Systematics and Evolution*, 293: 147–159.
-9. Piedade-Kiill, L.H. &#x26; Ranga, N.T. 2000. Biologia floral e sistema de reprodução de *Jacquemontia multiflora* (Choisy) Hallier f. (Convolvulaceae). *Revista Brasileira de Botânica*, 23: 37-43.
-10. Queiroz, L.P. de. 2009. *Leguminosas da caatinga*. Feira de Santana: Universidade Estadual de Feira de Santana, 467p.
-11. Rodarte, A.T.A., Silva, F.O. &#x26; Viana, B.F. 2008. A flora melitófila de uma área de dunas com vegetação de caatinga, Estado da Bahia, Nordeste do Brasil. *Acta Botânica Brasileira*, 22: 301-312.
-12. Silva, F.O., Kevan, S.D., Roque, N., Viana, B.F. &#x26; Kevan, P.G. 2010. Records on floral biology and visitors of *Jacquemontia montana* (Moric.) Meisn. (Convolvulaceae) in Mucugê, Bahia. *Brazilian Journal of Biology*, 70: 671-676.
 
 ## Autores
 
@@ -2823,8 +2097,6 @@ Biólogo, licenciatura e bacharelado pela Universidade Federal do Rio Grande do 
 **Vera Lucia Imperatriz-Fonseca**
 Bióloga, Pesquisadora CNPq 1B. Doutorado, Livre-Docência e Professora Titular em Ecologia pela Universidade de São Paulo, onde foi docente até 2003; após este período, trabalhou como pesquisadora visitante na FFCLRP-USP, no IEA/USP, no IBUSP e atualmente é Professora Visitante Nacional Senior da Capes na UFERSA, Mossoró, RN.
 
-
-
 # ÁREA DE ABRANGÊNCIA DAS PESQUISAS
 
 Os estudos e pesquisas que compõem o conteúdo do livro “Guia de plantas visitadas por abelhas na caatinga” foram realizados nos estados do Ceará (no município de Icapuí) e Rio Grande do Norte (na Estação Experimental Rafael Fernandes/UFERSA, localizada no município de Mossoró). As áreas foram selecionadas de acordo com a representatividade da flora nativa.
@@ -2838,8 +2110,6 @@ CEARÁ
 BRASIL
 
 A caatinga é caracterizada por marcante sazonalidade, causada por ausência de chuvas ou baixa precipitação em parte do ano, e uma estação chuvosa onde a vida surge com todo o seu vigor. Nas fotos ao lado, o registro desses dois momentos na Reserva Natural Serra das Almas, Ceará. (Acervo Associação Caatinga).
-
-
 
 # Manual Técnico de Apicultura
 
@@ -2880,8 +2150,6 @@ A caatinga é caracterizada por marcante sazonalidade, causada por ausência de 
 - **Descrição**: A costa brasileira estende-se por cerca de 8.000 km, formando um dos maiores litorais do mundo.
 - **Características**: Composta por diferentes paisagens naturais como dunas, ilhas, recifes, costões rochosos, baías, estuários, manguezais, restingas, brejos e falésias. As áreas remanescentes, cerca de 8% da área total, encontram-se hoje distribuídas de forma descontínua pelo país.
 
-
-
 # Manual Técnico de Apicultura
 
 ## Introdução
@@ -2916,4 +2184,3 @@ A apicultura é a prática de criar abelhas para a produção de mel, cera, pró
 
 ## Conclusão
 A apicultura é uma atividade que requer conhecimento e dedicação. Seguindo as orientações deste manual, é possível obter uma produção sustentável e de qualidade, contribuindo para a preservação das abelhas e do meio ambiente.
-

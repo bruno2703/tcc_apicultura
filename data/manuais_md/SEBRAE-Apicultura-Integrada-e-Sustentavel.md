@@ -1,8 +1,5 @@
 # Apicultura: Manual do Agente de Desenvolvimento Rural
 
-## Prêmio de Melhor Livro Apícola - SEBRAE
-Confederação Brasileira de Apicultura - 2006
-
 ----
 
 ### Estruturas de Manejo
@@ -45,12 +42,6 @@ A apicultura é uma atividade que não só gera renda, mas também contribui par
 
 ----
 
-### Referências
-- Confederação Brasileira de Apicultura - 2006
-- SEBRAE - Recursos e orientações para apicultores.
-
-
-
 # REDE APIS - APICULTURA INTEGRADA E SUSTENTÁVEL
 
 ## APICULTURA
@@ -58,7 +49,6 @@ A apicultura é uma atividade que não só gera renda, mas também contribui par
 
 #### ORGANIZADO POR DARCET COSTA SOUZA
 
-#### SEBRAE
 Parceiro dos brasileiros
 
 ----
@@ -102,11 +92,7 @@ A apicultura é uma atividade que pode trazer benefícios econômicos e ambienta
 
 Este manual é um guia para apicultores que desejam desenvolver suas atividades de forma responsável e sustentável. Para mais informações, consulte o SEBRAE ou outras instituições especializadas em apicultura.
 
-
-
 Parece que você forneceu um texto que não está completo ou está em um formato que não posso processar diretamente. Se você tiver informações específicas ou se precisar de ajuda com um tópico relacionado à apicultura, como manejo de colmeias, cuidados com as abelhas, ou qualquer outra questão técnica, por favor, forneça mais detalhes e ficarei feliz em ajudar!
-
-
 
 # Manual Técnico de Apicultura
 
@@ -114,42 +100,21 @@ Parece que você forneceu um texto que não está completo ou está em um format
 
 | Nome                                      | Instituição                  |
 |-------------------------------------------|------------------------------|
-| Vinicius Nobre Lages                      | SEBRAE/NA                   |
-| Helena Oliveto Greco                      | SEBRAE/NA                   |
-| Newman Maria da Costa                     | SEBRAE/NA                   |
-| Francisco das Chagas Holanda              | SEBRAE/PI                   |
-| Maria das Mercês Leal Dias                | SEBRAE/PI                   |
-| Ana Mary Leal Dias Bezerra               | SEBRAE/PI                   |
-| Valdemar Belchior Filho                   | SEBRAE/RN                   |
 | Adelmir Araújo Santana                    |                              |
-| Boanerges Lopes Custódio                 | SEBRAE/CE                   |
-| Elton Diones Lima Monteiro                | SEBRAE/PE                   |
 | Paulo Tarciso Okamotto                    |                              |
 | Luiz Carlos Barboza                       |                              |
 | Carlos Alberto Dos Santos                 |                              |
-| Juarez de Paula                           | Gerente da Unidade de Agronegócios e Territórios Específicos do Sebrae Nacional |
-| Alzira Vieira                              | Coordenação Nacional da REDE APIS |
-| Reginaldo Barroso de Resende              | Coordenação Nacional da REDE APIS |
-| Ulysses Gonçalves Nunes de Moraes        | Presidente do Conselho Deliberativo Estadual do Sebrae Piauí |
-| Delano Rodrigues Rocha                     | Diretor-Superintendente do Sebrae no Piauí |
-| Evandro Cosme Soares de Oliveira          | Diretor Administrativo-Financeiro do Sebrae no Piauí |
-| Mário José Lacerda de Melo                | Diretor Técnico              |
 
 ----
 
 Este manual é uma referência técnica para apicultores e interessados na prática da apicultura, abordando desde a criação de abelhas até a produção de mel e outros produtos apícolas.
-
-
 
 # MANUAL DE APICULTURA - MANUAL DO AGENTE DE DESENVOLVIMENTO RURAL
 
 **Copyright C 2004 by Darcet Costa Souza (Org.)**
 **2ª edição revisada. 2006**
 
-**SEBRAE-PI**
 Av. Campos Sales, 1046 - Centro - 64.000-300
-Tel: (086) 216 1300
-Telfax: (086) 216 1349
 Teresina - Piauí
 
 ## EQUIPE TÉCNICA
@@ -184,8 +149,6 @@ Teresina - Piauí
 
 Este manual é uma ferramenta essencial para o desenvolvimento de práticas apícolas, visando a capacitação e o aprimoramento dos agentes de desenvolvimento rural.
 
-
-
 # Manual Técnico de Apicultura
 
 ## Apresentação
@@ -206,8 +169,6 @@ Assim, em 2004, a partir de uma iniciativa pioneira e inovadora conduzida no âm
 
 *Nota: O texto acima é uma introdução ao manual técnico de apicultura, destacando a importância da apicultura como uma alternativa viável para inclusão social e desenvolvimento sustentável no Brasil.*
 
-
-
 # Manual de Apicultura
 
 ## Introdução
@@ -216,10 +177,7 @@ O SEBRAE do Ceará, de Pernambuco e do Piauí criou o Agente de Desenvolvimento 
 
 Este manual foi idealizado como parte da formação do ADR e serve como um importante instrumento de orientação para as boas práticas na apicultura. Ele abrange os principais conceitos e informações sobre o processo produtivo do mel. Este documento não deve ser apenas lido e esquecido; é uma ferramenta essencial para a atuação eficaz do ADR, permitindo oferecer respostas imediatas tanto para apicultores experientes quanto para aqueles que desejam ingressar no mercado apícola. Além disso, o manual deve ser utilizado como material de pesquisa e consulta, servindo como uma ferramenta do dia a dia para o Agente de Desenvolvimento Rural em Apicultura – ADR Apis.
 
-### Mensagem do Diretor Técnico
-
 **Luiz Carlos Barboza**
-Diretor Técnico do Sebrae Nacional
 
 ----
 
@@ -264,8 +222,6 @@ Diretor Técnico do Sebrae Nacional
 
 Este manual é uma ferramenta valiosa para todos os envolvidos na apicultura, promovendo o desenvolvimento sustentável e a melhoria contínua na produção de mel.
 
-
-
 # Manual Técnico de Apicultura
 
 ## SUMÁRIO
@@ -276,15 +232,7 @@ Este manual é uma ferramenta valiosa para todos os envolvidos na apicultura, pr
 
 ### CAPÍTULO 3 - Por que Criar Abelhas? ................................................ 23
 
-### CAPÍTULO 4 - Importância Socioeconômica ....................................... 29
-
-### CAPÍTULO 5 - Biologia das Abelhas ................................................... 37
-
-### CAPÍTULO 6 - Material Apícola .......................................................... 51
-
 ### CAPÍTULO 7 - Localização e Instalação de Apiários ............................ 63
-
-### CAPÍTULO 8 - Povoamento de Colméias ............................................ 71
 
 ### CAPÍTULO 9 - Manejo Básico das Colméias ....................................... 77
 
@@ -292,33 +240,11 @@ Este manual é uma ferramenta valiosa para todos os envolvidos na apicultura, pr
 
 ### CAPÍTULO 11 - Manejo Para a Produção ........................................... 87
 
-### CAPÍTULO 12 - Manejo de Rainhas ................................................... 91
-
-### CAPÍTULO 13 - Alimentação Artificial .............................................. 101
-
 ### CAPÍTULO 14 - Divisão e União de Enxames .................................... 109
-
-### CAPÍTULO 15 - Controle de Enxameação ......................................... 115
-
-### CAPÍTULO 16 - Transporte de Colméias ........................................... 121
-
-### CAPÍTULO 17 - Colheita do Mel ....................................................... 125
-
-### CAPÍTULO 18 - Produtos da Colméia ............................................... 133
 
 ### CAPÍTULO 19 - A Casa do Mel ......................................................... 141
 
 ### CAPÍTULO 20 - Pragas e Doenças das Abelhas .............................. 151
-
-### CAPÍTULO 21 - Escrituração Zootécnica .......................................... 159
-
-### CAPÍTULO 22 - Acidentes com Abelhas ........................................... 169
-
-### GLOSSÁRIO - ................................................................................. 174
-
-### BIBLIOGRAFIA CONSULTADA .................................................... 178
-
-
 
 # Manual Técnico de Apicultura
 
@@ -356,10 +282,6 @@ A apicultura é a prática de criar abelhas para a produção de mel, cera, pró
 ## Conclusão
 A apicultura é uma atividade que requer dedicação e conhecimento. Seguir as orientações deste manual ajudará a garantir a saúde das colmeias e a qualidade dos produtos apícolas.
 
-
-
-# CAPÍTULO 1
-
 ## Rede APIS – O desafio de associar recursos e integrar competências para promover uma Apicultura Integrada e Sustentável
 
 **Alzira Vieira**
@@ -370,8 +292,6 @@ O atual momento da apicultura exige uma mudança de comportamento e nos estimula
 O slogan da REDE APIS, "associando recursos e integrando competências para viabilizar negócios", abarca desde a colaboração na formulação e execução de projetos e programas até a implementação das iniciativas que facilitam a criação de organizações, onde os indivíduos possam articular seus interesses, buscando alcançar resultados compartilhados.
 
 Estruturados num modelo orientado para obtenção de resultados definidos pelos públicos-alvo das ações, onde a promoção da cultura da cooperação e articulação de parcerias são a base para a viabilização.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -402,8 +322,6 @@ A apicultura brasileira possui um elevado potencial de inclusão, pois, sob o po
 ## Conclusão
 
 A apicultura não apenas contribui para a economia, mas também desempenha um papel crucial na preservação ambiental e na promoção da biodiversidade. Através da cooperação e do trabalho em rede, é possível superar os desafios e maximizar os resultados, garantindo um futuro sustentável para a apicultura no Brasil.
-
-
 
 # REDE APIS - APICULTURA INTEGRADA E SUSTENTÁVEL
 
@@ -440,14 +358,10 @@ Para que a apicultura seja um bom negócio e sustentável, é fundamental um bom
 ### Imagens
 
 - **Grupo de pequenos apicultores da região de Simplício Mendes/PI.**
-![Grupo de pequenos apicultores](link_para_imagem)
 
 - **Apiário na região de Cáceres no Mato Grosso.**
-![Apiário em Cáceres](link_para_imagem)
 
 *Foto: Luciano Pinto | Foto: Darcet C. Souza*
-
-
 
 # Manual Técnico de Apicultura
 
@@ -494,10 +408,6 @@ A saúde das abelhas é fundamental para a produtividade. Algumas práticas reco
 ## Conclusão
 A apicultura é uma atividade gratificante que requer conhecimento e dedicação. Seguindo as orientações deste manual, os apicultores podem garantir a saúde de suas colmeias e a qualidade dos produtos apícolas.
 
-
-
-# CAPÍTULO 2
-
 ## O Agente de Desenvolvimento Rural (ADR APIS)
 
 **Autores:**
@@ -513,10 +423,6 @@ Todos os conceitos e procedimentos aqui recomendados são originários do Projet
 
 É, por definição, a pessoa capacitada e treinada para o atendimento básico específico de uma atividade numa comunidade rural. Assim, um ADR – APIS é a pessoa preparada para ser o principal instrumento de desenvolvimento da Apicultura em sua comunidade. É o Técnico de Assistência Básica, que absorverá e aplicará em campo todo conhecimento teórico e prático disponível.
 
-![Foto: Júlio Cezar Lucena](#)
-
-
-
 # MANUAL ADR
 
 ## 3. Por que ser um ADR?
@@ -530,15 +436,11 @@ As principais atribuições de um ADR – APIS são:
 1. Aplicação de questionário inicial.
 2. Fazer revisões nos apiários com os apicultores.
 3. Prestar orientações técnicas e organizacionais aos apicultores.
-4. Difundir informativos, orientações e outras publicações determinadas pelo coordenador.
-5. Convocar reuniões determinadas pelo coordenador.
 6. Elaborar o calendário de suas visitas e do supervisor com os produtores.
 7. Elaborar um mapa regional com a localização dos apiários e principais marcos geográficos, como estradas, serras, rios, lagoas. Incluir ainda o pasto apícola, áreas de cultivo intensivo, pastagens e áreas desmatadas.
 8. Acompanhar o manejo sanitário da criação.
 
 O ADR – APIS realizará revisões dos apiários uma vez por mês, contando com a presença do apicultor, a quem prestará orientações sobre o manejo e a situação atual dos enxames, corrigindo imediatamente as situações inadequadas. O projeto se inicia com a caracterização inicial dos apicultores, por meio da aplicação de um questionário específico, que marcará a situação inicial do apicultor a ser atendido pelo ADR.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -558,7 +460,6 @@ Um aspecto primordial a ser tratado é a escrituração zootécnica. O preenchim
 
 ### Atividades do ADR APIS
 - Aplicação do questionário inicial
-- Revisão nos apiários
 - Orientação técnica e organizacional
 - Difusão de informativos
 - Convocação de reuniões
@@ -568,10 +469,7 @@ Um aspecto primordial a ser tratado é a escrituração zootécnica. O preenchim
 ### Conclusão
 O trabalho do ADR APIS é fundamental para o desenvolvimento da apicultura e para a melhoria da qualidade de vida dos apicultores. Através de uma abordagem educativa e colaborativa, o ADR pode ajudar a promover a autonomia dos apicultores e a implementação de práticas mais eficientes e tecnológicas.
 
-![ADR e apicultor avaliando a florada.](#)
 *Foto: Júlio Cezar Lucena*
-
-
 
 # MANUAL ADR - APIS
 
@@ -611,8 +509,6 @@ O ADR – APIS atuará junto aos apicultores nas localidades designadas pelo ges
 
 (continua)
 
-
-
 # Manual Técnico de Apicultura
 
 ## O Agente de Desenvolvimento Rural - ADR APIS
@@ -647,8 +543,6 @@ Remuneração = Remuneração Fixa + Reposição dos Custos de Deslocamento + Pr
 
 *Foto: Marcos Tavares*
 
-
-
 # MANUAL ADR
 
 ## Caixa Explicativa
@@ -677,8 +571,6 @@ Uma vez nomeado o Gestor Estadual do projeto, o mesmo se encarregará de identif
 
 Os técnicos e consultores nomeados para acompanhar o projeto percorrerão todos os níveis da organização, fazendo recomendações e sempre verificando a atuação dos ADR e supervisores. Pode haver dentro deste grupo, especialistas que façam orientações especiais temporárias.
 
-
-
 # Manual Técnico de Apicultura
 
 ## AGENTE DE DESENVOLVIMENTO RURAL - ADR APIS
@@ -691,7 +583,6 @@ A gestão do projeto APIS é fundamental para garantir a eficiência e a sustent
 
 | Componente          | Descrição                                                                 |
 |---------------------|---------------------------------------------------------------------------|
-| Coordenação         | Responsável pela supervisão geral do projeto e pela tomada de decisões.   |
 | Equipe Técnica      | Profissionais especializados em apicultura, responsáveis pela assistência técnica. |
 | Capacitação         | Programas de treinamento para apicultores, visando melhorar as práticas de manejo. |
 | Monitoramento       | Avaliação contínua das atividades e resultados do projeto.                 |
@@ -721,8 +612,6 @@ Para avaliar o sucesso do projeto, os seguintes indicadores devem ser monitorado
 ### Conclusão
 
 A gestão eficaz do projeto APIS é essencial para o desenvolvimento sustentável da apicultura na região. A implementação das atividades e o monitoramento dos indicadores permitirão alcançar os objetivos propostos e beneficiar a comunidade local.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -765,10 +654,6 @@ A apicultura é a prática de criar abelhas para a produção de mel, cera, pró
 ## Conclusão
 A apicultura é uma atividade que requer conhecimento e dedicação. Seguir as orientações deste manual ajudará a garantir a saúde das colmeias e a qualidade dos produtos apícolas.
 
-
-
-# CAPÍTULO 3
-
 ## Por que Criar Abelhas?
 
 **Darcet Costa Souza**
@@ -778,10 +663,6 @@ A apicultura é uma atividade que requer conhecimento e dedicação. Seguir as o
 A decisão de se iniciar qualquer atividade é tomada com base na análise dos fatores que justificam tal iniciativa. Para tanto, são levantados e estudados os pontos positivos e os negativos da nova atividade. Essa avaliação dá ao empreendedor a visão do potencial da atividade, possibilita ter uma ideia do capital necessário para iniciar o investimento e permite que se avalie a possibilidade de sucesso do novo empreendimento.
 
 Ao se pensar em apicultura como alternativa de geração de trabalho e renda ao homem do campo, é necessário que se avalie a atividade apícola sob os diversos aspectos que a cercam e que a tornam uma importante ferramenta de inclusão social para os pequenos e médios produtores. Trata-se de uma atividade sustentável por natureza, uma vez que viabiliza a melhoria na qualidade de vida do homem do campo, por meio de um trabalho digno e que gera renda, sem comprometer o meio ambiente.
-
-É justamente a percepção desses pontos que tem possibilitado ao setor apícola brasileiro grandes investimentos nos últimos anos.
-
-
 
 # MANUAL DE APICULTURA
 
@@ -810,8 +691,6 @@ A apicultura é uma atividade que não exige dedicação exclusiva, permitindo q
 
 A apicultura representa uma oportunidade real de negócios e inclusão social, sendo uma atividade que pode ser desenvolvida em conjunto com outras ocupações, beneficiando não apenas o apicultor, mas toda a sua família.
 
-
-
 # Manual Técnico de Apicultura
 
 ## Porque Criar Abelhas?
@@ -832,8 +711,6 @@ A apicultura otimiza a utilização do potencial natural da terra. As matas nati
 
 A criação de abelhas próxima a algumas culturas proporciona melhores resultados na produção agrícola. Isso se deve ao fato de que as abelhas realizam o transporte dos grãos de pólen de uma flor a outra, o que resulta em uma polinização mais eficiente. Criar abelhas é uma maneira de otimizar o uso da terra, gerando trabalho e renda para o homem do campo.
 
-
-
 # MANUAL TÉCNICO DE APICULTURA
 
 ## Importância da Apicultura no Brasil
@@ -850,8 +727,6 @@ A criação de abelhas próxima a algumas culturas proporciona melhores resultad
 ### Polinização
 
 A polinização é um trabalho imprescindível para a produção e obtenção de frutos comerciais em algumas culturas, como o melão e a maçã, sendo também de grande importância para a produção de sementes nas matas nativas. As abelhas desempenham um papel crucial na preservação da biodiversidade das matas, ajudando na produção de sementes para a multiplicação das espécies vegetais, que servem de alimento para muitos animais silvestres.
-
-
 
 # Por que criar abelhas?
 
@@ -885,8 +760,6 @@ A apicultura, ou criação de abelhas, é uma prática que traz diversos benefí
 
 ## Considerações Finais
 Antes de iniciar a criação de abelhas, é importante considerar fatores como a localização das colmeias, a legislação local, e o conhecimento necessário para o manejo adequado das abelhas. A apicultura requer dedicação e responsabilidade, mas os benefícios podem ser imensos tanto para o apicultor quanto para o meio ambiente.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -925,10 +798,6 @@ A apicultura é a prática de criar abelhas para a produção de mel, cera, pró
 ## Conclusão
 A apicultura é uma atividade que requer dedicação e conhecimento. Seguir as orientações deste manual ajudará a garantir a saúde das abelhas e a qualidade dos produtos apícolas.
 
-
-
-# CAPÍTULO 4
-
 ## Importância Socioeconômica
 
 **Darcet Costa Souza**
@@ -945,8 +814,6 @@ Em razão dessas condições adversas, pequenos e médios produtores têm sido l
 
 **Foto: Darcet C. Souza**
 *Sr. Joaquim e família - orgulho de ser apicultor.*
-
-
 
 # MANUAL TÉCNICO DE APICULTURA
 
@@ -974,8 +841,6 @@ O mel foi o primeiro adoçante conhecido, utilizado em rituais e festividades, t
 
 O fascínio do homem pelo mundo das abelhas é evidente em estudos de comportamento e ecologia realizados desde o século XVII. As descobertas científicas e inovações dos últimos 150 anos permitiram que a apicultura se tornasse um importante segmento do setor agropecuário global.
 
-
-
 # Manual Técnico de Apicultura
 
 ## 3. Importância Socioeconômica
@@ -996,11 +861,7 @@ Inicialmente, a introdução da abelha africanizada causou uma redução da prod
 
 Segundo estimativas da Confederação Brasileira de Apicultura, o Brasil possuía em janeiro de 2004 cerca de 4 milhões de colmeias.
 
-![Mel sendo embalado para comercialização.](#)
-
 *Foto: Darcet C. Souza*
-
-
 
 # MANUAL TÉCNICO DE APICULTURA
 
@@ -1024,8 +885,6 @@ Segundo estimativas da Confederação Brasileira de Apicultura, o Brasil possuí
 | 2005 | Sudeste        |                |
 | 2005 | Sul            |                |
 
-(Fonte: IBGE / Pesquisa Pecuária Municipal - SEBRAE / UAGRO)
-
 ### Produção de Mel
 
 O Brasil produz aproximadamente 33.000 toneladas de mel por ano. A produtividade média alcançada na apicultura é de 30 kg de mel por colmeia anualmente. Com a implementação de melhorias técnicas, essa produtividade pode dobrar em poucos anos.
@@ -1039,8 +898,6 @@ A maioria dos produtores de mel é composta por pequenos e médios apicultores, 
 Durante esse período, associações, cooperativas e produtores independentes estabeleceram seus próprios entrepostos de mel, regularizando sua situação junto ao Ministério da Agricultura, Pecuária e Abastecimento, e realizando a comercialização de seus produtos em seus estados e nos estados vizinhos. O mercado de mel fracionado era, até então, atendido principalmente por micro e pequenas empresas regionais.
 
 Essa situação se manteve até o surgimento de produtos inovadores nos anos 90, quando entraram no mercado os méis compostos e os sprays de mel e própolis. Esses produtos, por serem mais elaborados, exigiam um nível maior de investimento e conhecimento técnico.
-
-
 
 # Importância Socioeconômica da Apicultura
 
@@ -1060,11 +917,7 @@ A tabela 2 apresenta as exportações de mel do Brasil e dos cinco principais es
 
 As expectativas para os próximos anos indicam que o consumo de mel continuará a crescer globalmente, com a previsão de que os preços se mantenham em um patamar viável para a produção. A participação do Brasil no mercado internacional deve persistir, mas será necessário melhorar o padrão de qualidade do mel e a produtividade das colmeias para garantir a permanência no mercado.
 
-![Embarque de mel da Associação dos Apicultores de Simplício Mendes para exportação.](#)
-
 *Foto: Valdete Daniel de Moura*
-
-
 
 # Manual Técnico de Apicultura
 
@@ -1090,10 +943,6 @@ As expectativas para os próximos anos indicam que o consumo de mel continuará 
 | 2006 | São Paulo      |                  |
 | 2006 | Minas Gerais   |                  |
 | 2006 | Rio Grande do Sul |                |
-
-**Fonte:** ALICEWEB / MDIC / SECEX / SEBRAE / UAGRO, 2006.
-
-
 
 # Importância Socioeconômica da Apicultura
 
@@ -1122,13 +971,7 @@ A apicultura desempenha um papel fundamental na economia e na sociedade, contrib
 ## Conclusão
 A apicultura é uma atividade que vai além da produção de mel, impactando positivamente a economia, o meio ambiente e a sociedade. Investir na apicultura é investir em um futuro mais sustentável e saudável.
 
-
-
 Parece que você forneceu um texto que não contém informações específicas sobre apicultura. Se você tiver perguntas ou precisar de informações sobre práticas de manejo, cuidados com as abelhas, equipamentos, ou qualquer outro aspecto da apicultura, sinta-se à vontade para perguntar! Estou aqui para ajudar.
-
-
-
-# CAPÍTULO 5
 
 ## Biologia das Abelhas
 
@@ -1149,8 +992,6 @@ Assim, as abelhas surgiram a partir de um grupo de vespas que alteraram a sua di
 Todas as abelhas da família Apidae se caracterizam pela presença de corbícula ou cesta polínica localizada na face externa de cada tíbia das pernas posteriores (traseiras) pelo menos nas operárias. Esta estrutura é utilizada para carregar o pólen (alimento) e materiais para a construção do ninho.
 
 As abelhas apresentam uma estreita relação com plantas que produzem flores e frutos, as quais fornecem alimentos (néctar e pólen) e outros materiais. Como recompensa, as plantas recebem os serviços de polinização, tão importantes para a subsistência de mais de 225.000 espécies vegetais, das quais dois terços dependem dos insetos para sua polinização.
-
-
 
 # MANUAL TÉCNICO DE APICULTURA
 
@@ -1190,8 +1031,6 @@ Atualmente, não existem no Brasil abelhas puras européias, mas sim uma raça d
 
 ## 3. Partes do Corpo de uma Abelha Operária
 
-![Figura 1: Partes do corpo de uma abelha operária Apis mellifera L. (adaptado de Winston, 1987)](link_para_imagem)
-
 - **Cabeça**
 - **Tórax**
 - **Abdômen**
@@ -1199,8 +1038,6 @@ Atualmente, não existem no Brasil abelhas puras européias, mas sim uma raça d
 ----
 
 Este manual é uma referência para apicultores e interessados na apicultura, fornecendo informações sobre a classificação e as raças de abelhas que podem ser encontradas no Brasil.
-
-
 
 # BIOLOGIA DAS ABELHAS
 
@@ -1223,8 +1060,6 @@ A cabeça é a primeira parte do corpo do inseto onde estão os olhos simples e 
 - **Aparelho bucal**: nesta parte do corpo encontramos a língua ou probóscide e as mandíbulas. A língua varia de comprimento conforme a raça e serve para sugar e lamber o néctar das flores. As mandíbulas são usadas para moldar a cera na construção dos favos, recolher própolis e abrir os estames das flores na busca de alimentos.
 
 - **Glândulas hipofaringeanas ou hipofaríngeas**: são duas glândulas em forma de cacho de uva, presentes apenas nas operárias.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -1253,8 +1088,6 @@ O abdômen é a terceira parte do corpo da abelha, formado por sete segmentos.
 ## 4. O Vôo das Abelhas
 A abelha voa a uma velocidade de aproximadamente 21 – 24 km/h e a uma altura que varia de um a oito metros do solo. Elas podem conduzir uma carga de até 70 mg, mas normalmente transportam 40 mg na vesícula melífera ou papo de mel. O vôo das abelhas pode alcançar até 3 km de distância da colmeia na busca de alimento, podendo chegar até 6 km em situações de extrema escassez. Uma abelha consome 0,5 mg de mel para cada km durante o vôo, o que equivale a 3 milhões de quilômetros com um litro de mel.
 
-
-
 # BIOLOGIA DAS ABELHAS
 
 **Raquel Cavalcante Soares**
@@ -1278,15 +1111,13 @@ Feromônios são odores químicos usados na comunicação entre membros de uma e
 ## A estrutura do ninho
 O ninho das abelhas é feito de favos confeccionados com cera produzida pelas glândulas ceríferas, que são construídos nos mais diferentes locais, como oco de pau, fenda de pedras, marquises de prédios, móveis abandonados, pneus velhos, galhos de árvores e outros locais. O número de favos e sua posição no ninho variam de acordo com a espécie de abelha, podendo ser constituído por um único favo ou mais.
 
-![Figura 4 – Sistema glandular de uma abelha operária de Apis mellifera L](link_para_imagem) (adaptado de Winston, 1987)
+ (adaptado de Winston, 1987)
 
 ----
 
 **Referências:**
 - Camargo, J. M. F. (1973)
 - Winston, M. L. (1987)
-
-
 
 # MANUAL TÉCNICO DE APICULTURA
 
@@ -1314,8 +1145,6 @@ Quando os favos estão muito velhos, eles escurecem, e o diâmetro e a profundid
 
 Este manual fornece informações essenciais sobre a biologia das abelhas e práticas de manejo para apicultores. É fundamental que os apicultores estejam cientes das características e necessidades das abelhas para garantir a saúde e produtividade das colmeias.
 
-
-
 # BIOLOGIA DAS ABELHAS
 
 ## Quadro 2. Feromônios produzidos pelas abelhas do gênero Apis (Adaptado de Winston, 1987).
@@ -1330,9 +1159,6 @@ Este manual fornece informações essenciais sobre a biologia das abelhas e prá
 
 ### Observações:
 - Os feromônios são substâncias químicas que desempenham um papel crucial na comunicação entre as abelhas.
-- A produção e a percepção de feromônios são fundamentais para a organização social e o funcionamento da colmeia.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -1364,8 +1190,6 @@ Os ovos, tanto para operárias quanto para zangões, são postos pela rainha no 
 
 (continua)
 
-
-
 # MANUAL TÉCNICO DE APICULTURA
 
 ## BIOLOGIA DAS ABELHAS
@@ -1380,15 +1204,11 @@ Os ovos, tanto para operárias quanto para zangões, são postos pela rainha no 
 
 ### Figura 6 - Células de rainha de Apis mellifera L.
 
-![Células de rainha de Apis mellifera L.](link_da_imagem)
-
 *Foto: Darcet C. Souza*
 
 ----
 
 Este manual é uma referência para apicultores e interessados na biologia das abelhas, com foco nas características estruturais dos diferentes habitantes da colônia de Apis mellifera L.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -1439,8 +1259,6 @@ O período larval e o tempo total de desenvolvimento variam conforme o tipo de i
 
 Este manual fornece uma visão geral dos ciclos de vida e desenvolvimento das abelhas, essencial para a prática da apicultura.
 
-
-
 # MANUAL TÉCNICO DE APICULTURA
 
 ## BIOLOGIA DAS ABELHAS
@@ -1469,8 +1287,6 @@ A rainha secreta uma substância chamada **substância de rainha** através de s
 Normalmente, cada colmeia possui apenas uma rainha. Para ser fecundada, ela realiza um ou mais **vôos nupciais**, onde pode ser fecundada por vários zangões (de 10 a 20). Esses vôos ocorrem com maior frequência entre 13 e 17 horas, a uma altura de 8 a 20 metros do solo. A fecundação acontece fora da colmeia, em áreas de congregação de zangões, que perseguem a rainha ao sentirem seu odor.
 
 O vôo nupcial ocorre entre 9 a 12 dias após a rainha atingir a idade adulta. Cinco a seis dias após a fecundação, a rainha inicia a postura, podendo colocar de 1.500 a 2.000 ovos por dia em condições de grandes floradas. Normalmente, a rainha põe apenas um ovo em cada alvéolo ou célula.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -1501,8 +1317,6 @@ O tempo de vida de uma operária varia de acordo com a quantidade e a distância
 
 Este quadro ilustra a divisão de trabalho das abelhas operárias, que varia conforme a idade e as necessidades da colônia.
 
-
-
 # MANUAL TÉCNICO DE APICULTURA
 
 ## BIOLOGIA DAS ABELHAS
@@ -1524,8 +1338,6 @@ Nas abelhas, a reprodução dos enxames acontece pelo processo de enxameação r
 Durante o processo de enxameação reprodutiva, de 6 a 12 rainhas são criadas ao mesmo tempo. Quando uma delas está por emergir, a rainha da colônia deixa o ninho com parte das operárias da colônia. Este primeiro grupo que partiu com a rainha fecundada é denominado de **enxame primário**. A primeira rainha a emergir após a saída do enxame primário pode deixar a colônia acompanhada de um grupo de operárias, aproximadamente metade da população restante, ou destruir as demais células com as rainhas que estão por emergir. Os enxames que saem após o primeiro e que levam consigo rainhas virgens são denominados de **enxames secundários**.
 
 Passados alguns dias após a emergência, a rainha virgem alcança a maturidade sexual e realiza o vôo de acasalamento, quando é fecundada e retorna para a colméia. Poucos dias após a fecundação, a nova rainha inicia a postura e a colônia volta à normalidade.
-
-
 
 # Manual de Apicultura
 
@@ -1566,10 +1378,6 @@ A apicultura é a prática de criar abelhas para a produção de mel, cera, pró
 ## Conclusão
 A apicultura é uma atividade que requer dedicação e conhecimento. Seguindo as orientações deste manual, é possível obter uma produção de qualidade e contribuir para a preservação das abelhas e do meio ambiente.
 
-
-
-# CAPÍTULO 6
-
 ## Material Apícola
 
 **Kleber Andrade da Silva**
@@ -1582,10 +1390,7 @@ Em seu “habitat” natural, as abelhas constroem seus ninhos em ocos de árvor
 #### 1.2 Colméias Rústicas
 As colméias rústicas são caixotes sem dimensões padronizadas utilizados para criar as abelhas. Por serem construídas de forma artesanal, são de baixo custo e, por este motivo, ainda hoje são utilizadas em algumas regiões do mundo. No entanto, economicamente não compensam, pois além de resultar em baixa produtividade, o produto obtido é de qualidade inferior, uma vez que seus favos são espremidos junto com o pólen, restos de abelhas e outras impurezas, afetando assim a qualidade do mel.
 
-![Colméia racional langstroth](link_da_foto)
 *Foto: Darcet C. Souza*
-
-
 
 # Manual Técnico de Apicultura
 
@@ -1598,8 +1403,6 @@ As colméias rústicas são caixotes sem dimensões padronizadas utilizados para
 3. **Tela Excludora**
 4. **Ninho**
 5. **Fundo**
-
-![Foto: Darcet C. Souza](#)
 
 ### 1.2 - Desvantagens das Caixas Rústicas
 
@@ -1633,8 +1436,6 @@ Essas colmeias possuem pontos fundamentais em comum, diferindo apenas no formato
 3. **MELGUEIRAS** – Conhecidas também como alças, são destinadas ao armazenamento do mel e pólen, sendo colocadas sobre o ninho podendo ser uma, duas ou mais.
 4. **TAMPA** – É a peça que fecha a parte superior da colmeia, protegendo-a contra o frio e entrada de elementos prejudiciais.
 
-
-
 # Manual Técnico de Apicultura
 
 ## 1. Materiais Apícolas
@@ -1661,8 +1462,6 @@ As colméias são normalmente construídas com madeira, mas também podem ser fa
 ----
 
 **Nota**: Este manual é uma referência técnica para apicultores e deve ser utilizado para garantir boas práticas na construção e manejo de colméias.
-
-
 
 # MANUAL TÉCNICO DE APICULTURA
 
@@ -1699,8 +1498,6 @@ Para se trabalhar com abelhas africanizadas, é importante que o apicultor estej
 
 Este manual é uma referência essencial para apicultores, fornecendo diretrizes sobre a construção de colméias e a indumentária necessária para um manejo seguro e eficiente.
 
-
-
 # MATERIAL APÍCOLA
 
 ## Indumentária Apícola
@@ -1729,8 +1526,6 @@ O fumigador é um implemento apícola indispensável para qualquer tipo de traba
 ----
 
 **Indumentária apícola (chapéu, máscara, macacão, luvas e botas).**
-
-
 
 # Manual Técnico de Apicultura
 
@@ -1771,8 +1566,6 @@ O fumigador é um implemento apícola indispensável para qualquer tipo de traba
 
 *Nota: As fotos mencionadas são de autoria de Darcet C. Souza e não estão incluídas neste texto.*
 
-
-
 # MATERIAL APÍCOLA
 
 ## Alimentadores
@@ -1796,8 +1589,6 @@ O fumigador é um implemento apícola indispensável para qualquer tipo de traba
 1. **Centrífuga facial**: Os quadros são posicionados com a face voltada para as paredes do tambor da centrífuga. Este equipamento apresenta como desvantagem a extração do mel apenas de um dos lados do favo de cada vez, sendo necessária a inversão da posição do quadro e a repetição do processo para obtenção do mel. Não é um equipamento prático nem cômodo, por exigir muito trabalho.
 
 2. **Centrífuga radial**: Os quadros são colocados na posição do raio do tambor da centrífuga. Extrai simultaneamente o mel das duas faces do favo, não havendo a necessidade de se virar os quadros como na centrífuga facial. É um equipamento eficiente e rápido para extração do mel, sendo o modelo mais utilizado pelos apicultores profissionais. Sua capacidade varia de acordo com o seu diâmetro, podendo receber 8, 16, 32, 64 ou mais quadros por vez.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -1836,8 +1627,6 @@ O decantador é um tanque projetado para o repouso do mel após a centrifugaçã
 
 Este manual é uma referência para apicultores que buscam otimizar seus processos de manejo e garantir a qualidade do mel produzido.
 
-
-
 # Manual Técnico de Apicultura
 
 ## MATERIAL APÍCOLA
@@ -1870,8 +1659,6 @@ A colméia Langstroth é um dos modelos mais utilizados na apicultura moderna. S
 
 A colméia Langstroth é uma excelente escolha para apicultores iniciantes e experientes, proporcionando um ambiente controlado e eficiente para a criação de abelhas.
 
-
-
 # Manual Técnico de Apicultura
 
 ## Estruturas da Colmeia
@@ -1898,8 +1685,6 @@ A colméia Langstroth é uma excelente escolha para apicultores iniciantes e exp
 - **Largura (medida interna):** 370 mm
 - **Altura:** 145 mm
 **Observação:** O uso da melgueira é facultativo.
-
-
 
 # MATERIAL APÍCOLA
 
@@ -1932,8 +1717,6 @@ A colméia Langstroth é uma excelente escolha para apicultores iniciantes e exp
 - **Largura:** 12 mm
 - **Espessura:** 10 mm
 **Observação:** Detalhe e medidas, confira no desenho ao lado. Respeitar o espaço-abelha para circulação das abelhas (mínimo - 7 mm e máximo 8 mm), sendo que o normal é 7,5 mm.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -1986,10 +1769,6 @@ A apicultura é a prática de criar abelhas para a produção de mel, cera, pró
 ## Conclusão
 A apicultura é uma atividade que requer dedicação e conhecimento. Seguir as orientações deste manual ajudará a garantir o sucesso na criação de abelhas e na produção de produtos apícolas de qualidade.
 
-
-
-# CAPÍTULO 7
-
 ## Localização e Instalação de Apiários
 
 **Darcet Costa Souza**
@@ -2000,11 +1779,7 @@ Apiário é a denominação de um conjunto de colméias devidamente instaladas e
 
 A escolha do local e a instalação do apiário são dois pontos de grande importância para o sucesso na apicultura, uma vez que as abelhas necessitam estar bem instaladas e de boas floradas para que se obtenha grandes produções. Contudo, nem sempre o apicultor está consciente da importância da escolha do local e instalação do apiário, terminando por escolher locais inadequados e instalando as colméias de forma inadequada.
 
-![Apiário sombreado em Ribeirão Preto/SP (FMRP-USP)](link-da-imagem)
-
 *Foto: Darcet C. Souza*
-
-
 
 # Manual Técnico de Apicultura
 
@@ -2019,10 +1794,6 @@ Para diminuir a possibilidade de erros na escolha do local, o apicultor deve pro
 O apicultor não deve perder de vista, ao avaliar o local para a implantação de um apiário, a qualidade e quantidade das floradas disponíveis, uma vez que as características e volume do mel a ser produzido estarão diretamente relacionados com essas duas variáveis.
 
 Ressalta-se que é possível o apicultor melhorar a qualidade do pasto apícola da sua região, plantando espécies melíferas em sua propriedade. As espécies a serem plantadas devem estar adaptadas às condições climáticas da região, sendo interessante que sejam plantas de espécies que floresçam nos períodos de ausência de floradas locais, de forma a garantir alguma alternativa de alimento às abelhas nos períodos críticos.
-
-![Apiário sombreado com vegetação nativa.](#)
-
-
 
 # MANUAL TÉCNICO DE APICULTURA
 
@@ -2048,8 +1819,6 @@ Na escolha da área, observar se existe espaço suficiente para se chegar com um
 
 *Foto: Darcet C. Souza*
 
-
-
 # MANUAL TÉCNICO DE APICULTURA
 
 ## 2.4 - Segurança das pessoas e animais nas proximidades
@@ -2069,8 +1838,6 @@ Contudo, é possível alguma flexibilidade no distanciamento entre apiários, em
 ## 2.6 - Sombreamento e ventos
 
 Sabe-se que as abelhas procuram manter a temperatura no interior da colmeia próximo dos 34-35 °C, que é o valor ótimo ao desenvolvimento das crias. Qualquer mudança nesse valor desencadeia uma série de comportamentos específicos nas operárias com o objetivo de reestabelecer a temperatura ideal. Devido a isso, ao se implantar um apiário em regiões quentes, deve-se observar a necessidade de sombreamento adequado.
-
-
 
 # LOCALIZAÇÃO E INSTALAÇÃO DE APIÁRIOS
 
@@ -2098,12 +1865,8 @@ No geral, recomenda-se que o número de colméias por apiário não exceda a cap
 
 ### Suporte para Colméia em Manilha e Cruzeta
 
-![Suporte para colméia em manilha e cruzeta.](#)
-
 *Foto: Darcet C. Souza*
 *Foto: Wagner Setúbal*
-
-
 
 # Manual Técnico de Apicultura
 
@@ -2130,8 +1893,6 @@ As colméias podem ser distribuídas de várias formas dentro do apiário, depen
 - As colméias devem ser instaladas sobre suportes individuais, a uma altura de aproximadamente 50 cm do solo.
 - Em áreas sombreadas, é importante manter limpa a área de voo das abelhas e o interior do apiário durante o período de chuvas, evitando o excesso de umidade e o aparecimento de doenças que prejudicam o desenvolvimento das colônias.
 
-
-
 # LOCALIZAÇÃO E INSTALAÇÃO DE APIÁRIOS
 
 ## 4. Tipos de suportes para colméias
@@ -2151,13 +1912,7 @@ Em algumas regiões do Brasil, as formigas representam sérios problemas para o 
 
 ![Foto: Falta Legenda]
 
-
-
 Parece que você forneceu um texto que não contém informações específicas sobre apicultura. Se você tiver perguntas ou precisar de informações sobre práticas de manejo, cuidados com as abelhas, equipamentos, ou qualquer outro aspecto da apicultura, sinta-se à vontade para perguntar! Estou aqui para ajudar.
-
-
-
-# CAPÍTULO 8
 
 ## Povoamento de Colméias
 
@@ -2173,10 +1928,7 @@ Esse tipo de povoamento apresenta as seguintes vantagens:
 - É cômodo e o apicultor pode escolher a qualidade do enxame.
 - Pode-se controlar a agressividade e produtividade da família.
 
-![Captura de enxame estabelecido na natureza.](link_da_foto)
 *Foto: Darcet C. Souza*
-
-
 
 # Manual Técnico de Apicultura
 
@@ -2217,8 +1969,6 @@ Para muitos apicultores, as famílias capturadas em caixas-isca são as que se d
 - As caixas deverão estar a uma altura de 2m do solo, ligeiramente inclinadas para frente e na posição vertical.
 - Evite colocá-las no interior de áreas com vegetação densa, pois a eficiência de captura é menor.
 
-
-
 # Manual Técnico de Apicultura
 
 ## 4. Povoamento de Colméias
@@ -2250,10 +2000,7 @@ O apicultor e seu ajudante já devem estar equipados com vestimenta completa e o
 2. Aproximar a caixa por baixo do aglomerado de abelhas enquanto o ajudante deverá dar um golpe seco (sacudir firme) para que o enxame caia dentro da caixa;
 3. Lançar fumaça onde estava o enxame e esperar um pouco para que as abelhas se acomodem na caixa.
 
-![Caixa-isca de madeira](link_para_imagem)
 *Foto: Darcet C. Souza*
-
-
 
 # MANUAL TÉCNICO DE APICULTURA
 
@@ -2301,8 +2048,6 @@ O apicultor e seu ajudante já devem estar equipados com vestimenta completa e f
 **Cuidados ao Amarrar os Favos:**
 Para que haja um melhor encaixe dos favos sobre os arames, recomenda-se que sejam feitos nos favos cortes que acompanhem a linha dos arames do quadro, de tal forma que estes penetrem até o meio da espessura do favo, dando assim maior sustentação.
 
-
-
 # Manual Técnico de Apicultura
 
 ## Povoamento de Colméias
@@ -2324,11 +2069,6 @@ Para que haja um melhor encaixe dos favos sobre os arames, recomenda-se que seja
 
 - **Abelhas sinalizando a presença da rainha** na caixa durante a captura do enxame.
 - **Enxame capturado preparado para o transporte.**
-
-![Foto: Darcet C. Souza](#)
-![Foto: Darcet C. Souza](#)
-
-
 
 # Manual Técnico de Apicultura
 
@@ -2368,10 +2108,6 @@ A apicultura é a prática de criar abelhas para a produção de mel, cera, pró
 ## Conclusão
 A apicultura é uma atividade que requer conhecimento e dedicação. Seguir as orientações deste manual ajudará a garantir o sucesso na criação de abelhas e na produção de produtos apícolas de qualidade.
 
-
-
-# CAPÍTULO 9
-
 ## Manejo Básico das Colméias
 
 **Francisco Deoclécio G. Paulino**
@@ -2383,15 +2119,7 @@ Entende-se por manejo básico das colméias o conjunto de técnicas aplicadas a 
 
 Na apicultura, o manejo pode ser dividido em **Básico** (revisões) e **Especiais**, sendo o primeiro destinado às ações rotineiras que visam o acompanhamento das colméias, e os especiais às ações específicas, realizadas eventualmente. Serão detalhados a seguir pontos importantes sobre o manejo básico. Os manejos especiais serão tratados de maneira individualizada nos próximos capítulos.
 
-*Observação das crias durante a revisão.*
-
-### 2. Manejo básico ou revisão de colméias
-
 É uma inspeção periódica realizada nas colônias de abelhas, com o objetivo de observar as condições das crias, provisões de alimentos e a sanidade do enxame, a fim de manter os enxames em condições de produção.
-
-![Foto: Francisco Deoclécio G. Paulino](#)
-
-
 
 # Manual Técnico de Apicultura
 
@@ -2426,8 +2154,6 @@ Não se deve utilizar esterco de animais e outros materiais de origem animal, po
 ### O Efeito da Fumaça sobre as Abelhas
 A fumaça faz com que as abelhas, sentindo-se ameaçadas, encham o...
 
-
-
 # MANEJO BÁSICO DAS COLMÉIAS
 
 ## 2.4. Recomendações para o manejo das colméias
@@ -2450,17 +2176,11 @@ As revisões devem ser realizadas por pelo menos dois apicultores, como forma de
 
 - **Substituição de Quadros**: Trocar os quadros velhos (escuros ou com defeito) por quadros com cera puxada ou alveolada, colocando-os intercalados com os favos de cria no centro do ninho. Deve-se substituir anualmente pelo menos 20% dos favos. Esta permuta deverá ser feita no período de grandes floradas.
 
-### Cuidados Pós-Revisão
-
 Após a revisão, o apicultor deverá cavar uma vala no solo e enterrar o restante do material que está na câmara de combustão do fumigador. Caso haja água nas proximidades, o apicultor também pode utilizá-la para apagar o resto do material de queima.
 
 **Obs.:** Apagar o resto do material de queima do fumigador é uma prática estritamente necessária para evitar incêndios nas áreas de instalação dos apiários.
 
-
-
 # MANUAL TÉCNICO DE APICULTURA
-
-## 2.5. O que observar em uma revisão
 
 1. **Presença da rainha**: Pode ser constatada pela postura de rainha nos favos, que se caracteriza pela colocação de um único ovo por célula.
 
@@ -2481,8 +2201,6 @@ Como o objetivo das revisões é o acompanhamento das condições das colmeias, 
 - **Em períodos de floradas**: Quando o fluxo de néctar é grande, as revisões devem ser feitas de 15 em 15 dias. Isso possibilita que o apicultor controle melhor o espaço disponível às abelhas para estocagem de mel.
 
 - **Em períodos de escassez de alimento**: As revisões devem ocorrer em intervalos de 20 a 30 dias, já que aqui estaremos apenas viabilizando as condições necessárias à manutenção dos enxames.
-
-
 
 # MANEJO BÁSICO DAS COLMÉIAS
 
@@ -2537,8 +2255,6 @@ O manejo das colmeias é fundamental para a saúde das abelhas e a produção de
 ## Conclusão
 O manejo adequado das colmeias é essencial para o sucesso na apicultura. Seguir as práticas recomendadas e monitorar constantemente a saúde das colônias garantirá uma produção sustentável e de qualidade.
 
-
-
 # Manual Técnico de Apicultura
 
 ## Introdução
@@ -2576,10 +2292,6 @@ A apicultura é a prática de criar abelhas para a produção de mel, cera, pró
 ## Conclusão
 A apicultura é uma atividade que requer dedicação e conhecimento. Seguir as orientações deste manual ajudará a garantir o sucesso na criação de abelhas e na produção de produtos apícolas de qualidade.
 
-
-
-# CAPÍTULO 10
-
 ## Manejo de Manutenção das Colônias
 
 **Francisco Deoclécio G. Paulino**
@@ -2591,10 +2303,7 @@ Após o período das grandes floradas, quando ocorre a diminuição de alimento 
 
 O descuido na manutenção das colônias tem levado muitos apicultores a perderem, anualmente, parte dos enxames de suas colméias; alguns chegam a perder mais de 40% deles. A perda de enxames resulta na redução da capacidade de produção do apiário e diminui os lucros do apicultor.
 
-![Colméias preparadas para produção.](link_da_foto)
 *Foto: Robson S. Raad*
-
-
 
 # MANUAL TÉCNICO DE APICULTURA
 
@@ -2613,8 +2322,6 @@ Para as abelhas, a água é um elemento de extrema importância, principalmente 
 ### 3. Propiciar Sombreamento e Boa Ventilação
 
 Em regiões quentes, muitas vezes as colméias que se encontravam sombreadas no período de floradas, que acontece durante as chuvas, estão expostas ao sol quando chega o período de escassez de alimento, tornando as condições das colméias impróprias ao desenvolvimento das abelhas e, com isso, provocando o abandono. Deve-se observar a condição de sombreamento das colméias e procurar evitar que recebam sol direto. O plantio de espécies de rápido crescimento, como algaroba e leucena, são opções de sombreamento para estas áreas.
-
-
 
 # MANEJO DE MANUTENÇÃO DAS COLÔNIAS
 
@@ -2635,8 +2342,6 @@ Em algumas localidades, apicultores migram com suas colmeias das áreas onde as 
 ----
 
 *Foto: Francisco Deoclécio G. Paulino*
-
-
 
 # Manual Técnico de Apicultura
 
@@ -2671,10 +2376,6 @@ A apicultura é a prática de criar abelhas para a produção de mel, cera, pró
 ## Conclusão
 A apicultura é uma atividade que requer conhecimento e dedicação. Seguir as orientações deste manual ajudará a garantir a saúde das colmeias e a qualidade dos produtos apícolas.
 
-
-
-# CAPÍTULO 11
-
 ## Manejo Para a Produção
 
 **Francisco Deoclécio G. Paulino**
@@ -2687,10 +2388,7 @@ Entende-se por manejo para produção todas as técnicas apícolas executadas pe
 
 A presença de rainhas jovens e de boa genética garante à colônia uma condição de crescimento rápido e de uma população trabalhadora. Rainhas velhas, normalmente, demoram a responder ao estímulo da florada para aumentar a taxa de postura, retardando o crescimento da colônia e prejudicando a produção.
 
-![Colméias no plantio de girassol no Mato Grosso.](https://example.com/imagem.jpg)
 *Foto: Joarez Bruno Silveira*
-
-
 
 # MANUAL TÉCNICO DE APICULTURA
 
@@ -2715,8 +2413,6 @@ A alimentação estimulante é aplicada de 40 a 60 dias antes dos períodos de f
 ## 5. Espaço na Colmeia
 
 Para que os enxames sejam populosos e produtivos, é necessário prover espaço adequado para o desenvolvimento da colônia. A provisão de espaço no momento certo é um fator crucial, frequentemente negligenciado pelos apicultores. O atraso na colocação da melgueira pode resultar em prejuízos duplos, favorecendo a enxameação e causando uma redução na produção.
-
-
 
 # MANEJO PARA A PRODUÇÃO
 
@@ -2747,8 +2443,6 @@ Colmeias com rainhas jovens, populosas, sadias e manejadas corretamente são gar
 ----
 
 *Foto: Juarez Bruno Silveira*
-
-
 
 # Manual Técnico de Apicultura
 
@@ -2789,10 +2483,6 @@ A apicultura é a prática de criar abelhas para a produção de mel, cera, pró
 ## Conclusão
 A apicultura é uma atividade que requer dedicação e conhecimento. Seguir as orientações deste manual ajudará a garantir a saúde das colmeias e a qualidade dos produtos apícolas.
 
-
-
-# CAPÍTULO 12
-
 ## Manejo de Rainhas
 
 **Darcet Costa Souza**
@@ -2804,8 +2494,6 @@ Chamamos de manejo de rainha o conjunto de ações realizado na colméia, com o 
 ### 2. Importância
 
 Como já visto anteriormente, a rainha é a única fêmea fértil da colméia, mãe de todos os indivíduos (operárias, rainhas e zangões) da colônia, responsável por metade da informação genética que é repassada para suas filhas e por todas as informações genéticas herdadas por seus filhos zangões. Influencia, ainda, o comportamento e a fisiologia dos membros do enxame, através de seus cheiros (feromônios), atuando decisivamente no desenvolvimento da colônia ao longo do seu ciclo anual.
-
-
 
 # MANUAL TÉCNICO DE APICULTURA
 
@@ -2828,8 +2516,6 @@ Durante a revisão das colméias de um apiário, é comum se gastar mais tempo n
 ### 3. Como Problemas com a Rainha Afetam a Produção
 
 Como já foi visto, a rainha é peça fundamental no manejo apícola e responsável por grande parte do sucesso alcançado pelo apicultor.
-
-
 
 # MANEJO DE RAINHAS
 
@@ -2872,8 +2558,6 @@ A enxameação é um fenômeno que pode impactar a produção de mel. Vários es
 - Foto: Darcet C. Souza
 - Foto: Sílvio José Reis da Silva
 
-
-
 # MANUAL DE APICULTURA
 
 ## 5. Manejo de Rainhas
@@ -2912,8 +2596,6 @@ A marcação ou identificação da rainha é feita por um código de cores na pa
 #### Coleta das Informações das Unidades – Colméias
 
 As anotações ou escriturações das colméias são um dos pontos de maior importância no manejo técnico de qualquer criação. Quem não sabe o que acontece no campo, não pode tomar decisões com segurança.
-
-
 
 # MANEJO DE RAINHAS
 
@@ -2960,8 +2642,6 @@ A troca da rainha pode acontecer de forma natural pelas abelhas, mas isso deve s
 
 Duay (1996) mostrou que quando o apicultor substitui suas rainhas velhas por outras selecionadas, o aumento da produção de mel foi de 47%, e que quando as rainhas introduzidas não eram selecionadas, o aumento foi de 21% apenas. Neste último caso, como a qualidade genética da rainha não era conhecida (rainha não selecionada), o ganho obtido foi bem menor e se deveu exclusivamente à juventude da nova rainha introduzida. Este trabalho deixa claro como é importante o manejo das rainhas em um apiário comercial.
 
-
-
 # MANUAL A DR
 
 ## Caixa Explicativa
@@ -2996,8 +2676,6 @@ Com base nas informações coletadas e anotadas nas fichas individuais das colm�
 
 **Nota:** Este manual é uma referência técnica e deve ser utilizado em conjunto com práticas de manejo adequadas e observações constantes das colônias.
 
-
-
 # MANEJO DE RAINHAS
 
 ## 6.3. Localização das rainhas
@@ -3015,10 +2693,6 @@ Para que uma nova rainha seja aceita por uma colônia, é necessário que esta e
 Com 24 horas de orfandade, já se verificará que algumas realeiras estarão sendo construídas. Estas devem ser eliminadas no momento em que se estiver introduzindo a nova rainha.
 
 Para que a introdução seja bem-sucedida, é importante que, além do período de orfandade, o apicultor evite o uso de muita fumaça, seja rápido na introdução e procure fazê-la em dias com boas condições climáticas.
-
-![Rainha jovem marcada.](Foto: Darcet C. Souza)
-
-
 
 # MANUAL TÉCNICO DE APICULTURA
 
@@ -3042,8 +2716,6 @@ A gaiola de transporte de rainhas pode ser utilizada para introdução sem grand
 
 *(continua com mais informações sobre o uso da gaiola de transporte)*
 
-
-
 # MANEJO DE RAINHAS
 
 ## Introdução de Rainha com Gaiola de Transporte
@@ -3057,10 +2729,6 @@ O apicultor deve ter o cuidado de retirar da gaiola as abelhas acompanhantes e o
 3. **Acesso ao Alimento**: Com a retirada da tampa do compartimento da pasta cândi, as operárias terão acesso a este alimento. Ao se alimentarem dele, desobstruirão a passagem, permitindo que a rainha seja solta sem a interferência do apicultor.
 
 4. **Êxito do Método**: Como a colônia está órfã e o processo de liberação da rainha ocorre de forma tranquila, normalmente obtém-se êxito com a utilização desse método.
-
-![Foto: Darcet C. Souza](#)
-
-
 
 # Manual Técnico de Apicultura
 
@@ -3101,10 +2769,6 @@ A apicultura é a prática de criar abelhas para a produção de mel, cera, pró
 ## Conclusão
 A apicultura é uma atividade que requer dedicação e conhecimento. Seguir as orientações deste manual ajudará a garantir a saúde das abelhas e a qualidade dos produtos apícolas.
 
-
-
-# CAPÍTULO 13
-
 ## Alimentação Artificial
 
 **Francisco Deoclécio G. Paulino**
@@ -3116,8 +2780,6 @@ A alimentação das abelhas na natureza depende da produção de néctar, pólen
 O honeydew é uma expressão inglesa usada para denominar o mel produzido de pseudonéctar, ou seja, mel produzido por secreções oriundas do sistema metabólico de cochonilhas que vivem associadas a plantas da família Leguminosae ou ainda secreções de folhas e caules de algumas plantas, como por exemplo, a bracatinga (*Mimosa scrabella*).
 
 A água é um alimento de extrema necessidade para as abelhas, sendo utilizada para fazer a diluição dos alimentos e regular a temperatura no interior da colmeia. O alimento das abelhas na natureza depende das plantas e estas, por sua vez, dependem das condições climáticas e do solo. Assim, ao longo do ano, ocorrem períodos de abundância e de escassez de alimento, sendo estes variáveis de acordo com a região. Em regiões sujeitas a longos períodos de seca ou de frio, a oferta de alimentos no campo torna-se escassa e as colônias necessitam de alimentação artificial para que permaneçam nas colmeias. Quando isso não ocorre, é comum o abandono.
-
-
 
 # MANUAL TÉCNICO DE APICULTURA
 
@@ -3159,27 +2821,21 @@ Para suprir as deficiências nutricionais das abelhas, o apicultor pode aliment�
 
 Este manual técnico é uma ferramenta essencial para apicultores que buscam otimizar a saúde e a produtividade de suas colônias. A alimentação adequada é fundamental para garantir a longevidade e a eficiência das abelhas na produção de mel.
 
-
-
 # MANUAL TÉCNICO DE APICULTURA
 
 ## ALIMENTAÇÃO ARTIFICIAL
 
 ### Fórmulas de Alimentação
 
-#### Fórmula 01
 - **Composição**: 60% de açúcar (cristal) + 40% de água.
 - **Modo de preparar**: Aquecer a mistura até dissolver o açúcar. Fornecer em alimentadores de cobertura em quantidade que possa ser consumida em 24 horas. O xarope deve ser agitado antes de ser colocado nos alimentadores e fornecido às abelhas.
 
-#### Fórmula 02
 - **Composição**: 50% de açúcar + 50% de água.
 - **Modo de preparar**: Colocar para aquecer até dissolver o açúcar (fórmula mais econômica). O xarope deve ser fornecido às abelhas em quantidade que seja consumida em 24 horas, o que corresponde a meio litro de xarope por colmeia. Caso haja sobra neste período, o resto deve ser eliminado para evitar a fermentação.
 
-#### Fórmula 03
 - **Composição**: 6 kg de açúcar refinado + 3 kg de açúcar invertido + 1 kg de farinha láctea.
 - **Modo de preparar**: Misturar bem os ingredientes até formar uma pasta homogênea.
 
-#### Fórmula 04
 - **Composição**: 6 kg de açúcar refinado + 3 kg de açúcar invertido + 1 kg de terneron ou polemel em pó.
 - **Modo de preparar**: Misturar bem os ingredientes até formar uma pasta homogênea.
 - **Terneron**: Leite em pó misturado a vários ingredientes.
@@ -3202,11 +2858,7 @@ Outro alimento recomendado para o período de entressafra é a rapadura de cana-
 - **Fornecimento de maneira adequada**: Protegida da umidade e fornecida na quantidade de uma rapadura de 300g duas vezes por semana.
 - A rapadura raspada ou triturada, quando fornecida em alimentador alternativo confeccionado em garrafa PET e cano de PVC.
 
-![Alimentação líquida fornecida em alimentador alternativo confeccionado em garrafa pet e cano de PVC](#)
-
 *Foto: Darcet C. Souza*
-
-
 
 # MANUAL TÉCNICO DE APICULTURA
 
@@ -3248,8 +2900,6 @@ O açúcar invertido é considerado um alimento com maior capacidade de estimula
 
 O ácido atuará sobre a sacarose, transformando-a em glicose e frutose, processo similar ao que ocorre quando o néctar é transformado.
 
-
-
 # Manual Técnico de Apicultura
 
 ## Alimentação Artificial
@@ -3288,10 +2938,7 @@ Misturar bem os ingredientes para formar uma pasta.
 ## Tipos de Alimentadores
 O fornecimento da alimentação artificial pode ser feito em alimentadores do tipo individual ou coletivo, conforme a conveniência de cada apicultor. Estes tipos de alimentadores apresentam vantagens e desvantagens que devem ser consideradas na hora de escolher o método de alimentação.
 
-![Abelhas coletando alimento protéico seco.](#)
 *Foto: Robson S. Raad*
-
-
 
 # Manual Técnico de Apicultura
 
@@ -3323,9 +2970,7 @@ Os alimentadores individuais são destinados ao fornecimento individual da alime
 - Importante: Calafetar as fendas com cera de abelha derretida ao usar pela primeira vez.
 
 3. **Alimentador Boardmann**
-- Consiste em um vidro com tampa furada, emborcado sobre um cepo de madeira com uma fenda que dá acesso ao alimento.
 - Uso: Introduzido parcialmente no alvado da colméia, devendo a colméia estar bem nivelada para manter a coluna de líquido em equilíbrio.
-- Acesso: As abelhas têm acesso ao alimento através da fenda no cepo de madeira.
 - Observação: Utilizado somente para alimentos líquidos, e o abastecimento é feito sem abrir a colméia.
 
 ### Exemplo de Alimentador Coletivo
@@ -3334,8 +2979,6 @@ Os alimentadores individuais são destinados ao fornecimento individual da alime
 ----
 
 Este manual técnico fornece orientações sobre os diferentes tipos de alimentadores utilizados na apicultura, destacando suas características, vantagens e desvantagens, permitindo que o apicultor escolha a melhor opção para suas colônias.
-
-
 
 # Alimentação Artificial
 
@@ -3358,8 +3001,6 @@ A alimentação artificial é uma prática essencial na apicultura, especialment
 
 ## Considerações Finais
 A escolha do tipo de alimentador deve ser baseada nas necessidades específicas da colônia e nas condições climáticas. A alimentação artificial deve ser feita com cuidado para evitar a contaminação e garantir a saúde das abelhas.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -3404,10 +3045,6 @@ A apicultura é a prática de criar abelhas para a produção de mel, cera, pró
 
 ## Conclusão
 A apicultura é uma atividade que requer dedicação e conhecimento. Seguindo as orientações deste manual, é possível garantir a saúde das colônias e uma produção de qualidade.
-
-
-
-# CAPÍTULO 14
 
 ## Divisão e União de Enxames
 
@@ -3467,8 +3104,6 @@ A divisão e união de enxames são práticas essenciais na apicultura que podem
 
 Este capítulo fornece uma visão geral das técnicas de divisão e união de enxames, permitindo que os apicultores tomem decisões informadas para o manejo de suas colônias.
 
-
-
 # Manual Técnico de Apicultura
 
 ## 2. Divisão de Enxames
@@ -3501,8 +3136,6 @@ O povoamento do apiário pode se dar de várias formas, como visto no capítulo 
 
 Sabe-se que o apicultor não deve juntar dois enxames em uma colméia de uma só vez, isso porque cada enxame tem um cheiro próprio proveniente do feromônio de sua rainha. Se isto acontecesse, as abelhas entrariam em luta e as perdas seriam desastrosas. Por isto, o xarope de mel com ervas aromáticas é tão importante. É o aroma das ervas que fará com que o cheiro dos enxames seja mascarado, facilitando a união.
 
-
-
 # DIVISÃO E UNIÃO DE ENXAMES
 
 ## 3. União de enxames
@@ -3525,8 +3158,6 @@ Este método é o mais rápido e é indicado somente para as situações onde as
 - Quadros de ninho com lâminas de cera alveolada;
 - Vassourinha ou espanador de abelhas;
 - Xarope de água com mel e ervas aromáticas como erva cidreira, capim santo, etc.
-
-
 
 # MANUAL TÉCNICO DE APICULTURA
 
@@ -3584,8 +3215,6 @@ Este é um método simples, indicado para situações onde as famílias a serem 
 
 Este manual fornece orientações detalhadas para a união de famílias de abelhas, utilizando métodos eficazes para garantir a saúde e a produtividade das colônias.
 
-
-
 # DIVISÃO E UNIÃO DE ENXAMES
 
 ## 6) Reunir as abelhas e os melhores favos em um único ninho após cinco dias da colocação do jornal.
@@ -3594,13 +3223,9 @@ O método é eficiente, pois as abelhas presas no ninho superior roerão o jorna
 
 ### Esquema da união de famílias pelo método do jornal
 
-![Esquema da união de famílias](link_para_imagem)
-
 ----
 
 **Nota:** O esquema mencionado deve ser inserido aqui para melhor compreensão do processo.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -3643,10 +3268,6 @@ A apicultura é uma atividade que pode ser muito gratificante, mas requer dedica
 
 **Foto: Juarez Bruno Silveira**
 
-
-
-# CAPÍTULO 15
-
 ## Controle de Enxameação
 
 **Darcet Costa Souza**
@@ -3656,8 +3277,6 @@ A apicultura é uma atividade que pode ser muito gratificante, mas requer dedica
 O termo enxameação é utilizado na apicultura para definir o comportamento de saída em massa das abelhas do ninho ou colméia, podendo ser ele de dois tipos: o chamado de enxameação migratória ou abandono, e o denominado de enxameação reprodutiva. Ambos estão relacionados à genética das abelhas e às condições ambientais onde se encontram as colônias.
 
 Sabe-se que, na natureza, as abelhas africanizadas possuem uma maior tendência a enxameação que as de raças européias. E que foi graças a este comportamento que elas conseguiram colonizar, em poucos anos, todo o território brasileiro. Porém, se para a expansão destas abelhas o comportamento enxameatório foi importante, para o apicultor ele representa um risco de perda de parte de suas colônias e, consequentemente, da sua produção. Por este motivo, a enxameação deve ser controlada a todo custo pelo apicultor.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -3689,8 +3308,6 @@ Durante este processo, várias rainhas são criadas ao mesmo tempo. Quando uma d
 
 Após a emergência da primeira rainha, ela pode deixar a colônia acompanhada de algumas centenas de operárias ou destruir as demais células com rainhas que estão sendo criadas. Os enxames que saem após o primário são denominados de **enxames secundários**. Os enxames que saíram procuram por um novo abrigo para construírem seus ninhos e, logo que encontram um local adequado, constroem os favos e reiniciam suas atividades normais.
 
-
-
 # Controle de Enxameação
 
 ## 4. Como a enxameação prejudica a produção das colméias
@@ -3711,8 +3328,6 @@ Diante do comprometimento da produção causado pela enxameação, a recomendaç
 ## 5. Como controlar a enxameação
 
 O controle do comportamento enxameatório das abelhas pode ser realizado por meio de ações que previnam a enxameação ou por ações baseadas na antecipação do processo de divisão do enxame, onde se utiliza a enxameação artificial.
-
-
 
 # MANUAL A D R
 
@@ -3746,8 +3361,6 @@ Quando o apicultor abre a colmeia e encontra abelhas ocupando o topo dos quadros
 #### Controlar a idade das rainhas
 Como foi visto em capítulo anterior, as rainhas jovens, com menos de um ano de idade, enxameam menos que rainhas com mais de um ano. Isto é um fato comprovado cientificamente. Por este motivo, o apicultor não deve deixar suas rainhas envelhecerem na colmeia, pois provavelmente estarão sendo substituídas naturalmente pelas próprias abelhas. Além do fato de que as rainhas jovens apresentam outras vantagens, como melhor taxa de postura e desempenho para estimular o crescimento do enxame. Veja no capítulo 12 a importância e como fazer o manejo das rainhas.
 
-
-
 # Controle de Enxameação
 
 ## Seleção de Rainhas Pouco Enxameadeiras
@@ -3761,10 +3374,6 @@ Como a enxameação é um processo natural e muito evidente nas abelhas africani
 
 ### Nota
 Consulte o capítulo específico sobre como proceder para fazer a divisão de uma colônia.
-
-![Foto: Darcet C. Souza](#)
-
-
 
 # Manual Técnico de Apicultura
 
@@ -3820,10 +3429,6 @@ A saúde das abelhas é fundamental para a produtividade. Algumas práticas reco
 
 A apicultura é uma atividade que requer dedicação e conhecimento. Seguindo as orientações deste manual, é possível garantir a saúde das abelhas e a qualidade dos produtos apícolas.
 
-
-
-# CAPÍTULO 16
-
 ## Transporte de Colméias
 
 **Autor: Darcet Costa Souza**
@@ -3836,10 +3441,7 @@ Na apicultura fixa, o apicultor utiliza o transporte de colméias para levar os 
 
 Neste capítulo, trataremos do transporte realizado na apicultura fixa, já que os princípios são os mesmos do transporte em larga escala praticado na apicultura migratória, ficando a diferença no volume de tarefas e na forma de gerenciá-las.
 
-![Abertura de colméias após o transporte.](#)
 *Foto: Darcet C. Souza*
-
-
 
 # MANUAL TÉCNICO DE APICULTURA
 
@@ -3870,8 +3472,6 @@ Durante a revisão, deve-se conferir se todas as partes da colméia estão fixad
 
 Ao final da revisão, a colméia recebe, na sua parte superior, uma tela de transporte, que deve ser fixada com prego ou ligas de borracha, para evitar seu deslocamento durante o transporte. A tela tem por objetivo manter a ventilação no interior da colméia, garantindo suprimento de oxigênio às abelhas. Depois de colocada a tela, deve-se repor a tampa da colméia. Nesse momento, alguns apicultores já fecham parcialmente o alvado das colméias, para facilitar o fechamento total antes do transporte.
 
-
-
 # Manual Técnico de Apicultura
 
 ## 2. Transporte de Colméias
@@ -3901,13 +3501,7 @@ Ao final da revisão, a colméia recebe, na sua parte superior, uma tela de tran
 
 Se os procedimentos acima forem seguidos, o apicultor terá menos chances de enfrentar problemas durante o transporte de suas colméias.
 
-
-
 Parece que você forneceu um texto que parece ser parte de um manual técnico de apicultura, mas está incompleto e não contém informações específicas sobre o conteúdo do manual. Se você tiver perguntas específicas ou se precisar de informações sobre apicultura, manejo de colmeias, cuidados com as abelhas, ou qualquer outro tópico relacionado, sinta-se à vontade para perguntar! Estou aqui para ajudar.
-
-
-
-# CAPÍTULO 17
 
 ## Colheita do Mel
 
@@ -3921,10 +3515,7 @@ Entende-se por colheita de mel todo o processo desde a coleta dos favos nas colm
 
 Ao se falar em colheita do mel, automaticamente se tem que falar em qualidade. Afinal, trata-se de um alimento que é consumido ao natural, sem qualquer tipo de preparo que possa eliminar possíveis riscos à saúde dos consumidores.
 
-![Caminhão carregado com baldes de 25kg de mel.](#)
 *Foto: Darcet C. Souza*
-
-
 
 # Manual Técnico de Apicultura
 
@@ -3949,8 +3540,6 @@ A utilização da fumaça é imprescindível ao manuseio das abelhas. No entanto
 ----
 
 **Favo com mel operculado.**
-
-
 
 # Manual Técnico de Apicultura
 
@@ -3978,8 +3567,6 @@ A utilização da fumaça é imprescindível ao manuseio das abelhas. No entanto
 ----
 
 **Nota:** O mel é uma substância higroscópica, o que significa que tem a capacidade de absorver a umidade do ar. Portanto, deve-se evitar a colheita em dias muito úmidos.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -4012,8 +3599,6 @@ Os manipuladores são geralmente os maiores responsáveis pela contaminação do
 
 Esses cuidados são essenciais para garantir a qualidade do mel e a segurança dos manipuladores.
 
-
-
 # Manual Técnico de Apicultura
 
 ## 4. Colheita do Mel
@@ -4023,7 +3608,6 @@ Os méis embalados em baldes ou tambores devem ser estocados em local fresco e m
 
 ## 5. Procedimentos na Casa do Mel
 
-### 5.1. Recepção das Melgueiras
 As melgueiras chegam à casa do mel pela sala de recepção, local onde receberão limpeza na parte externa antes de serem transferidas para a área de manipulação. A limpeza das melgueiras é feita com o objetivo de eliminar sujidades provenientes do campo. Durante toda a permanência das melgueiras na casa do mel, estas deverão ser mantidas sobre estrados plásticos, evitando assim o contato dos favos com o piso.
 
 ### 5.2. Desoperculação
@@ -4031,10 +3615,6 @@ As melgueiras devem ser levadas para a sala de manipulação em que se vai proce
 
 ### 5.3. Centrifugação
 Somente os quadros totalmente desoperculados devem ser colocados nas centrífugas. Com isso, evita-se possíveis quebras de favos, uma vez que favos parcialmente desoperculados se rompem facilmente durante o processo de centrifugação. Para a realização desta tarefa, poderá ser utilizada centrífuga manual ou automática. Independente do tipo de centrífuga utilizada, o apicultor deve estar atento para iniciar a centrifugação em baixa velocidade e ir aumentando gradualmente.
-
-![Foto: Darcet C. Souza](#)
-
-
 
 # MANUAL TÉCNICO DE APICULTURA
 
@@ -4069,14 +3649,10 @@ O mel envasado deverá ser armazenado em local seco e fresco, mantido ao abrigo 
 - Não circular uniformizados nas áreas externas.
 - Não utilizar adornos como relógios, pulseiras, anéis, brincos e outros.
 
-
-
 # Colheita do Mel
 
 ## Carregamento de um contêiner com mel para exportação
 *Local: Simplício Mendes/PI*
-
-![Foto: Valdete Daniel de Moura](link-da-foto)
 
 ----
 
@@ -4101,8 +3677,6 @@ O mel envasado deverá ser armazenado em local seco e fresco, mantido ao abrigo 
 ### Considerações Finais
 
 A colheita do mel é uma etapa crucial na apicultura, que requer atenção e cuidado para garantir a qualidade do produto final. O manejo adequado não só maximiza a produção, mas também preserva a saúde das colmeias.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -4154,10 +3728,6 @@ A apicultura é uma atividade gratificante que contribui para a biodiversidade e
 
 **Foto: Darcet C. Souza**
 
-
-
-# CAPÍTULO 18
-
 ## Produtos da Colméia
 
 **Francisco Deoclésio G. Paulino**
@@ -4170,10 +3740,7 @@ Na apicultura, é possível a exploração de diversos produtos elaborados pelas
 
 O mel é um produto alimentício produzido pelas abelhas, tendo como matéria-prima o néctar das flores, secreções das partes vivas das plantas ou excreções de insetos sugadores (Ordem Hemiptera: Sub-Ordem Homoptera) que as abelhas coletam, transformam, combinam com suas substâncias próprias (secreções de várias glândulas), armazenam e deixam maturar nos favos da colméia (BRASIL, 2001).
 
-![Abelha coletando pólen.](link_da_foto)
 *Foto: Darcet C. Souza*
-
-
 
 # MANUAL TÉCNICO DE APICULTURA
 
@@ -4218,8 +3785,6 @@ Os principais componentes do mel são os açúcares, contendo também ácidos, p
 
 Este manual fornece uma visão geral sobre a produção e composição do mel, essencial para apicultores e interessados na apicultura.
 
-
-
 # MANUAL TÉCNICO DE APICULTURA
 
 ## 2. PRODUTOS DA COLMÉIA
@@ -4238,10 +3803,6 @@ A colheita do mel deve ser realizada quando mais de 80% dos lados dos favos esti
 
 ## 3. CERA
 As abelhas necessitam de cera para a construção de seus ninhos, sendo este material essencial na formação dos favos. A cera é secretada por quatro pares de glândulas ceríferas localizadas na face ventral dos 4º, 5º, 6º e 7º segmentos abdominais. Normalmente, a cera é produzida por abelhas operárias com idades entre 12 e 18 dias.
-
-![Foto: Darcet C. Souza](#)
-
-
 
 # MANUAL TÉCNICO DE APICULTURA
 
@@ -4270,13 +3831,10 @@ A cera é usada na colmeia para a construção dos favos, sendo também matéria
 O pólen é o gameta masculino das plantas superiores, coletado e transportado pelas abelhas para a colmeia, numa estrutura localizada no terceiro par de pernas e denominada corbícula. Chamamos de pólen apícola o pólen coletado e transportado na corbícula pelas abelhas, que recebe a insalivação, sendo enriquecido com enzimas e vitaminas, e desta forma, estocado nos alvéolos dos favos, passando a ser denominado de “pão das abelhas”.
 
 ### Coletor frontal de pólen
-![Coletor frontal de pólen](#)
 
 ----
 
 **Nota:** As informações contidas neste manual são essenciais para a compreensão e manejo adequado da apicultura, visando a otimização da produção de cera e pólen.
-
-
 
 # MANUAL TÉCNICO DE APICULTURA
 
@@ -4310,10 +3868,7 @@ Uma colônia de abelhas pode coletar até 40 kg de pólen por ano, podendo o api
 
 ----
 
-![Colméia com coletor de pólen frontal instalado.](foto_darcet_c_souza.jpg)
 *Foto: Darcet C. Souza*
-
-
 
 # Manual Técnico de Apicultura
 
@@ -4344,8 +3899,6 @@ As abelhas utilizam a própolis para protegê-las contra insetos e microorganism
 **Pelo homem:**
 A própolis possui ação antimicrobiana, antifúngica, antiparasitária, antivirais, além de propriedades anti-inflamatórias. É utilizada na cura de doenças da pele, doenças do aparelho digestivo e no tratamento de doenças respiratórias, além de possuir vários outros benefícios à saúde.
 
-
-
 # PRODUTOS DA COLMÉIA
 
 ## Própolis
@@ -4366,15 +3919,9 @@ A produção de própolis é mais uma fonte de renda para o apicultor, cujo valo
 
 ### Limpeza da própolis
 
-![Abelhas preenchendo o coletor de própolis](#)
-
-![Foto de limpeza da própolis](#)
-
 ----
 
 *Nota: As imagens mencionadas não estão disponíveis neste texto.*
-
-
 
 # Manual Técnico de Apicultura
 
@@ -4417,10 +3964,6 @@ A apicultura é uma atividade que pode ser muito gratificante, tanto financeiram
 
 **Nota**: Este manual é uma introdução básica à apicultura. Para um manejo mais avançado, recomenda-se a consulta a especialistas e a participação em cursos de apicultura.
 
-
-
-# CAPÍTULO 19
-
 ## A Casa do Mel
 
 **Darcet Costa Souza**
@@ -4437,8 +3980,6 @@ Entende-se por casa do mel o ambiente onde são realizadas a extração e prepar
 
 Serão apresentados a seguir alguns pontos que devem ser observados no planejamento e construção de uma casa do mel.
 
-
-
 # Manual Técnico de Apicultura
 
 ## 1. Planejando a Casa do Mel
@@ -4450,7 +3991,6 @@ A casa do mel deve ser localizada em posição estratégica, facilitando a chega
 
 ### Divisão Interna
 Recomenda-se que a casa possua áreas destinadas a:
-- Recepção de melgueiras
 - Manipulação de favos e mel (para as atividades de desoperculação, centrifugação e decantação)
 - Estocagem de mel centrifugado
 - Banheiro
@@ -4461,7 +4001,6 @@ Os banheiros e vestiários não devem ter comunicação direta com as áreas de 
 
 ### Fluxo de Processamento
 O fluxo do mel no estabelecimento deve ter um único sentido, não sendo admitido o cruzamento entre mel processado e melgueiras no interior da casa do mel. O fluxo deve seguir a seguinte ordem:
-1. Os favos chegam pela porta principal na sala de recepção.
 2. São passados para a área de manipulação, conforme a demanda de favos para desopercular.
 3. Em seguida, vão para a centrifugação.
 4. Após a centrifugação, o mel é filtrado e levado aos decantadores.
@@ -4479,8 +4018,6 @@ Os pisos da casa do mel deverão ser:
 
 Além disso, devem possuir uma inclinação que permita o escoamento dos líquidos para os drenos adequados.
 
-
-
 # Manual Técnico de Apicultura
 
 ## A Casa do Mel
@@ -4489,7 +4026,6 @@ Além disso, devem possuir uma inclinação que permita o escoamento dos líquid
 
 1. **Paredes**
 - Construídas e revestidas com materiais não absorventes, laváveis e de coloração clara até uma altura mínima de 2 metros.
-- Devem ser de fácil limpeza e desinfecção nas áreas de recepção e manipulação.
 - Pintura com tinta lavável de cor clara é admitida nas áreas dos depósitos e vestuário.
 - Os ângulos entre as paredes, entre as paredes e os pisos, e entre paredes e os tetos ou forros devem permitir fácil limpeza, sendo sugerido que sejam arredondados para evitar a formação de cantos.
 
@@ -4530,10 +4066,6 @@ Além disso, devem possuir uma inclinação que permita o escoamento dos líquid
 
 **Depósito de Mel**
 
-![Foto: Darcet C. Souza](#)
-
-
-
 # Manual Técnico de Apicultura
 
 ## 4. Equipamentos e Utensílios
@@ -4546,7 +4078,6 @@ A disposição dos equipamentos deve ser de tal forma que facilite a limpeza e h
 
 A seguir é apresentada uma proposta de uma casa do mel, com área de aproximadamente 54 m², distribuída em:
 
-- Sala de recepção
 - Sala de manipulação
 - Área para estocagem de mel centrifugado
 - Depósito de material de limpeza
@@ -4554,8 +4085,6 @@ A seguir é apresentada uma proposta de uma casa do mel, com área de aproximada
 - Vestiário
 
 A proposta foi concebida pela Universidade Federal do Piauí para atender grupos de apicultores nas comunidades assistidas pela Associação dos Apicultores da Microrregião de Simplício Mendes, no Piauí, e possui a capacidade operacional para o atendimento de um grupo de 350 colméias (considerou-se um fator de produção 0,7 e uma produtividade de 36 kg por colméia em três safras).
-
-
 
 # A CASA DO MEL
 
@@ -4578,11 +4107,7 @@ Neste capítulo, apresentamos os equipamentos e utensílios necessários para a 
 
 Esses itens são fundamentais para garantir a qualidade e a eficiência na produção de mel. A escolha adequada dos equipamentos pode influenciar diretamente na produtividade e na qualidade do produto final.
 
-
-
 Parece que você forneceu um texto que não está completo ou está em um formato que não posso processar diretamente. Se você tiver informações específicas ou se precisar de ajuda com um tópico relacionado à apicultura, como manejo de colmeias, cuidados com as abelhas, ou qualquer outra questão técnica, por favor, forneça mais detalhes e ficarei feliz em ajudar!
-
-
 
 # A CASA DO MEL
 
@@ -4631,11 +4156,7 @@ A apicultura é a prática de criar abelhas para a produção de mel, cera, pró
 
 A apicultura é uma atividade gratificante que requer conhecimento e dedicação. Seguir as diretrizes deste manual ajudará a garantir a saúde das colmeias e a qualidade dos produtos apícolas.
 
-
-
 Parece que você forneceu um texto que não está relacionado ao manual técnico de apicultura. Se você precisar de informações específicas sobre apicultura, como manejo de colmeias, cuidados com as abelhas, ou qualquer outro tópico relacionado, por favor, me avise e ficarei feliz em ajudar!
-
-
 
 # A CASA DO MEL
 
@@ -4691,13 +4212,7 @@ A apicultura é a prática de criar abelhas para a produção de mel, cera, pró
 
 A apicultura é uma atividade gratificante que contribui para a biodiversidade e a produção de alimentos. Seguir as práticas recomendadas neste manual ajudará a garantir o sucesso no manejo das colmeias e na produção de mel de alta qualidade.
 
-
-
 Parece que você forneceu um texto que parece ser parte de um manual técnico de apicultura, mas está incompleto. Se você precisar de informações específicas sobre apicultura, como manejo de colmeias, cuidados com as abelhas, ou qualquer outro tópico relacionado, por favor, me avise! Estou aqui para ajudar.
-
-
-
-# CAPÍTULO 20
 
 ## Pragas e Doenças das Abelhas
 
@@ -4715,8 +4230,6 @@ A criação racional de abelhas pode ser ameaçada por inúmeros inimigos natura
 #### Caixa Explicativa
 **Rusticidade: um diferencial das abelhas africanizadas**
 A rusticidade das abelhas africanizadas possibilita ao Brasil a produção de um mel livre de contaminação de produtos químicos.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -4757,8 +4270,6 @@ As traças constituem um sério problema para os apicultores, principalmente nos
 **Ação:**
 - Monitorar e controlar a presença de traças, especialmente durante o armazenamento das melgueiras.
 
-
-
 # PRAGAS E DOENÇAS DAS ABELHAS
 
 ## Traças das Abelhas
@@ -4788,8 +4299,6 @@ Existem doenças que afetam as crias (larvas e pupas) e outras que atingem as ab
 ### Cuidado no Manejo das Abelhas Doentes
 
 Nas revisões, ao constatar ou suspeitar que uma colônia encontra-se doente, deixe para manejá-la por último e, ao terminar o trabalho, esterilize o formão. Com esses cuidados, você reduz o risco de proliferação da doença.
-
-
 
 # MANUAL TÉCNICO DE APICULTURA
 
@@ -4821,8 +4330,6 @@ A amostra deve vir bem embrulhada somente com papel jornal e colocada dentro de 
 Quando o apicultor suspeitar da ocorrência da CPA em seu apiário, deve tomar as seguintes medidas:
 1. Marcar as colônias com sintomas de CPA;
 2. Coletar uma amostra do favo com crias apresentando sintoma de doença e enviar para análise por intermédio do Ministério da Agricultura ou diretamente para o Laboratório de Patologia Apícola, Departamento de Biologia Animal/UFV, 36570-000 Viçosa/MG.
-
-
 
 # PRAGAS E DOENÇAS DAS ABELHAS
 
@@ -4859,8 +4366,6 @@ Quando o apicultor suspeitar da ocorrência da CPA em seu apiário, deve tomar a
 - A rainha da colméia doente deve ser substituída por outra mais resistente e produtiva.
 - Em caso positivo para Cria Pútrida Americana, o apicultor receberá as devidas instruções para seu controle.
 
-
-
 # MANUAL TÉCNICO DE APICULTURA
 
 ## 3. Doenças de Cria
@@ -4879,8 +4384,6 @@ O barbatimão contém taninos que causam a intoxicação das larvas, impedindo s
 - Coloração da cria: geralmente tem todo o corpo claro, mas pode escurecer a região cefálica, que dará origem à cabeça.
 - Ocorre a formação de líquido entre a epiderme da larva e da pupa em formação. Quando a cria doente é retirada do alvéolo com o auxílio de uma pinça, apresenta formato de saco, com o líquido acumulado na parte inferior.
 
-![Pré-pupa com sintomas de cria ensacada](#)
-
 #### Controle
 - A única forma totalmente eficaz é evitar a instalação de apiários em locais com incidência da planta barbatimão ou mudá-los durante o período de floração para áreas onde não haja a planta em floração. A época de floração varia de espécie para espécie; algumas florescem entre setembro e novembro e outras entre novembro e março.
 - Utilizar substituto de pólen (farelo de soja + fubá + farinha de trigo na proporção 1:1:1) com textura de farinha de trigo em alimentadores coletivos, 15 dias antes e durante toda a florada. Esta medida, se bem conduzida, pode reduzir bastante as perdas das colônias, que em alguns anos e em alguns apiários, pode chegar a 100% em apenas um mês.
@@ -4893,8 +4396,6 @@ O barbatimão contém taninos que causam a intoxicação das larvas, impedindo s
 Esta doença já causou sérios problemas à apicultura brasileira; no entanto, hoje é raro encontrar um caso positivo.
 
 - **Agente causador:** protozoário *Nosema apis*, que se multiplica.
-
-
 
 # PRAGAS E DOENÇAS DAS ABELHAS
 
@@ -4915,7 +4416,6 @@ Assim como ocorreu com a nosemose, hoje dificilmente encontra-se um caso de acar
 - Abelhas rastejando na frente da colméia e no alvado, com as asas disjuntas, impossibilitadas de voar.
 
 ## 3.2.3 Varroatose ou varroase
-![Varroa sobre cria de abelha](link_para_imagem)
 
 **Agente causador:**
 - Ácaro ectoparasita *Varroa destructor*.
@@ -4932,8 +4432,6 @@ Também são citadas na literatura outras doenças que acometem as abelhas adult
 - **Septicemia** (agente causador: bactérias).
 
 Para confirmar o diagnóstico destas doenças, é necessário enviar cerca de 30 a 50 abelhas moribundas, coletadas na frente do alvado, para o endereço citado na página 154. Essas amostras podem ser enviadas dentro de caixas de fósforo.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -4985,10 +4483,6 @@ A apicultura é uma atividade gratificante que contribui para a biodiversidade e
 
 **Foto: Darcet C. Souza**
 
-
-
-# CAPÍTULO 21
-
 ## Escrituração Zootécnica
 
 **Marcos Antônio Martins Tavares**
@@ -5005,10 +4499,6 @@ A Escrituração Zootécnica é a anotação de dados referentes à exploração
 ### 2. Por que fazer?
 
 Existem basicamente dois motivos que justificam a anotação e coleta de dados: monitorar a produtividade e conhecer o custo de produção. Nenhuma atividade econômica pode sobreviver e prosperar a longo prazo sem que se conheça o custo de seu produto e os fatores que o determinam. Nas atividades da agropecuária, a produtividade é fundamental.
-
-![Foto: Júlio Cezar Lucena](#)
-
-
 
 # MANUAL TÉCNICO DE APICULTURA
 
@@ -5037,14 +4527,11 @@ As fichas de anotações são ferramentas essenciais, mas nunca são definitivas
 
 ### Tipos de Fichas
 
-- **Ficha de Revisão de Apiário (FRA)**
 - **Ficha Individual de Colméia (FIC)**
 - **Ficha de Florada (FF)**
 - **Formulário de Recomendações Técnicas (FRT)**
 
 Se você notar que uma informação não está sendo utilizada ou que uma ficha é desnecessária, apresente sua solução ou correção ao seu supervisor. A simplificação é sempre um objetivo a ser perseguido.
-
-
 
 # MANUAL TÉCNICO DE APICULTURA
 
@@ -5052,7 +4539,6 @@ Se você notar que uma informação não está sendo utilizada ou que uma ficha 
 
 Para um controle completo do apiário, são utilizadas quatro fichas de anotação (veja anexos):
 
-1. **Ficha de Revisão do Apiário (FRA)**
 2. **Ficha Individual da Colméia (FIC)**
 3. **Formulário de Recomendações Técnicas (FRT)**
 4. **Ficha das Floradas (FF)**
@@ -5070,7 +4556,6 @@ Para um controle completo do apiário, são utilizadas quatro fichas de anotaç�
 ### Materiais Necessários
 
 - Pasta para arquivar as fichas
-- Fichas de Revisão do Apiário (FRA)
 - Fichas Individuais das Colméias (FIC)
 - Fichas das Floradas (FF)
 - Formulário de Recomendações Técnicas (FRT) - autocopiativo, 2 vias
@@ -5084,8 +4569,6 @@ Como premissa básica, todas as colméias devem estar numeradas na frente e no f
 ----
 
 **Foto: Júlio Cezar Lucena**
-
-
 
 # Manual Técnico de Apicultura
 
@@ -5107,8 +4590,6 @@ Nos casos em que o apicultor possua muitas colméias (mais de 50), é recomendá
 A primeira coisa a fazer quando se chega para uma visita ao apicultor é pedir a pasta e dar uma olhada nas últimas revisões realizadas e conferir se foram realizadas as Recomendações Técnicas. Perguntar sobre a revisão que o apicultor realizou sozinho, como está a situação geral e ocorrências no apiário.
 
 O ADR deve se preparar para fazer as revisões das colméias, não esquecendo de levar a Ficha de Revisão onde tudo será anotado. Após a revisão de apiário, o ADR deve preencher o Formulário de Recomendações Técnicas (FRT) com as anotações e providências a serem tomadas pelo apicultor, que com isso será cobrado na próxima visita. O apicultor executa as recomendações do FRT e anota na Ficha.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -5135,7 +4616,6 @@ Todas as informações devem ser registradas nas fichas oficiais do programa. A 
 
 ### Anexos
 
-1. **Ficha de Revisão do Apiário (FRA)**
 2. **Ficha Individual da Colméia (FIC)**
 3. **Formulário de Recomendações Técnicas (FRT)**
 4. **Ficha das Floradas (FF)**
@@ -5144,11 +4624,7 @@ Todas as informações devem ser registradas nas fichas oficiais do programa. A 
 
 Este manual é uma ferramenta essencial para garantir a eficácia e a segurança nas práticas de apicultura, promovendo um ambiente de aprendizado e confiança entre os apicultores e os agentes de desenvolvimento.
 
-
-
 Parece que você forneceu um texto que pode ser parte de um documento ou manual, mas não está claro qual informação específica você gostaria de obter ou discutir sobre apicultura. Se você puder fornecer mais detalhes ou uma pergunta específica, ficarei feliz em ajudar!
-
-
 
 # Manual Técnico de Apicultura
 
@@ -5197,11 +4673,7 @@ A escrituração zootécnica é uma ferramenta essencial para o apicultor, pois 
 
 Este manual deve ser utilizado como um guia para a prática da apicultura, promovendo a eficiência e a saúde das colmeias.
 
-
-
 Parece que você forneceu um texto que não está completo ou está em um formato que não posso processar diretamente. Se você tiver informações específicas ou se precisar de ajuda com um tópico relacionado à apicultura, como manejo de colmeias, cuidados com as abelhas, ou qualquer outra questão técnica, por favor, forneça mais detalhes e ficarei feliz em ajudar!
-
-
 
 # Manual Técnico de Apicultura
 
@@ -5242,8 +4714,6 @@ Os tratamentos contra doenças e pragas devem ser registrados, incluindo a data 
 ### 5. Conclusão
 A escrituração zootécnica é uma ferramenta essencial para o apicultor, permitindo um melhor controle sobre a produção e a saúde das colmeias. Manter registros precisos e atualizados é fundamental para o sucesso da atividade apícola.
 
-
-
 # Manual Técnico de Apicultura
 
 ## Introdução
@@ -5279,8 +4749,6 @@ A apicultura é a prática de criar abelhas para a produção de mel, cera, pró
 ## Conclusão
 A apicultura é uma atividade que requer conhecimento e dedicação. Seguindo as orientações deste manual, é possível garantir a saúde das colmeias e a qualidade dos produtos apícolas.
 
-
-
 # ACIDENTES COM ABELHAS
 
 ## C A P Í T U L O  22
@@ -5297,8 +4765,6 @@ A apicultura é uma atividade que requer conhecimento e dedicação. Seguindo as
 As abelhas utilizadas em nossa apicultura são denominadas de africanizadas, um híbrido resultado do cruzamento das várias raças europeias criadas no Brasil com a abelha africana introduzida em 1956. Este híbrido, que se adaptou muito bem às condições climáticas brasileiras, possui entre suas características marcantes a de ser bastante agressivo. Esta agressividade, que foi herdada da raça africana, criou a necessidade do desenvolvimento de um conjunto de recomendações técnicas para garantir a segurança do apicultor e das pessoas que vivem nas proximidades da criação.
 
 Contudo, mesmo utilizando-se de todas as recomendações técnicas para o trabalho com as abelhas, algumas vezes podem ocorrer acidentes, sendo necessário que se saiba quais as providências a serem tomadas, uma vez que estes acidentes podem pôr em risco a vida de pessoas. Por este motivo, estaremos apresentando a seguir informações sobre o veneno das abelhas e algumas recomendações básicas para o primeiro atendimento de vítimas de acidentes com abelhas. É sempre bom lembrar que não existe antídoto específico para a ferroada de abelha, por isso, as pessoas alérgicas devem tomar cuidado redobrado e consultar imediatamente um médico.
-
-
 
 # MANUAL TÉCNICO DE APICULTURA
 
@@ -5324,8 +4790,6 @@ O veneno da abelha *Apis mellifera* é incolor, transparente e solúvel em água
 ----
 
 *Nota: O texto foi interrompido. Para informações adicionais, consulte a seção correspondente do manual.*
-
-
 
 # ACIDENTES COM ABELHAS
 
@@ -5358,8 +4822,6 @@ O veneno da abelha *Apis mellifera* é incolor, transparente e solúvel em água
 ----
 
 Este manual técnico fornece informações essenciais sobre os efeitos do veneno de abelha e as possíveis reações adversas, tanto não alérgicas quanto imunológicas, que podem ocorrer após a ferroada. É fundamental que apicultores e pessoas que trabalham com abelhas estejam cientes desses riscos e saibam como agir em caso de acidentes.
-
-
 
 # MANUAL TÉCNICO DE APICULTURA
 
@@ -5395,8 +4857,6 @@ O ferrão das abelhas é farpado, e ao ser introduzido na vítima, ele fica ader
 ----
 
 Este manual é uma referência técnica para apicultores e deve ser utilizado para garantir a segurança e o manejo adequado das abelhas, bem como para a prevenção de acidentes relacionados a ferroadas.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -5435,8 +4895,6 @@ Em caso de acidentes, leve imediatamente a vítima para receber atendimento méd
 6. **Manifestações Respiratórias**: Manifestações respiratórias asmatiformes, devido ao broncoespasmo, podem ser controladas com oxigênio nasal, inalações e broncodilatadores.
 
 7. **Medidas Gerais de Suporte**: Manutenção das condições vitais e do equilíbrio ácido-básico. O choque anafilático, a insuficiência respiratória e a insuficiência renal aguda devem ser tratadas de maneira rápida e vigorosa.
-
-
 
 # Glossário - Manual - ADR
 
@@ -5492,8 +4950,6 @@ Planta cujo pólen é tóxico às abelhas, matando-as na fase de pré-pupa. Os s
 
 ### CAIXA-ISCA
 Colmeias ou núcleos utilizados com a finalidade de capturar enxames na natureza, são preparados colocando-se nos...
-
-
 
 # Manual Técnico de Apicultura
 
@@ -5562,8 +5018,6 @@ Substâncias catalizadoras produzidas tanto por plantas como por animais, inclus
 ### Espermateca
 Estrutura presente no aparelho reprodutor da rainha, onde são armazenados os espermatozóides recebidos pela rainha durante o vôo nupcial. Nas operárias, esta estrutura é atrofiada e não funcional.
 
-
-
 # MANUAL TÉCNICO DE APICULTURA
 
 ## Termos e Definições
@@ -5628,8 +5082,6 @@ Procedimentos técnicos que os apicultores utilizam no trabalho com as abelhas c
 ### Mel Multifloral
 É o mel originário de várias fontes florais, sem que ocorra a predominância de nenhuma florada específica.
 
-
-
 # Manual Técnico de Apicultura
 
 ## Glossário de Termos
@@ -5688,7 +5140,6 @@ Terceiro estágio de desenvolvimento das abelhas. Nesse estágio a cria não se 
 ### Quadro
 Também conhecido como caixilho, serve de moldura para os favos.
 
-### Revisão de Colméias
 Visitas periódicas realizadas às colônias com o objetivo de mantê-las em boas condições, para que possam produzir satisfatoriamente nos períodos de floradas.
 
 ### Substâncias de Rainha
@@ -5697,29 +5148,20 @@ São feromônios produzidos pelas glândulas mandibulares da rainha e que desemp
 ### Tela Excludora
 Tela confeccionada de arame, plástico ou chapa metálica, construída para permitir apenas a passagem das operárias, sendo utilizada entre o ninho e a melgueira ou no alvado da colméia.
 
-
-
 # MANUAL TÉCNICO DE APICULTURA
 
-## Bibliografia Consultada
-
-### CAPÍTULO 1
 Sem consulta
 
-### CAPÍTULO 2
 Sem consulta
 
-### CAPÍTULO 3
 Sem consulta
 
-### CAPÍTULO 4
 - AMARAL, E. e ALVES, S. B. *Insetos Úteis*. Piracicaba: Livroceres, 1979. 192p.
 - APISERVICES. *Honey-Market*. Capturado em 24/03/2004. On-line. Disponível na internet: http://www.apiservices.com
 - CAÑAS, S. *Comercio internacional de miel*. Vida Apícola, 115:35-45, 2002.
 - CRANE, E. *O livro do mel*. São Paulo: ed. Nobel, 1983. 226p.
 - VELOSO FILHO, F. A.; SOUZA, D. C.; AQUINO, C. M. S. e MOURA, S. G. *Estudo dos arranjos produtivos locais da apicultura no estado do Piauí (Picos e Teresina)*. Teresina: UFPI/IE/UFRJ, 2003. 47p. (Relatório final)
 
-### CAPÍTULO 5
 - AMARAL, E; ALVES, S. B. *Insetos úteis*. Piracicaba: Livroceres, 1979. 188p.
 - Brasileira de Apicultura, 1998. 270p.
 - CAMARGO, J. M. F de. *Manual de apicultura*. São Paulo: Ceres, 1972. 251p.
@@ -5732,29 +5174,21 @@ Sem consulta
 - WINSTON, L. M. *The biology of the honey bee*. Cambridge: Press, 1987. 281p.
 - XII CONGRESSO BRASILEIRO DE APICULTURA, 12, Salvador, 1998, Anais. Salvador: Confederação Brasileira de Apicultura. 1998. 270 p.
 
-### CAPÍTULO 6
 - CAMARGO, J.M.F. de. *Manual de Apicultura*. São Paulo: Ceres, 1972. 251p.
 - MARTINHO, M.R. *Criação racional de abelhas*. 2ª ed. São Paulo: Globo, 1989. 180p.
 - WIESE, H. *Nova Apicultura*. Guaíba: Agropecuária, 1993. 493p. il
 
-### CAPÍTULO 7
 - AMARAL, E. e ALVES, S. B. *Insetos Úteis*. Piracicaba: Livroceres, 1979. 192p.
 - COUTO, R. H. N. e COUTO, L. A. *Apicultura: manejo e produtos*. Jaboticabal: FUNEP, 2002. 191p.
 - DONNINI, W. L. F. *Aprenda a criar abelhas*. São Paulo: ed. Três ltda, 1986. 80p.
 - JEAN-PROST, P. *Apicultura*. Palermo: Ed. Mundi-Prensa, 1985. 573p.
 - WISSE, H. *Apicultura novos tempos*. Guaíba: Ed. Agropecuária, 2000. 424p.
 
-### CAPÍTULO 8
 - CAMARGO, J.M.F. de. *Manual de Apicultura*. São Paulo: Ceres, 1972. 251p.
 - MARTINHO, M.R. *Criação racional de abelhas*. 2ª ed. São Paulo: Globo, 1989. 180p.
 
-
-
 # Manual Técnico de Apicultura
 
-## Referências Bibliográficas
-
-### CAPÍTULO 9
 - AMARAL, E.; ALVES, S. B. **Insetos úteis**. Piracicaba: Livroceres, 1979. 188 p.
 - COUTO, R. H. N. e COUTO, L. A. **Apicultura: manejo e produtos**. Jaboticabal: FUNEP, 2002. 191 p.
 - DADAT &#x26; SONS. **La colmena y la abeja melifera**. Montevideo: Hemisferio Sur, 1975. 936 p.
@@ -5762,7 +5196,6 @@ Sem consulta
 - ROOT, A. I. **ABC y X Y Z de la Apicultura**. Argentina: Hemisferio Sur, 1985. 723 p.
 - WIESE, H. **Apicultura novos tempos**. Guaíba: Agropecuária, 2000. 421 p.
 
-### CAPÍTULO 10
 - AMARAL, E.; ALVES, S. B. **Insetos úteis**. Piracicaba: Livroceres, 1979. 188 p.
 - COUTO, R. H. N. e COUTO, L. A. **Apicultura: manejo e produtos**. Jaboticabal: FUNEP, 2002. 191 p.
 - DADAT &#x26; SONS. **La colmena y la abeja melifera**. Montevideo: Hemisferio Sur, 1975. 936 p.
@@ -5770,7 +5203,6 @@ Sem consulta
 - ROOT, A. I. **ABC y X Y Z de la Apicultura**. Argentina: Hemisferio Sur, 1985. 723 p.
 - WIESE, H. **Apicultura novos tempos**. Guaíba: Agropecuária, 2000. 421 p.
 
-### CAPÍTULO 11
 - AMARAL, E.; ALVES, S. B. **Insetos úteis**. Piracicaba: Livroceres, 1979. 188 p.
 - COUTO, R. H. N. e COUTO, L. A. **Apicultura: manejo e produtos**. Jaboticabal: FUNEP, 2002. 191 p.
 - DADAT &#x26; SONS. **La colmena y la abeja melifera**. Montevideo: Hemisferio Sur, 1975. 936 p.
@@ -5778,7 +5210,6 @@ Sem consulta
 - ROOT, A. I. **ABC y X Y Z de la Apicultura**. Argentina: Hemisferio Sur, 1985. 723 p.
 - WIESE, H. **Apicultura novos tempos**. Guaíba: Agropecuária, 2000. 421 p.
 
-### CAPÍTULO 12
 - DUAY, P.R. **Manejo para o aumento da produtividade**. In: XI Congresso Brasileiro de Apicultura, Teresina/PI, Resumo e palestras. Confederação Brasileira de Apicultura, p. 121-124, 1996.
 - FERRAR, C.L. **Productive management of honey-bees colonies (I)**. American Bee Journal, 133 (1): 29-31, 1993.
 - FERRAR, C.L. **Productive management of honey-bees colonies (II)**. American Bee Journal, 133 (2): 109-111, 1993.
@@ -5788,22 +5219,15 @@ Sem consulta
 - SOUZA, D.C. **Manejo de rainhas**. In: XII Congresso Brasileiro de Apicultura, Salvador/BA, Resumo e palestras. Confederação Brasileira de Apicultura, p. 72-75, 1998.
 - SOUZA, D.C. **Captura de enxames de abelhas africanizadas: Como evitar acidentes e aumentar as colônias do seu apiário**. In: XIV Congresso Brasileiro de Apicultura, Campo Grande/MS, Resumo e palestras. Confederação Brasileira de Apicultura, p. 161-165, 2002.
 
-### CAPÍTULO 13
 - CRANE, E. **O livro do mel**. São Paulo: Nobel, 1983. 226 p.
 - LINGLER, S. **Alimentação das abelhas**. In: CONGRESSO BRASILEIRO DE APICULTURA, 13, 2000, Florianópolis, Anais... p. 45... par. CD_ROM. Seção conferência.
 - HORR, B. Z. **Salt – an important deity supplement in honey bee nutrition?** American Bee Journal, v. 138, n. 9, p. 662, 1998.
 - ALENCAR, L. C. **Estudo comparativo da alimentação suplementar de colméias de Apis mellifera com xarope e rapadura de cana-de-açúcar (Saccharum officinarum)**. Teresina: UFPI, 1998. 16 p. Trabalho de Conclusão de Curso.
 
-### CAPÍTULO 14
 - AMARGO, J.M.F. de. **Manual de Apicultura**. São Paulo: Ceres, 1972. 251 p.
-
-
 
 # Manual Técnico de Apicultura
 
-## Referências Bibliográficas
-
-### CAPÍTULO 15
 - FLETCHER, D. J. C. Management of Apis mellifera adansonii for honey production in Southern Africa. In: Apicultura em clima quente, Simpósio Internacional, 1978, Florianópolis, Apimondia, Anais... p. 86-89. 1979.
 - FREE, J. B. A organização social das abelhas (Apis). São Paulo: Ed. Universitária de São Paulo, 1980. 79 p.
 - HAUSER, H. &#x26; LENSKY, Y. The effect of age of the honey bee (Apis mellifera L) queen on worker population, swarming and honey yields in a subtropical climate. Apidologie, 25:566-578. 1994.
@@ -5816,21 +5240,18 @@ Sem consulta
 - WEAVER, R. S. The importance of requeening honeybee colonies in a hot climate. In: Apicultura em clima quente, Simpósio Internacional, 1978, Florianópolis, Apimondia, Anais... p. 174-177. 1978.
 - WINSTON, M. L. The biology of the honey bee. Harvard: Harvard University Press, 1987. 281 p.
 
-### CAPÍTULO 16
 - AMARAL, E. e ALVES, S. B. Insetos Úteis. Piracicaba: Livroceres, 1979. 192 p.
 - COUTO, R. H. N. e COUTO, L. A. Apicultura: manejo e produtos. Jaboticabal: FUNEP, 2002. 191 p.
 - JEAN-PROST, P. Apicultura. Palermo: Ed. Mundi-Prensa, 1985. 573 p.
 - GIL, J. M. S. Apicultura. Barcelona: Ed. AEDOS, 1980. 418 p.
 - WISSE, H. Apicultura novos tempos. Guaíba: Ed. Agropecuária, 2000. 424 p.
 
-### CAPÍTULO 17
 - COUTO, R. H. N. e COUTO, L. A. Apicultura: manejo e produtos. Jaboticabal: FUNEP, 2002. 191 p.
 - CRANE, E. O livro do mel. São Paulo: ed. Nobel, 1983. 226 p.
 - SOUZA, D. C. e SILVEIRA, F. A. Mel de qualidade exige cuidado. Informe Agropecuário, 13(149): 38-43.
 - SOUZA, D. C.; BARRETO, A. C.; CARNEIRO, J. G. M.; RÊGO, J. G. S. e MURATORI, M. C. S. Produzindo mel com qualidade. Teresina: UFPI/SEBRAE, 2001. 16 p.
 - TOWNSEND, G. F. Removing the crop and extracting the honey. In: The hive and the honey bee. 4 ed. Hamilton: Dadant &#x26; Sons, 1975. p. 413-428.
 
-### CAPÍTULO 18
 - AMARAL, E; ALVES, S. B. Insetos úteis. Piracicaba: Livroceres, 1979. 188 p.
 - BARTH, O. M. Pólen brasileiro. Rio de Janeiro: ed. Luxor, 1989. 150 p.
 - CAMPOS, G. Melato no mel e sua determinação através de diferentes metodologias. Belo Horizonte, 1998 (Tese de Doutorado – Escola de Veterinária – UFMG).
@@ -5840,27 +5261,19 @@ Sem consulta
 - MARCUCCI, M. C. Propriedades biológicas e terapêuticas dos constituintes químicos da própolis. Química nova, v. 19, n. 5, p. 529-535, 1996.
 - ORTH, A. I.; MARTINS, Mel de melato: Um grande potencial para a Apicultura de exportação do sul do Brasil. In: CONGRESSO BRASILEIRO DE APICULTURA, 15, 2004, Natal, Anais... CD-ROM. Seção palestras e conferências.
 
-
-
 # Manual Técnico de Apicultura
 
-## Referências
-
-### Capítulo 19
 - **SOUZA, D. C.; FERNANDO da. SILVEIRA.** Mel de boa qualidade exige cuidados. *Informe agropecuário*, v. 13, n. 149, p. 38-43, 1987.
 - **Normas higiênico-sanitárias e tecnológicas para mel, cera de abelhas e derivados** - Portaria SIPA n° 006, de 25 de julho de 1985. Brasília.
 - **Regulamento técnico sobre as condições higiênico-sanitárias de boas Práticas de fabricação para estabelecimentos elaboradores/industrializadores de alimentos** - Portaria DIPOA n° 368, de 04 de setembro de 1997. Brasília: MA/DAS/DIPOA/DNT, 1997.
 
-### Capítulo 20
 - **CAMARGO, J.M.F. de.** Manual de Apicultura. São Paulo: Ceres, 1972. 251p.
 - **MARTINHO, M.R.** Criação racional de abelhas. 2ª ed. São Paulo: Globo, 1989. 180p.
 - **ROOT, A.I.** A, B, C, y X, Y, Z de la apicultura. Argentina: Hemisfério Sur, 1985. 723p.
 - **WIESE, H.** Nova Apicultura. Guaíba: Agropecuária, 1993. 493p. il.
 
-### Capítulo 21
 - Sem consulta
 
-### Capítulo 22
 - **COSTA, C.T.A.** 1995. Efeito modulador dos componentes do veneno de abelha sobre os danos citogenéticos induzidos pela radiação gama em ratos Wistar. Dissertação de Mestrado. FMRP-USP, 70 páginas.
 - **FERREIRA, D.B.** 1990. Envenenamento experimental em ratos com peçonha de abelhas africanizadas: Anatomia patológica, enzimas séricas (AST e CK) e catecolaminas cardíacas. Dissertação de Mestrado. FMRP-USP, 206 pp.
 - **FERREIRA, D.B.** 1993. Cardiotoxidade experimentalmente induzida em ratos Wistar por peçonha de abelhas africanizadas. Tese de Doutorado, FMRP-USP, 138 pp.
@@ -5873,8 +5286,6 @@ Sem consulta
 ----
 
 Este manual técnico é uma fonte abrangente de informações sobre apicultura, incluindo normas, práticas de manejo e referências acadêmicas relevantes.
-
-
 
 # Mini Curriculum
 
@@ -5901,8 +5312,6 @@ Este manual técnico é uma fonte abrangente de informações sobre apicultura, 
 - **Comissões**: Coordenador da Comissão de Patologia Apícola da CBA, membro da Comissão Técnica Científica da CBA e membro do Comitê Científico Consultivo em Sanidade Apícola do Ministério da Agricultura Pecuária e Abastecimento.
 - **Consultoria**: Consultor do Sebratec na área de apicultura.
 
-
-
 # Manual Técnico de Apicultura
 
 ## Equipe Técnica
@@ -5914,12 +5323,8 @@ Este manual técnico é uma fonte abrangente de informações sobre apicultura, 
 
 ### JOSÉ XAVIER LEAL NETO
 - **Formação**: Engenheiro Agrônomo pela UFC
-- **Pós-graduação**: Mestre em Zootecnia pela UFC - 1998
-- **Atuação**: Apicultor, instrutor de cursos em apicultura, supervisor do Projeto APIS e consultor em apicultura do SEBRAE-CE.
 
 ### KLEBER ANDRADE DA SILVA
-- **Formação**: Engenheiro Agrônomo pela UFC - 1999
-- **Atuação**: Instrutor de cursos de apicultura e consultor em apicultura do SEBRAE-CE e SEBRAE-PE.
 
 ### MARCOS ANTÔNIO MARTINS TAVARES
 - **Formação**: Médico Veterinário pela Universidade Estadual do Ceará - 1987
@@ -5927,10 +5332,7 @@ Este manual técnico é uma fonte abrangente de informações sobre apicultura, 
 - **Atuação**: Consultor em Agronegócios do SEBRAE-CE, multiplicador do programa Iniciando um Pequeno Grande Negócio Agroindustrial (IPGNA), consultor dos Projetos APIS e APRISCO no Ceará.
 
 ### PAULO AIRTON DE MACEDO E SILVA
-- **Formação**: Engenheiro Agrônomo pela UFC - 1982
 - **Atuação**: Apicultor, Presidente da Federação Cearense de Apicultura (FECAP), Vice-Presidente da Confederação Brasileira de Apicultura (CBA), instrutor de cursos em apicultura, supervisor do Projeto APIS-CE e consultor em apicultura do SEBRAE-CE.
-
-
 
 # Manual Técnico de Apicultura
 
@@ -6016,4 +5418,3 @@ Este manual técnico é uma fonte abrangente de informações sobre apicultura, 
 ----
 
 Este manual é uma referência para apicultores e interessados na prática da apicultura, com informações sobre a equipe revisora e suas respectivas regiões.
-
