@@ -5,9 +5,9 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_core.documents import Document
 
 # --- CONFIGURAÇÕES GERAIS ---
-PASTA_ENTRADA = "manuais_md"      # Onde estão seus textos limpos
-PASTA_SAIDA_DB = "chroma_db"      # Onde o banco será salvo
-NOME_MODELO = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
+PASTA_ENTRADA = os.path.join("data", "manuais_md")      # Onde estão seus textos limpos
+PASTA_SAIDA_DB = os.path.join("data", "chroma_db_bert") # Onde o banco será salvo
+NOME_MODELO = "ruanchaves/bert-base-portuguese-cased-assin2-similarity"
 
 def carregar_manuais(pasta):
     """Lê todos os arquivos .md da pasta e retorna uma lista de documentos."""

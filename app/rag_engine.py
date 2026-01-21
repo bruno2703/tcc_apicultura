@@ -11,7 +11,7 @@ from langchain_core.output_parsers import StrOutputParser
 load_dotenv()
 
 class ApiculturaRAG:
-    def __init__(self):
+    def __init__(self, model_name=None, pasta_db=None):
         """
         Inicializa o motor RAG. Carrega o banco vetorial e o LLM na memória.
         Isso roda apenas uma vez quando a API inicia.
@@ -20,17 +20,22 @@ class ApiculturaRAG:
         
         # 1. Configuração de Caminhos
         self.diretorio_atual = os.path.dirname(os.path.abspath(__file__))
-        # Ajuste o caminho conforme sua estrutura: app/rag_engine.py -> data/chroma_db
-        self.pasta_db = os.path.join(self.diretorio_atual, "..", "data", "chroma_db")
+        
+        # Define modelo e pasta padrão se não informados (BERT-PT agora é o padrão)
+        self.model_name = model_name or "ruanchaves/bert-base-portuguese-cased-assin2-similarity"
+        if pasta_db:
+            self.pasta_db = pasta_db
+        else:
+            self.pasta_db = os.path.join(self.diretorio_atual, "..", "data", "chroma_db_bert")
         
         # 2. Validar API Key
         if not os.getenv("GROQ_API_KEY"):
             raise ValueError("❌ ERRO CRÍTICO: GROQ_API_KEY não encontrada no .env!")
 
-        # 3. Carregar Embeddings (O mesmo usado na ingestão)
-        print("⏳ Carregando Embeddings (MiniLM Multilíngue)...")
+        # 3. Carregar Embeddings
+        print(f"⏳ Carregando Embeddings ({self.model_name})...")
         self.embedding_model = HuggingFaceEmbeddings(
-            model_name="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+            model_name=self.model_name,
             model_kwargs={'device': 'cpu'} # Use 'cpu' se não tiver GPU no servidor
         )
 
