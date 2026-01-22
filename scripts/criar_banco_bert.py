@@ -59,18 +59,33 @@ def main():
         model_kwargs={'device': 'cpu'} 
     )
 
-    # 4. CRIAR E SALVAR O BANCO DE DADOS (CHROMA)
-    print(f"\n--- 4. Criando e Salvando o Banco de Vetores (BERT) ---")
+    # 4. CRIAR E SALVAR O BANCO DE DADOS EM LOTES (BATCHING)
+    print(f"\n--- 4. Criando e Salvando o Banco de Vetores BERT (Lotes de 50) ---")
     
     if not os.path.exists("data"):
         os.makedirs("data")
 
-    # Esta linha faz tudo: Vetoriza e Salva no disco
-    vector_store = Chroma.from_documents(
-        documents=chunks,
-        embedding=embedding_model,
+    # Inicializa o banco vazio conectado à pasta
+    vector_store = Chroma(
+        collection_name="apicultura_db", # Nome consistente
+        embedding_function=embedding_model,
         persist_directory=PASTA_SAIDA_DB
     )
+
+    total_chunks = len(chunks)
+    tamanho_lote = 50
+
+    # Loop para processar em fatias
+    for i in range(0, total_chunks, tamanho_lote):
+        lote = chunks[i : i + tamanho_lote]
+        print(f"   Processando lote {i} até {min(i + tamanho_lote, total_chunks)} de {total_chunks}...")
+        
+        # Adiciona o lote e salva
+        vector_store.add_documents(documents=lote)
+        
+        # Pequena pausa para o sistema respirar (bom para memória limitada)
+        import time
+        time.sleep(0.5)
     
     print(f"\n[SUCESSO] Banco de dados BERT criado em: {os.path.abspath(PASTA_SAIDA_DB)}")
     print("Agora você pode comparar este modelo com o MiniLM!")
